@@ -4,8 +4,8 @@
     "slug": "kebab-station",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Circonvallazione Gianicolense 2, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.8738052,
+    "lng": 12.4655076,
     "categories": [
       "Kebab"
     ],
@@ -23,8 +23,8 @@
     "slug": "gusto-turco",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Corso Giuseppe Garibaldi, 24 B, Brescia",
-    "lat": null,
-    "lng": null,
+    "lat": 45.5412975,
+    "lng": 10.2132147,
     "categories": [
       "Altro"
     ],
@@ -42,8 +42,8 @@
     "slug": "franz-burger",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via la Spezia 127, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.8871705,
+    "lng": 12.5197422,
     "categories": [
       "Burger"
     ],
@@ -61,8 +61,8 @@
     "slug": "bartholomew",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via delle sette chiese 80, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.861154,
+    "lng": 12.485431,
     "categories": [
       "Altro"
     ],
@@ -80,8 +80,8 @@
     "slug": "favole-di-pane-bakery-bistrot",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Tiburtina 544, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.908433,
+    "lng": 12.5428336,
     "categories": [
       "Panificio"
     ],
@@ -99,8 +99,8 @@
     "slug": "farinando-roma",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Luca della Robbia 30-34, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.8789372,
+    "lng": 12.477851,
     "categories": [
       "Altro"
     ],
@@ -118,8 +118,8 @@
     "slug": "margheri-pizza",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Sant'Ottavio 51C, Torino",
-    "lat": null,
-    "lng": null,
+    "lat": 45.0711112,
+    "lng": 7.697157699999999,
     "categories": [
       "Pizzeria"
     ],
@@ -137,8 +137,8 @@
     "slug": "disneypizza",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Circonvallazione Gianicolense 141/C, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.8733491,
+    "lng": 12.447972,
     "categories": [
       "Pizzeria"
     ],
@@ -156,8 +156,8 @@
     "slug": "panificio-e-gastronomia-ghiotto",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Roma, 160, Latina",
-    "lat": null,
-    "lng": null,
+    "lat": 41.23505249999999,
+    "lng": 13.090303,
     "categories": [
       "Panificio",
       "Gastronomia"
@@ -177,8 +177,8 @@
     "slug": "panificio-da-ciccio",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Lenin 32, Castelli Romani",
-    "lat": null,
-    "lng": null,
+    "lat": 41.8491805,
+    "lng": 12.4469162,
     "categories": [
       "Panificio"
     ],
@@ -253,8 +253,8 @@
     "slug": "tondo",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Cola Montano 12, Milano",
-    "lat": null,
-    "lng": null,
+    "lat": 45.4880758,
+    "lng": 9.185614,
     "categories": [
       "Altro"
     ],
@@ -272,8 +272,8 @@
     "slug": "sorelle-giordano",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Viale Giulio Agricola 121, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.85405009999999,
+    "lng": 12.5600372,
     "categories": [
       "Altro"
     ],
@@ -329,8 +329,8 @@
     "slug": "pizzeria-i-decumani",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via dei Tribunali, Napoli",
-    "lat": null,
-    "lng": null,
+    "lat": 40.8515175,
+    "lng": 14.2588326,
     "categories": [
       "Pizzeria"
     ],
@@ -348,8 +348,8 @@
     "slug": "tandem",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Mezzocannone, Napoli",
-    "lat": null,
-    "lng": null,
+    "lat": 40.8466032,
+    "lng": 14.2560753,
     "categories": [
       "Altro"
     ],
@@ -367,8 +367,8 @@
     "slug": "i-fritti-de-sora-milvia",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Cassia 4, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.9379701,
+    "lng": 12.4660435,
     "categories": [
       "Altro"
     ],
@@ -386,8 +386,8 @@
     "slug": "pizzeria-kebab-lupin",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Strada Massimo D'Azeglio 104, Parma",
-    "lat": null,
-    "lng": null,
+    "lat": 44.8036628,
+    "lng": 10.3164383,
     "categories": [
       "Pizzeria",
       "Kebab"
@@ -407,8 +407,8 @@
     "slug": "pizza-fantasy-pizzeria-al-taglio-in-teglia-e-pizze-tonde-da-asporto-e-domicilio",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Viale Antonio Ciamarra 49, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.8486152,
+    "lng": 12.5907304,
     "categories": [
       "Pizzeria"
     ],
@@ -426,8 +426,8 @@
     "slug": "mizzica",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Catanzaro 20-36, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.9122238,
+    "lng": 12.5178224,
     "categories": [
       "Altro"
     ],
@@ -445,8 +445,8 @@
     "slug": "trippaio-del-porcellino",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Piazza del Mercato Nuovo, Firenze",
-    "lat": null,
-    "lng": null,
+    "lat": 43.7698579,
+    "lng": 11.2540422,
     "categories": [
       "Altro"
     ],
@@ -483,8 +483,8 @@
     "slug": "perino-vesco",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Camillo Benso Conte di Cavour 10, Torino",
-    "lat": null,
-    "lng": null,
+    "lat": 45.0651816,
+    "lng": 7.6829721,
     "categories": [
       "Altro"
     ],
@@ -502,8 +502,8 @@
     "slug": "forno-dolce-forno-roma",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Piazza Bologna 15, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.91276149999999,
+    "lng": 12.5205353,
     "categories": [
       "Panificio"
     ],
@@ -559,8 +559,8 @@
     "slug": "la-panetteria-arrivabene",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "C.so Francia 393, Torino",
-    "lat": null,
-    "lng": null,
+    "lat": 45.0737971,
+    "lng": 7.6074867,
     "categories": [
       "Panificio"
     ],
@@ -616,8 +616,8 @@
     "slug": "wap-modena",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Antonio Scarpa 24, Modena",
-    "lat": null,
-    "lng": null,
+    "lat": 44.644085,
+    "lng": 10.9271326,
     "categories": [
       "Altro"
     ],
@@ -635,8 +635,8 @@
     "slug": "il-divin-panino",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Corso Bolzano 10, Torino",
-    "lat": null,
-    "lng": null,
+    "lat": 45.0691618,
+    "lng": 7.665017600000001,
     "categories": [
       "Paninoteca"
     ],
@@ -844,8 +844,8 @@
     "slug": "occhetti-paolo",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Corso Siracusa 72/E, Torino",
-    "lat": null,
-    "lng": null,
+    "lat": 45.0471511,
+    "lng": 7.634012899999999,
     "categories": [
       "Altro"
     ],
@@ -863,8 +863,8 @@
     "slug": "pane-cioccolato",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Pietro Maffi 105, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.9256751,
+    "lng": 12.4195441,
     "categories": [
       "Panificio"
     ],
@@ -882,8 +882,8 @@
     "slug": "faliero-torta-de-la-maria",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via di Montebuono 2 (Montebuono), Perugia",
-    "lat": null,
-    "lng": null,
+    "lat": 43.0867565,
+    "lng": 12.1989057,
     "categories": [
       "Altro"
     ],
@@ -901,8 +901,8 @@
     "slug": "pancaldo",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Viale Jonio 354, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.9461013,
+    "lng": 12.5284835,
     "categories": [
       "Altro"
     ],
@@ -920,8 +920,8 @@
     "slug": "eroi-della-pizza",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Piazzale degli Eroi 4, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.9086902,
+    "lng": 12.4472646,
     "categories": [
       "Pizzeria"
     ],
@@ -977,8 +977,8 @@
     "slug": "macelleria-equina-da-saretto",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Viale Mario Rapisardi 694, Catania",
-    "lat": null,
-    "lng": null,
+    "lat": 37.507274,
+    "lng": 15.0474247,
     "categories": [
       "Macelleria"
     ],
@@ -1015,8 +1015,8 @@
     "slug": "friggitoria-chiluzzo",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Piazza della Kalsa 11, Palermo",
-    "lat": null,
-    "lng": null,
+    "lat": 38.11631089999999,
+    "lng": 13.3730114,
     "categories": [
       "Friggitoria"
     ],
@@ -1034,8 +1034,8 @@
     "slug": "franco-u-vastiddaru",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Vittorio Emanuele 102, Palermo",
-    "lat": null,
-    "lng": null,
+    "lat": 38.1178649,
+    "lng": 13.3670318,
     "categories": [
       "Altro"
     ],
@@ -1053,8 +1053,8 @@
     "slug": "cukuc",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Str. Ponte della Pietra - S. Vetturino 1, Perugia",
-    "lat": null,
-    "lng": null,
+    "lat": 43.0757073,
+    "lng": 12.3645881,
     "categories": [
       "Altro"
     ],
@@ -1072,8 +1072,8 @@
     "slug": "il-re-del-kebab",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Guido Reni 30, Padova",
-    "lat": null,
-    "lng": null,
+    "lat": 45.4314901,
+    "lng": 11.8897454,
     "categories": [
       "Kebab"
     ],
@@ -1110,8 +1110,8 @@
     "slug": "la-casa-del-pane",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Mastro Gabriello 42, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.9927502,
+    "lng": 12.4860127,
     "categories": [
       "Panificio"
     ],
@@ -1129,8 +1129,8 @@
     "slug": "rivareno-gelato",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Magnagrecia 25, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.88462759999999,
+    "lng": 12.5096694,
     "categories": [
       "Gelateria"
     ],
@@ -1167,8 +1167,8 @@
     "slug": "waa-smash-burger",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "3 Rue Houdon (18th Arrondissement), Paris",
-    "lat": null,
-    "lng": null,
+    "lat": 48.8828001,
+    "lng": 2.3378757,
     "categories": [
       "Burger"
     ],
@@ -1205,8 +1205,8 @@
     "slug": "the-chef-lab",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Bergamo, 8A, Monza",
-    "lat": null,
-    "lng": null,
+    "lat": 45.5837659,
+    "lng": 9.282946899999999,
     "categories": [
       "Altro"
     ],
@@ -1224,8 +1224,8 @@
     "slug": "pizza-del-corso",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Corso Umberto I 29, Mantova",
-    "lat": null,
-    "lng": null,
+    "lat": 45.1576917,
+    "lng": 10.7913195,
     "categories": [
       "Pizzeria"
     ],
@@ -1243,8 +1243,8 @@
     "slug": "panificio-e-pasticceria-morgantini-sas-di-virtuani-francesca-c",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Mario Morgantini 11, Milano",
-    "lat": null,
-    "lng": null,
+    "lat": 45.4700031,
+    "lng": 9.1346323,
     "categories": [
       "Panificio",
       "Pasticceria"
@@ -1283,8 +1283,8 @@
     "slug": "flower-of-gracia",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Carrer de Bruniquer 9, Barcelona",
-    "lat": null,
-    "lng": null,
+    "lat": 41.4042489,
+    "lng": 2.1598859,
     "categories": [
       "Altro"
     ],
@@ -1302,8 +1302,8 @@
     "slug": "pane-e-pazienza",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Portuense 429A/B, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.8627128,
+    "lng": 12.453955,
     "categories": [
       "Panificio"
     ],
@@ -1378,8 +1378,8 @@
     "slug": "focaccia-e-dintorni",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via di Canneto Il Curto 54r/56r, Genova",
-    "lat": null,
-    "lng": null,
+    "lat": 44.4083739,
+    "lng": 8.9296592,
     "categories": [
       "Focacceria"
     ],
@@ -1397,8 +1397,8 @@
     "slug": "il-profumo-del-pane",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Orti 12, Milano",
-    "lat": null,
-    "lng": null,
+    "lat": 45.4549827,
+    "lng": 9.2003903,
     "categories": [
       "Panificio"
     ],
@@ -1416,8 +1416,8 @@
     "slug": "burger-wave-roma",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Chiabrera 207, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.85181499999999,
+    "lng": 12.478924,
     "categories": [
       "Burger"
     ],
@@ -1454,8 +1454,8 @@
     "slug": "panificio-fiore",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Strada Palazzo di Città 38, Bari",
-    "lat": null,
-    "lng": null,
+    "lat": 41.1297836,
+    "lng": 16.8709049,
     "categories": [
       "Panificio"
     ],
@@ -1473,8 +1473,8 @@
     "slug": "becheri",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Giuseppe Stefano Incisa 9, Asti",
-    "lat": null,
-    "lng": null,
+    "lat": 44.8995056,
+    "lng": 8.2038405,
     "categories": [
       "Altro"
     ],
@@ -1492,8 +1492,8 @@
     "slug": "frumento-e-caffe",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Luigi Cibrario 45c, Torino",
-    "lat": null,
-    "lng": null,
+    "lat": 45.07975390000001,
+    "lng": 7.660476800000001,
     "categories": [
       "Bar"
     ],
@@ -1511,8 +1511,8 @@
     "slug": "pizzeria-ternana",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Alessandria 170, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.9132348,
+    "lng": 12.5048682,
     "categories": [
       "Pizzeria"
     ],
@@ -1549,8 +1549,8 @@
     "slug": "bar-tavola-calda-domio",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Località Domio 132, San Dorligo della Valle",
-    "lat": null,
-    "lng": null,
+    "lat": 45.6112395,
+    "lng": 13.8287947,
     "categories": [
       "Bar",
       "Gastronomia"
@@ -1570,8 +1570,8 @@
     "slug": "bella-istanbul",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Corso Racconigi 30/A, Torino",
-    "lat": null,
-    "lng": null,
+    "lat": 45.0715471,
+    "lng": 7.646752800000001,
     "categories": [
       "Altro"
     ],
@@ -1589,8 +1589,8 @@
     "slug": "vecchio-forno",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Adige 98, Monterotondo",
-    "lat": null,
-    "lng": null,
+    "lat": 42.0562267,
+    "lng": 12.6234494,
     "categories": [
       "Panificio"
     ],
@@ -1608,8 +1608,8 @@
     "slug": "panificio-giordano",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Appia Nuova, 50, Latina",
-    "lat": null,
-    "lng": null,
+    "lat": 41.291414,
+    "lng": 13.2462442,
     "categories": [
       "Panificio"
     ],
@@ -1684,8 +1684,8 @@
     "slug": "lomino-della-farina",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Antonino Giuffrè 124, Trigoria",
-    "lat": null,
-    "lng": null,
+    "lat": 41.7716252,
+    "lng": 12.4761268,
     "categories": [
       "Altro"
     ],
@@ -1703,8 +1703,8 @@
     "slug": "atena-focacce",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Scipione Crisanzio 8/A, Bari",
-    "lat": null,
-    "lng": null,
+    "lat": 41.1197387,
+    "lng": 16.8689069,
     "categories": [
       "Altro"
     ],
@@ -1722,8 +1722,8 @@
     "slug": "rossopomodoro",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Largo di Torre Argentina 1, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.8958772,
+    "lng": 12.4762352,
     "categories": [
       "Altro"
     ],
@@ -1779,8 +1779,8 @@
     "slug": "fatti-di-farina-old-bakery-roma",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Galeazzo Alessi 245, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.8793398,
+    "lng": 12.5412429,
     "categories": [
       "Panificio"
     ],
@@ -1798,8 +1798,8 @@
     "slug": "panificio-betlemme",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via S. Vito, Milano",
-    "lat": null,
-    "lng": null,
+    "lat": 45.4595025,
+    "lng": 9.1829851,
     "categories": [
       "Panificio"
     ],
@@ -1836,8 +1836,8 @@
     "slug": "forno-de-carolis",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via del Trullo 280, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.844305,
+    "lng": 12.43613,
     "categories": [
       "Panificio"
     ],
@@ -1874,8 +1874,8 @@
     "slug": "istanbul-ayasofya-turkish-kebappizzagrill",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Dante Alighieri 89, Alessandria",
-    "lat": null,
-    "lng": null,
+    "lat": 44.9127258,
+    "lng": 8.62041,
     "categories": [
       "Pizzeria"
     ],
@@ -1893,8 +1893,8 @@
     "slug": "il-pane-garbato",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Circonvallazione Ostiense, 158, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.8669881,
+    "lng": 12.4867533,
     "categories": [
       "Panificio"
     ],
@@ -1931,8 +1931,8 @@
     "slug": "frolla-couture",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Felice Frasi, 8/F, Piacenza",
-    "lat": null,
-    "lng": null,
+    "lat": 45.0511261,
+    "lng": 9.694792699999999,
     "categories": [
       "Altro"
     ],
@@ -2087,8 +2087,8 @@
     "slug": "pim-pam-burger",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Carrer del Sabateret 4, Barcelona",
-    "lat": null,
-    "lng": null,
+    "lat": 41.3857518,
+    "lng": 2.1823437,
     "categories": [
       "Burger"
     ],
@@ -2106,8 +2106,8 @@
     "slug": "panificio-langolo-del-pane",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Leonardo Da Vinci, 80, Latina",
-    "lat": null,
-    "lng": null,
+    "lat": 41.4623188,
+    "lng": 12.9107751,
     "categories": [
       "Panificio"
     ],
@@ -2125,8 +2125,8 @@
     "slug": "triticum-the-art-of-flour-sagl",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Viale Stefano Franscini 27, Lugano",
-    "lat": null,
-    "lng": null,
+    "lat": 41.87194,
+    "lng": 12.56738,
     "categories": [
       "Altro"
     ],
@@ -2144,8 +2144,8 @@
     "slug": "il-bello-del-pane-forno-san-maurizio",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Thomas Edison 10, Reggio nell'Emilia",
-    "lat": null,
-    "lng": null,
+    "lat": 44.6841535,
+    "lng": 10.6744492,
     "categories": [
       "Panificio"
     ],
@@ -2226,8 +2226,8 @@
     "slug": "quattro-stagioni",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Giuseppe Bagnera 65, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.86355940000001,
+    "lng": 12.4668882,
     "categories": [
       "Altro"
     ],
@@ -2245,8 +2245,8 @@
     "slug": "panificio-gisa-rossella",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Alessandro Mallarda 9, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.9196446,
+    "lng": 12.54638,
     "categories": [
       "Panificio"
     ],
@@ -2283,8 +2283,8 @@
     "slug": "porcobrado-roma",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Urbana 31, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.8963784,
+    "lng": 12.4942513,
     "categories": [
       "Altro"
     ],
@@ -2302,8 +2302,8 @@
     "slug": "pizza-chef-roma",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Clelia 63a, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.8752405,
+    "lng": 12.5272457,
     "categories": [
       "Pizzeria"
     ],
@@ -2340,8 +2340,8 @@
     "slug": "rosticceria-imperatore",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Colli Aminei (likely address)",
-    "lat": null,
-    "lng": null,
+    "lat": 40.8702084,
+    "lng": 14.2378796,
     "categories": [
       "Gastronomia"
     ],
@@ -2359,8 +2359,8 @@
     "slug": "non-solo-pane-di-zarino-silvana",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Viganotti, 15, Vercelli",
-    "lat": null,
-    "lng": null,
+    "lat": 45.3174079,
+    "lng": 8.4177748,
     "categories": [
       "Panificio"
     ],
@@ -2435,8 +2435,8 @@
     "slug": "lepolveri-micro-panificio",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Ausonio 7, Milano",
-    "lat": null,
-    "lng": null,
+    "lat": 45.459352,
+    "lng": 9.174016199999999,
     "categories": [
       "Panificio"
     ],
@@ -2473,8 +2473,8 @@
     "slug": "i-panini-di-miro",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "P.za Aldrovandi 5/2a, Bologna",
-    "lat": null,
-    "lng": null,
+    "lat": 44.4930388,
+    "lng": 11.3519045,
     "categories": [
       "Altro"
     ],
@@ -2511,8 +2511,8 @@
     "slug": "forno-bertollini",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Prenestina 392, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.89471,
+    "lng": 12.5614721,
     "categories": [
       "Panificio"
     ],
@@ -2530,8 +2530,8 @@
     "slug": "da-demir",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Piazza Adriano 6/F, Torino",
-    "lat": null,
-    "lng": null,
+    "lat": 45.0710342,
+    "lng": 7.6540854,
     "categories": [
       "Altro"
     ],
@@ -2549,8 +2549,8 @@
     "slug": "calapasta-take-away",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Giuseppe Petroni 3B, Bologna",
-    "lat": null,
-    "lng": null,
+    "lat": 44.4946841,
+    "lng": 11.352105,
     "categories": [
       "Altro"
     ],
@@ -2587,8 +2587,8 @@
     "slug": "il-giardino-della-pizza",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Viale Somalia 94, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.9357356,
+    "lng": 12.5160317,
     "categories": [
       "Pizzeria"
     ],
@@ -2606,8 +2606,8 @@
     "slug": "dal-tenerissimo",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Plebiscito 746/750, Catania",
-    "lat": null,
-    "lng": null,
+    "lat": 37.507387,
+    "lng": 15.0800347,
     "categories": [
       "Altro"
     ],
@@ -2646,8 +2646,8 @@
     "slug": "bar-stepi",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Lanzo 78, Torino",
-    "lat": null,
-    "lng": null,
+    "lat": 45.1125059,
+    "lng": 7.6598512,
     "categories": [
       "Bar"
     ],
@@ -2665,8 +2665,8 @@
     "slug": "buffet-da-gildo",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Valdirivo 20, Trieste",
-    "lat": null,
-    "lng": null,
+    "lat": 45.6536111,
+    "lng": 13.7733333,
     "categories": [
       "Altro"
     ],
@@ -2684,8 +2684,8 @@
     "slug": "baozi-dumplings",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Giovanni Celoria 2, Milano",
-    "lat": null,
-    "lng": null,
+    "lat": 45.4757004,
+    "lng": 9.2278615,
     "categories": [
       "Altro"
     ],
@@ -2722,8 +2722,8 @@
     "slug": "la-quinta-del-sordo-bacaro",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via del Suffragio 86, Trento",
-    "lat": null,
-    "lng": null,
+    "lat": 46.0708394,
+    "lng": 11.1246033,
     "categories": [
       "Altro"
     ],
@@ -2741,8 +2741,8 @@
     "slug": "caffe-alvino",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Piazza Sant'Oronzo 30, Lecce",
-    "lat": null,
-    "lng": null,
+    "lat": 40.3529265,
+    "lng": 18.1727696,
     "categories": [
       "Bar",
       "Enoteca"
@@ -2762,8 +2762,8 @@
     "slug": "rosticceria-imperatore",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Viale Colli Aminei 66, Napoli",
-    "lat": null,
-    "lng": null,
+    "lat": 40.8688663,
+    "lng": 14.2352517,
     "categories": [
       "Gastronomia"
     ],
@@ -2781,8 +2781,8 @@
     "slug": "mastro-donato-pizza-gourmet",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Marmorata 61, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.8793742,
+    "lng": 12.4784186,
     "categories": [
       "Pizzeria"
     ],
@@ -2800,8 +2800,8 @@
     "slug": "filante",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Piazzale Susa 1, Milano",
-    "lat": null,
-    "lng": null,
+    "lat": 45.4684584,
+    "lng": 9.2229639,
     "categories": [
       "Altro"
     ],
@@ -2819,8 +2819,8 @@
     "slug": "o-famo-strano",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Viale dello Scalo S. Lorenzo 11, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.8932059,
+    "lng": 12.5157985,
     "categories": [
       "Altro"
     ],
@@ -2838,8 +2838,8 @@
     "slug": "focacceria-il-budego",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Camillo Benso Conte di Cavour 9, Alba",
-    "lat": null,
-    "lng": null,
+    "lat": 44.7011778,
+    "lng": 8.034545999999999,
     "categories": [
       "Focacceria"
     ],
@@ -2893,8 +2893,8 @@
     "slug": "panini-de-santis",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Corso Magenta 9, Milano",
-    "lat": null,
-    "lng": null,
+    "lat": 45.4655161,
+    "lng": 9.179697599999999,
     "categories": [
       "Altro"
     ],
@@ -2912,8 +2912,8 @@
     "slug": "ruspante",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Urbano Rattazzi 1l, Torino",
-    "lat": null,
-    "lng": null,
+    "lat": 45.0634969,
+    "lng": 7.681862600000001,
     "categories": [
       "Altro"
     ],
@@ -2931,8 +2931,8 @@
     "slug": "mokkate-pucciaria",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Santa Giulia 40/C, Torino",
-    "lat": null,
-    "lng": null,
+    "lat": 45.0700273,
+    "lng": 7.697917700000001,
     "categories": [
       "Altro"
     ],
@@ -2950,8 +2950,8 @@
     "slug": "panificio-artigianale-sapore-antico",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Umberto I, 100, Latina",
-    "lat": null,
-    "lng": null,
+    "lat": 41.4629583,
+    "lng": 12.905451,
     "categories": [
       "Panificio"
     ],
@@ -2986,8 +2986,8 @@
     "slug": "da-fausi",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Corso Emilia 9/11, Torino",
-    "lat": null,
-    "lng": null,
+    "lat": 45.0833981,
+    "lng": 7.6860253,
     "categories": [
       "Altro"
     ],
@@ -3005,8 +3005,8 @@
     "slug": "bakery-m",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Viale Libia 207, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.9324811,
+    "lng": 12.5198022,
     "categories": [
       "Panificio"
     ],
@@ -3081,8 +3081,8 @@
     "slug": "breizh-cafe-abbesses",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "93 Rue des Martyrs (18th Arrondissement), Paris",
-    "lat": null,
-    "lng": null,
+    "lat": 48.8842888,
+    "lng": 2.3396051,
     "categories": [
       "Bar"
     ],
@@ -3119,8 +3119,8 @@
     "slug": "dalla-zita",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Gorizia 16, Padova",
-    "lat": null,
-    "lng": null,
+    "lat": 45.407875,
+    "lng": 11.8764975,
     "categories": [
       "Altro"
     ],
@@ -3138,8 +3138,8 @@
     "slug": "pasticceria-delizie-ditalia",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Viale Italia, 80, Latina",
-    "lat": null,
-    "lng": null,
+    "lat": 41.4667733,
+    "lng": 12.9010549,
     "categories": [
       "Pasticceria"
     ],
@@ -3176,8 +3176,8 @@
     "slug": "zoppo",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Strada Comunale di Mongreno 25, Torino",
-    "lat": null,
-    "lng": null,
+    "lat": 45.0797997,
+    "lng": 7.734666400000001,
     "categories": [
       "Altro"
     ],
@@ -3233,8 +3233,8 @@
     "slug": "pizzeria-tavola-calda-felice-e-silvana",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Piazza Testaccio 28, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.87993640000001,
+    "lng": 12.476833,
     "categories": [
       "Pizzeria",
       "Gastronomia"
@@ -3273,8 +3273,8 @@
     "slug": "blend-burgers-smoked",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Giambattista Ruoppolo 93, Napoli",
-    "lat": null,
-    "lng": null,
+    "lat": 40.8499168,
+    "lng": 14.2271629,
     "categories": [
       "Burger"
     ],
@@ -3292,8 +3292,8 @@
     "slug": "w300",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Piazza Piero Puricelli 25, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.8598207,
+    "lng": 12.4565815,
     "categories": [
       "Altro"
     ],
@@ -3311,8 +3311,8 @@
     "slug": "curry-co",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Giuseppe Verdi 45/a, Torino",
-    "lat": null,
-    "lng": null,
+    "lat": 45.0673448,
+    "lng": 7.695317299999998,
     "categories": [
       "Altro"
     ],
@@ -3387,8 +3387,8 @@
     "slug": "il-fornaio",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via dell'Olmo 38, Castelli Romani",
-    "lat": null,
-    "lng": null,
+    "lat": 41.8090213,
+    "lng": 12.6809533,
     "categories": [
       "Panificio"
     ],
@@ -3539,8 +3539,8 @@
     "slug": "pizzeria-la-tradizione",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Viale Kennedy, 90, Latina",
-    "lat": null,
-    "lng": null,
+    "lat": 41.4590773,
+    "lng": 12.8782608,
     "categories": [
       "Pizzeria"
     ],
@@ -3558,8 +3558,8 @@
     "slug": "agora-olive-ascolane",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Piazza Arringo 49, Ascoli Piceno",
-    "lat": null,
-    "lng": null,
+    "lat": 42.853631,
+    "lng": 13.5765645,
     "categories": [
       "Altro"
     ],
@@ -3577,8 +3577,8 @@
     "slug": "il-maritozzaro",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Ettore Rolli 50, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.8733024,
+    "lng": 12.4673233,
     "categories": [
       "Altro"
     ],
@@ -3596,8 +3596,8 @@
     "slug": "turkish-pascia-kebab",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via A. Tosoni, 1, Brescia",
-    "lat": null,
-    "lng": null,
+    "lat": 45.5558492,
+    "lng": 10.227307,
     "categories": [
       "Kebab"
     ],
@@ -3653,8 +3653,8 @@
     "slug": "il-gusto-di-altamura",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Ponte Marino 9, Ravenna",
-    "lat": null,
-    "lng": null,
+    "lat": 44.4193462,
+    "lng": 12.199428,
     "categories": [
       "Altro"
     ],
@@ -3672,8 +3672,8 @@
     "slug": "pasticceria-natale",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Salvatore Trinchese 7, Lecce",
-    "lat": null,
-    "lng": null,
+    "lat": 40.3533655,
+    "lng": 18.1734223,
     "categories": [
       "Pasticceria"
     ],
@@ -3691,8 +3691,8 @@
     "slug": "bar-alba",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Piazza Don Bosco 7/c, Palermo",
-    "lat": null,
-    "lng": null,
+    "lat": 38.1443866,
+    "lng": 13.3450681,
     "categories": [
       "Bar"
     ],
@@ -3710,8 +3710,8 @@
     "slug": "fatamorgana-trastevere",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Roma Libera 11, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.8865059,
+    "lng": 12.4691714,
     "categories": [
       "Altro"
     ],
@@ -3729,8 +3729,8 @@
     "slug": "briciole-microbakery-e-gastronomia-di-quartiere",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via dei Noci 5, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.882994,
+    "lng": 12.5650483,
     "categories": [
       "Panificio",
       "Gastronomia"
@@ -3769,8 +3769,8 @@
     "slug": "forneria-pane-e-sapori",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via delle Grazie, 22, Brescia",
-    "lat": null,
-    "lng": null,
+    "lat": 45.5423602,
+    "lng": 10.2135454,
     "categories": [
       "Panificio"
     ],
@@ -3788,8 +3788,8 @@
     "slug": "carnellis-bakery",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Corso di Porta Ticinese 60, Milano",
-    "lat": null,
-    "lng": null,
+    "lat": 45.4557635,
+    "lng": 9.1805568,
     "categories": [
       "Panificio"
     ],
@@ -3824,8 +3824,8 @@
     "slug": "panificio-avetta",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Luigi Cibrario 37, Torino",
-    "lat": null,
-    "lng": null,
+    "lat": 45.0792043,
+    "lng": 7.661758499999999,
     "categories": [
       "Panificio"
     ],
@@ -3881,8 +3881,8 @@
     "slug": "forno-urbano",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Gianantonio Manci 20, Trento",
-    "lat": null,
-    "lng": null,
+    "lat": 46.0697485,
+    "lng": 11.1222135,
     "categories": [
       "Panificio"
     ],
@@ -3900,8 +3900,8 @@
     "slug": "pizzeria-a-taglio-angelo-e-simonetta",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Nomentana 581, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.9327282,
+    "lng": 12.5284481,
     "categories": [
       "Pizzeria"
     ],
@@ -3919,8 +3919,8 @@
     "slug": "gina-la-piadina",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Pietro Gobetti 13, Asti",
-    "lat": null,
-    "lng": null,
+    "lat": 44.899686,
+    "lng": 8.2042511,
     "categories": [
       "Altro"
     ],
@@ -3938,8 +3938,8 @@
     "slug": "bar-filovia",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Fondamenta Santa Chiara 521, Venezia",
-    "lat": null,
-    "lng": null,
+    "lat": 45.4386267,
+    "lng": 12.3185801,
     "categories": [
       "Bar"
     ],
@@ -3957,8 +3957,8 @@
     "slug": "meydan-kebap-pizza-grill",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Giovanni Battista Pergolesi 3, Milano",
-    "lat": null,
-    "lng": null,
+    "lat": 45.4833436,
+    "lng": 9.2129146,
     "categories": [
       "Pizzeria"
     ],
@@ -4035,8 +4035,8 @@
     "slug": "salumeria-simoni-laboratorio",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Pescherie Vecchie 3b, Bologna",
-    "lat": null,
-    "lng": null,
+    "lat": 44.49366330000001,
+    "lng": 11.344253,
     "categories": [
       "Altro"
     ],
@@ -4092,8 +4092,8 @@
     "slug": "mindujo-ponte-milvio",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Piazzale di Ponte Milvio 3, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.9367692,
+    "lng": 12.4657754,
     "categories": [
       "Altro"
     ],
@@ -4111,8 +4111,8 @@
     "slug": "tripperia-pollini-lampredotto",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via dei Macci 126, Firenze",
-    "lat": null,
-    "lng": null,
+    "lat": 43.771336,
+    "lng": 11.2664595,
     "categories": [
       "Altro"
     ],
@@ -4130,8 +4130,8 @@
     "slug": "testone-via-settevalli",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": " Via Settevalli 445, Perugia",
-    "lat": null,
-    "lng": null,
+    "lat": 43.07647739999999,
+    "lng": 12.3638087,
     "categories": [
       "Altro"
     ],
@@ -4149,8 +4149,8 @@
     "slug": "saloon-del-panino-portuense",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Portuense 519, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.8596727,
+    "lng": 12.4513703,
     "categories": [
       "Paninoteca"
     ],
@@ -4187,8 +4187,8 @@
     "slug": "prestipino-duomo",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Piazza del Duomo 1, Catania",
-    "lat": null,
-    "lng": null,
+    "lat": 37.5028541,
+    "lng": 15.0871515,
     "categories": [
       "Altro"
     ],
@@ -4206,8 +4206,8 @@
     "slug": "o-cuzzetiello-panineria-take-away-napoli",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Rimini 51, Napoli",
-    "lat": null,
-    "lng": null,
+    "lat": 40.8574506,
+    "lng": 14.2747843,
     "categories": [
       "Altro"
     ],
@@ -4225,8 +4225,8 @@
     "slug": "bakery-freddi-freddi-di-virgilio-fabio-snc",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Piazza Felice Cavallotti 7, Mantova",
-    "lat": null,
-    "lng": null,
+    "lat": 45.1571801,
+    "lng": 10.7892894,
     "categories": [
       "Panificio"
     ],
@@ -4244,8 +4244,8 @@
     "slug": "the-butcher-shop",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Nomentana 647, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.9354459,
+    "lng": 12.5363499,
     "categories": [
       "Altro"
     ],
@@ -4263,8 +4263,8 @@
     "slug": "il-vecchio-forno-di-trenno",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Fratelli Rizzardi 1, Milano",
-    "lat": null,
-    "lng": null,
+    "lat": 45.4919184,
+    "lng": 9.1008816,
     "categories": [
       "Panificio"
     ],
@@ -4341,8 +4341,8 @@
     "slug": "panificio-pasticceria-manu-di-curcelli-danilo",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Piazza Conti di Rebaudengo 2, Torino",
-    "lat": null,
-    "lng": null,
+    "lat": 45.1018181,
+    "lng": 7.6949416,
     "categories": [
       "Panificio",
       "Pasticceria"
@@ -4362,8 +4362,8 @@
     "slug": "la-cantine-bretonne",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "22bis Rue de l'Ourcq (19th Arrondissement), Paris",
-    "lat": null,
-    "lng": null,
+    "lat": 48.8892477,
+    "lng": 2.3839921,
     "categories": [
       "Altro"
     ],
@@ -4400,8 +4400,8 @@
     "slug": "panetto",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Viale Giovanni Suzzani 248, Milano",
-    "lat": null,
-    "lng": null,
+    "lat": 45.5232448,
+    "lng": 9.2074605,
     "categories": [
       "Panificio"
     ],
@@ -4419,8 +4419,8 @@
     "slug": "il-forno-del-panetta",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Brizi Eugenio 1, Milano",
-    "lat": null,
-    "lng": null,
+    "lat": 45.4380356,
+    "lng": 9.2286055,
     "categories": [
       "Panificio"
     ],
@@ -4514,8 +4514,8 @@
     "slug": "round",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "25 Rue Louis Blanc (10th Arrondissement), Paris",
-    "lat": null,
-    "lng": null,
+    "lat": 48.8800714,
+    "lng": 2.3665774,
     "categories": [
       "Altro"
     ],
@@ -4533,8 +4533,8 @@
     "slug": "forno-santa-lucia",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Corso della Repubblica, 30, Latina",
-    "lat": null,
-    "lng": null,
+    "lat": 41.4711861,
+    "lng": 12.9027889,
     "categories": [
       "Panificio"
     ],
@@ -4571,8 +4571,8 @@
     "slug": "panetteria-il-forno",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Corso Alcide De Gasperi 5N, Torino",
-    "lat": null,
-    "lng": null,
+    "lat": 45.0580489,
+    "lng": 7.6626902,
     "categories": [
       "Panificio"
     ],
@@ -4628,8 +4628,8 @@
     "slug": "poulet-roti",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via di Santa Maria Goretti 52, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.9316627,
+    "lng": 12.5202855,
     "categories": [
       "Altro"
     ],
@@ -4666,8 +4666,8 @@
     "slug": "fiorenzano-pizzeria-trattoria",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Pignasecca, Napoli",
-    "lat": null,
-    "lng": null,
+    "lat": 40.8456618,
+    "lng": 14.2480938,
     "categories": [
       "Pizzeria",
       "Ristorante"
@@ -4687,8 +4687,8 @@
     "slug": "mondo-arancina",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Marcantonio Colonna 38, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.90958,
+    "lng": 12.4670893,
     "categories": [
       "Altro"
     ],
@@ -4706,8 +4706,8 @@
     "slug": "pizzeria-kebab-roma",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Laurentina 595, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.82270520000001,
+    "lng": 12.4798874,
     "categories": [
       "Pizzeria",
       "Kebab"
@@ -4727,8 +4727,8 @@
     "slug": "mariuccia",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "P.za della Cancelleria 92, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.8960392,
+    "lng": 12.4719565,
     "categories": [
       "Altro"
     ],
@@ -4746,8 +4746,8 @@
     "slug": "fiori-di-zucca-la-pizza-napoletana-a-casa-tua-zona-marconi",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Giuseppe Peano 46, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.865645,
+    "lng": 12.4715732,
     "categories": [
       "Pizzeria"
     ],
@@ -4765,8 +4765,8 @@
     "slug": "panificio-violante",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Addis Abeba 12, Bari",
-    "lat": null,
-    "lng": null,
+    "lat": 41.119824,
+    "lng": 16.8818843,
     "categories": [
       "Panificio"
     ],
@@ -4784,8 +4784,8 @@
     "slug": "antico-forno-serpenti",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via dei Serpenti 122/123, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.8962461,
+    "lng": 12.4902668,
     "categories": [
       "Panificio"
     ],
@@ -4803,8 +4803,8 @@
     "slug": "da-gagarin-di-chiappa-giuliano",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via del Cardinale 24, Livorno",
-    "lat": null,
-    "lng": null,
+    "lat": 43.5495831,
+    "lng": 10.3119571,
     "categories": [
       "Altro"
     ],
@@ -4822,8 +4822,8 @@
     "slug": "de-paula",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Carrer de Terol 6, Barcelona",
-    "lat": null,
-    "lng": null,
+    "lat": 41.4023884,
+    "lng": 2.1573166,
     "categories": [
       "Altro"
     ],
@@ -4879,8 +4879,8 @@
     "slug": "kebabone",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via di Acqua Bullicante 243, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.8875743,
+    "lng": 12.5425079,
     "categories": [
       "Kebab"
     ],
@@ -4898,8 +4898,8 @@
     "slug": "panificio-bertino",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Bernardino Galliari 14, Torino",
-    "lat": null,
-    "lng": null,
+    "lat": 45.0594189,
+    "lng": 7.6821063,
     "categories": [
       "Panificio"
     ],
@@ -4955,8 +4955,8 @@
     "slug": "panificio",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Corso di Porta Vigentina 28, Milano",
-    "lat": null,
-    "lng": null,
+    "lat": 45.45399829999999,
+    "lng": 9.1958629,
     "categories": [
       "Panificio"
     ],
@@ -4974,8 +4974,8 @@
     "slug": "oh-burger-modena",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Viale J. Barozzi 142, Modena",
-    "lat": null,
-    "lng": null,
+    "lat": 44.6465768,
+    "lng": 10.9170136,
     "categories": [
       "Burger"
     ],
@@ -4993,8 +4993,8 @@
     "slug": "gli-artisti-del-pane",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Consalvo 203, Napoli",
-    "lat": null,
-    "lng": null,
+    "lat": 40.8340071,
+    "lng": 14.2037474,
     "categories": [
       "Panificio"
     ],
@@ -5012,8 +5012,8 @@
     "slug": "comix-cafe",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via delle Belle Arti 12a, Bologna",
-    "lat": null,
-    "lng": null,
+    "lat": 44.4977503,
+    "lng": 11.3496193,
     "categories": [
       "Bar"
     ],
@@ -5031,8 +5031,8 @@
     "slug": "pizzeria-del-333",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via delle Forze Armate 333, Milano",
-    "lat": null,
-    "lng": null,
+    "lat": 45.4599829,
+    "lng": 9.0978791,
     "categories": [
       "Pizzeria"
     ],
@@ -5050,8 +5050,8 @@
     "slug": "il-pane-di-antonio",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Ugo Betti 153, Milano",
-    "lat": null,
-    "lng": null,
+    "lat": 45.4955801,
+    "lng": 9.108697099999999,
     "categories": [
       "Panificio"
     ],
@@ -5069,8 +5069,8 @@
     "slug": "rue-de-martis",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "32 Rue des Martyrs (9th Arrondissement), Paris",
-    "lat": null,
-    "lng": null,
+    "lat": 48.8786113,
+    "lng": 2.3399224,
     "categories": [
       "Altro"
     ],
@@ -5088,8 +5088,8 @@
     "slug": "farina-club-bakery",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "C.so Francia 195, Torino",
-    "lat": null,
-    "lng": null,
+    "lat": 45.0750847,
+    "lng": 7.637694199999999,
     "categories": [
       "Panificio"
     ],
@@ -5107,8 +5107,8 @@
     "slug": "panificio-lissana",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Viale Argonne 48, Milano",
-    "lat": null,
-    "lng": null,
+    "lat": 45.4676689,
+    "lng": 9.2318608,
     "categories": [
       "Panificio"
     ],
@@ -5126,8 +5126,8 @@
     "slug": "siamo-fritti",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via del Cardinale 32, Livorno",
-    "lat": null,
-    "lng": null,
+    "lat": 43.5495099,
+    "lng": 10.3121411,
     "categories": [
       "Altro"
     ],
@@ -5183,8 +5183,8 @@
     "slug": "magic-bun",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Bartolomeo Cristofori 21, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.8673939,
+    "lng": 12.4654917,
     "categories": [
       "Altro"
     ],
@@ -5240,8 +5240,8 @@
     "slug": "dani-bar",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Pollenza 10, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.9410572,
+    "lng": 12.5752749,
     "categories": [
       "Altro"
     ],
@@ -5259,8 +5259,8 @@
     "slug": "rosticceria-de-santis",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Andrea Doria 36, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.9100313,
+    "lng": 12.4523212,
     "categories": [
       "Gastronomia"
     ],
@@ -5316,8 +5316,8 @@
     "slug": "piadineria-della-corderia",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Piazza F.lli Rosselli 3, Viserba",
-    "lat": null,
-    "lng": null,
+    "lat": 44.0848233,
+    "lng": 12.5261522,
     "categories": [
       "Altro"
     ],
@@ -5335,8 +5335,8 @@
     "slug": "bottega-del-rafael",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Carrer de Manso 52, Barcelona",
-    "lat": null,
-    "lng": null,
+    "lat": 41.3771419,
+    "lng": 2.1616388,
     "categories": [
       "Altro"
     ],
@@ -5392,8 +5392,8 @@
     "slug": "io-e-valter",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Michele Buonori 19, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.8677305,
+    "lng": 12.6314793,
     "categories": [
       "Altro"
     ],
@@ -5430,8 +5430,8 @@
     "slug": "pizzeria-il-tegamino-di-loiero",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Borgaro 63, Torino",
-    "lat": null,
-    "lng": null,
+    "lat": 45.09830669999999,
+    "lng": 7.662754100000001,
     "categories": [
       "Pizzeria"
     ],
@@ -5449,8 +5449,8 @@
     "slug": "odio-il-brodo-trieste",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via S. Lazzaro 9, Trieste",
-    "lat": null,
-    "lng": null,
+    "lat": 45.6505999,
+    "lng": 13.7754859,
     "categories": [
       "Altro"
     ],
@@ -5468,8 +5468,8 @@
     "slug": "sale-e-ojo",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Cutigliano 69, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.8487167,
+    "lng": 12.4610768,
     "categories": [
       "Altro"
     ],
@@ -5487,8 +5487,8 @@
     "slug": "pizzeria-da-giuliano",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Giorgio Stephenson 2, Milano",
-    "lat": null,
-    "lng": null,
+    "lat": 45.5087428,
+    "lng": 9.1323713,
     "categories": [
       "Pizzeria"
     ],
@@ -5525,8 +5525,8 @@
     "slug": "pizzeria-da-nando",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Corso Italia 103, Pisa",
-    "lat": null,
-    "lng": null,
+    "lat": 43.71257,
+    "lng": 10.400058,
     "categories": [
       "Pizzeria"
     ],
@@ -5544,8 +5544,8 @@
     "slug": "panetteria-simerea",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Tripoli 100, Torino",
-    "lat": null,
-    "lng": null,
+    "lat": 45.0436589,
+    "lng": 7.6447883,
     "categories": [
       "Panificio"
     ],
@@ -5563,8 +5563,8 @@
     "slug": "lo-schiacciavino",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Giuseppe Verdi 6, Firenze",
-    "lat": null,
-    "lng": null,
+    "lat": 43.7696383,
+    "lng": 11.2611449,
     "categories": [
       "Enoteca"
     ],
@@ -5582,8 +5582,8 @@
     "slug": "gino-panino",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Giulia di Barolo 25d, Torino",
-    "lat": null,
-    "lng": null,
+    "lat": 45.069173,
+    "lng": 7.6986273,
     "categories": [
       "Paninoteca"
     ],
@@ -5601,8 +5601,8 @@
     "slug": "forno-vecchiato-dal-1889",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Piazza della Frutta 26, Padova",
-    "lat": null,
-    "lng": null,
+    "lat": 45.4078683,
+    "lng": 11.8751896,
     "categories": [
       "Panificio"
     ],
@@ -5620,8 +5620,8 @@
     "slug": "panetteria-forno-le-ragazze-bottarelli-milano",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Plinio 24, Milano",
-    "lat": null,
-    "lng": null,
+    "lat": 45.4779117,
+    "lng": 9.214467899999999,
     "categories": [
       "Panificio"
     ],
@@ -5639,8 +5639,8 @@
     "slug": "dalla-lella",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Covignano 96, Rimini",
-    "lat": null,
-    "lng": null,
+    "lat": 44.0526649,
+    "lng": 12.5601207,
     "categories": [
       "Altro"
     ],
@@ -5715,8 +5715,8 @@
     "slug": "pizza-rustica",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Flaminia 24, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.9125847,
+    "lng": 12.4757338,
     "categories": [
       "Pizzeria"
     ],
@@ -5772,8 +5772,8 @@
     "slug": "panificio-nebbia-roma",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Attilio Ambrosini 25/27, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.8484415,
+    "lng": 12.4889002,
     "categories": [
       "Panificio"
     ],
@@ -5791,8 +5791,8 @@
     "slug": "forno-lucarelli-roma",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Stamira 37, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.91288410000001,
+    "lng": 12.523295,
     "categories": [
       "Panificio"
     ],
@@ -5810,8 +5810,8 @@
     "slug": "ruspante",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Rattazzi 11, Torino",
-    "lat": null,
-    "lng": null,
+    "lat": 45.0625176,
+    "lng": 7.6811132,
     "categories": [
       "Altro"
     ],
@@ -5829,8 +5829,8 @@
     "slug": "il-forno-delle-meraviglie",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via della Pace, 80, Latina",
-    "lat": null,
-    "lng": null,
+    "lat": 41.5157424,
+    "lng": 13.128145,
     "categories": [
       "Panificio"
     ],
@@ -5848,8 +5848,8 @@
     "slug": "lievito",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Viale Europa 339, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.8298316,
+    "lng": 12.4737751,
     "categories": [
       "Altro"
     ],
@@ -5886,8 +5886,8 @@
     "slug": "antica-salumeria-giorgio-pancaldi",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Vicolo Broletto 1/P, Reggio nell'Emilia",
-    "lat": null,
-    "lng": null,
+    "lat": 44.6971994,
+    "lng": 10.6313163,
     "categories": [
       "Altro"
     ],
@@ -5941,8 +5941,8 @@
     "slug": "jackie-pan",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Gaeta 1, Milano",
-    "lat": null,
-    "lng": null,
+    "lat": 45.5192068,
+    "lng": 9.1727887,
     "categories": [
       "Altro"
     ],
@@ -5998,8 +5998,8 @@
     "slug": "forno-il-granaio-del-contadino",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Palermo, 100, Latina",
-    "lat": null,
-    "lng": null,
+    "lat": 41.4537283,
+    "lng": 12.8896696,
     "categories": [
       "Panificio"
     ],
@@ -6017,8 +6017,8 @@
     "slug": "butter-burger",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Carlo Poerio 4 (Pomigliano D'Arco), Napoli",
-    "lat": null,
-    "lng": null,
+    "lat": 40.9081133,
+    "lng": 14.3901957,
     "categories": [
       "Burger"
     ],
@@ -6055,8 +6055,8 @@
     "slug": "sipis-il-fornaio-consulente",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Gorizia 51a, Torino",
-    "lat": null,
-    "lng": null,
+    "lat": 45.050337,
+    "lng": 7.6414999,
     "categories": [
       "Panificio"
     ],
@@ -6093,8 +6093,8 @@
     "slug": "pasticceria-barberini",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Marmorata 41, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.8789392,
+    "lng": 12.4787639,
     "categories": [
       "Pasticceria"
     ],
@@ -6112,8 +6112,8 @@
     "slug": "frolla-couture",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Felice Frasi, 8/F, Piacenza",
-    "lat": null,
-    "lng": null,
+    "lat": 45.0511261,
+    "lng": 9.694792699999999,
     "categories": [
       "Altro"
     ],
@@ -6150,8 +6150,8 @@
     "slug": "wah-fung-no1-fast-food",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "79 Chrystie St, New York City",
-    "lat": null,
-    "lng": null,
+    "lat": 40.7173483,
+    "lng": -73.9945602,
     "categories": [
       "Altro"
     ],
@@ -6169,8 +6169,8 @@
     "slug": "pane-e-dolci",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Digione 9, Milano",
-    "lat": null,
-    "lng": null,
+    "lat": 45.4604338,
+    "lng": 9.1552663,
     "categories": [
       "Panificio",
       "Pasticceria"
@@ -6190,8 +6190,8 @@
     "slug": "il-pane-di-maurizio-sarioli",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via dei Musei, 18/a, Brescia",
-    "lat": null,
-    "lng": null,
+    "lat": 45.5399833,
+    "lng": 10.2214202,
     "categories": [
       "Panificio"
     ],
@@ -6228,8 +6228,8 @@
     "slug": "gelateria-portogallo",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Umberto I 101, Padova",
-    "lat": null,
-    "lng": null,
+    "lat": 45.400582,
+    "lng": 11.8759715,
     "categories": [
       "Gelateria"
     ],
@@ -6247,8 +6247,8 @@
     "slug": "bar-tiziano",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Salizada S. Giovanni Grisostomo, Venezia",
-    "lat": null,
-    "lng": null,
+    "lat": 45.4390642,
+    "lng": 12.3371166,
     "categories": [
       "Bar"
     ],
@@ -6285,8 +6285,8 @@
     "slug": "lubrano",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via dei Castani 68c, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.881898,
+    "lng": 12.5668729,
     "categories": [
       "Altro"
     ],
@@ -6304,8 +6304,8 @@
     "slug": "forno-pasticceria-argnani",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Cairoli 1, Ravenna",
-    "lat": null,
-    "lng": null,
+    "lat": 44.4173398,
+    "lng": 12.1990828,
     "categories": [
       "Panificio",
       "Pasticceria"
@@ -6325,8 +6325,8 @@
     "slug": "girarrosti-santa-rita",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Piazza Santa Rita da Cascia 7, Torino",
-    "lat": null,
-    "lng": null,
+    "lat": 45.0468012,
+    "lng": 7.645852499999999,
     "categories": [
       "Altro"
     ],
@@ -6363,8 +6363,8 @@
     "slug": "le-fantasie",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Giacomo Zanella 46, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.9470987,
+    "lng": 12.5616553,
     "categories": [
       "Altro"
     ],
@@ -6382,8 +6382,8 @@
     "slug": "panificio-castagnoli-forno-castagnoli-claudio",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Brigata Reggio 9, Reggio Emilia",
-    "lat": null,
-    "lng": null,
+    "lat": 44.7074598,
+    "lng": 10.6184708,
     "categories": [
       "Panificio"
     ],
@@ -6401,8 +6401,8 @@
     "slug": "conca-doro-roma",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Viale America 25/27/29, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.8315255,
+    "lng": 12.4623662,
     "categories": [
       "Altro"
     ],
@@ -6420,8 +6420,8 @@
     "slug": "pizza-mortadella",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Piazza Europa 13, Castelli Romani",
-    "lat": null,
-    "lng": null,
+    "lat": 41.77138790000001,
+    "lng": 12.6628818,
     "categories": [
       "Pizzeria"
     ],
@@ -6458,8 +6458,8 @@
     "slug": "magia",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Gian Lorenzo Bernini 112, Napoli",
-    "lat": null,
-    "lng": null,
+    "lat": 40.847276,
+    "lng": 14.2314854,
     "categories": [
       "Altro"
     ],
@@ -6477,8 +6477,8 @@
     "slug": "bottega-dellhamburger",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Piazza Risorgimento, 13/G, Bergamo",
-    "lat": null,
-    "lng": null,
+    "lat": 45.6942891,
+    "lng": 9.646757599999999,
     "categories": [
       "Burger"
     ],
@@ -6496,8 +6496,8 @@
     "slug": "pan-per-focaccia",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Tortona 17, Milano",
-    "lat": null,
-    "lng": null,
+    "lat": 45.4530155,
+    "lng": 9.1669334,
     "categories": [
       "Focacceria"
     ],
@@ -6515,8 +6515,8 @@
     "slug": "panificio-sara",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Aosta 35, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.8833193,
+    "lng": 12.5143986,
     "categories": [
       "Panificio"
     ],
@@ -6534,8 +6534,8 @@
     "slug": "il-panificio-di-exana-fabiano",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Viale Gran Sasso 5, Milano",
-    "lat": null,
-    "lng": null,
+    "lat": 45.4833485,
+    "lng": 9.2183622,
     "categories": [
       "Panificio"
     ],
@@ -6574,8 +6574,8 @@
     "slug": "larte-della-pizza",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Alenda 55, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.8608699,
+    "lng": 12.6094391,
     "categories": [
       "Pizzeria"
     ],
@@ -6593,8 +6593,8 @@
     "slug": "delper-larte-della-panificazione-dal-1971",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Piazza Gran Madre di Dio 7, Torino",
-    "lat": null,
-    "lng": null,
+    "lat": 45.0624935,
+    "lng": 7.699788,
     "categories": [
       "Altro"
     ],
@@ -6612,8 +6612,8 @@
     "slug": "bottega-popolare",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via di San Nicola de' Cesarini 5, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.8956553,
+    "lng": 12.4767947,
     "categories": [
       "Altro"
     ],
@@ -6631,8 +6631,8 @@
     "slug": "forno-malatesta",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Roberto Malatesta 316, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.8870909,
+    "lng": 12.5418553,
     "categories": [
       "Panificio"
     ],
@@ -6650,8 +6650,8 @@
     "slug": "kebap-monginevro-71",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Monginevro 71, Torino",
-    "lat": null,
-    "lng": null,
+    "lat": 45.0644911,
+    "lng": 7.6456103,
     "categories": [
       "Altro"
     ],
@@ -6707,8 +6707,8 @@
     "slug": "peter-pane",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Jacopo Berengario 44/A, Modena",
-    "lat": null,
-    "lng": null,
+    "lat": 44.6497503,
+    "lng": 10.9231157,
     "categories": [
       "Panificio"
     ],
@@ -6783,8 +6783,8 @@
     "slug": "pasticceria-caretto",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Lecce 181 (Surbo), Lecce",
-    "lat": null,
-    "lng": null,
+    "lat": 40.3877928,
+    "lng": 18.1335308,
     "categories": [
       "Pasticceria"
     ],
@@ -6802,8 +6802,8 @@
     "slug": "zanotti-milano",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Piazza Cinque Giornate 16, Milano",
-    "lat": null,
-    "lng": null,
+    "lat": 45.4619674,
+    "lng": 9.2072705,
     "categories": [
       "Altro"
     ],
@@ -6821,8 +6821,8 @@
     "slug": "caffe-del-parco",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Tino Buazzelli 3, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.9439653,
+    "lng": 12.5687539,
     "categories": [
       "Bar"
     ],
@@ -6897,8 +6897,8 @@
     "slug": "istanbul-kebab-pizza-bar-grill",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via degli Ortolani 38c, Bologna",
-    "lat": null,
-    "lng": null,
+    "lat": 44.4725198,
+    "lng": 11.3866356,
     "categories": [
       "Pizzeria",
       "Kebab",
@@ -6939,8 +6939,8 @@
     "slug": "kokoroya",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Piave 9/A, Torino",
-    "lat": null,
-    "lng": null,
+    "lat": 45.0758918,
+    "lng": 7.675746299999999,
     "categories": [
       "Altro"
     ],
@@ -6958,8 +6958,8 @@
     "slug": "girarrosto-il-polletto",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Corso Vercelli 76/C, Torino",
-    "lat": null,
-    "lng": null,
+    "lat": 45.091121,
+    "lng": 7.6894986,
     "categories": [
       "Altro"
     ],
@@ -6977,8 +6977,8 @@
     "slug": "la-gourmandise",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Felice Cavallotti 36b, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.878961,
+    "lng": 12.4622543,
     "categories": [
       "Altro"
     ],
@@ -7015,8 +7015,8 @@
     "slug": "forno-la-brace",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Dante Alighieri, 80, Latina",
-    "lat": null,
-    "lng": null,
+    "lat": 41.602299,
+    "lng": 12.8300799,
     "categories": [
       "Panificio"
     ],
@@ -7034,8 +7034,8 @@
     "slug": "la-puccia",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Viale G. Leopardi 36, Lecce",
-    "lat": null,
-    "lng": null,
+    "lat": 40.3620718,
+    "lng": 18.178614,
     "categories": [
       "Altro"
     ],
@@ -7072,8 +7072,8 @@
     "slug": "la-baguette",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Lorenzo De Medici 4, Serravalle",
-    "lat": null,
-    "lng": null,
+    "lat": 41.87194,
+    "lng": 12.56738,
     "categories": [
       "Altro"
     ],
@@ -7148,8 +7148,8 @@
     "slug": "forno-le-banneton",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Giacomo Medici 29, Torino",
-    "lat": null,
-    "lng": null,
+    "lat": 45.0776137,
+    "lng": 7.651765399999999,
     "categories": [
       "Panificio"
     ],
@@ -7186,8 +7186,8 @@
     "slug": "il-forno-di-via-pola",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Pola 21, Milano",
-    "lat": null,
-    "lng": null,
+    "lat": 45.4891173,
+    "lng": 9.192393899999999,
     "categories": [
       "Panificio"
     ],
@@ -7243,8 +7243,8 @@
     "slug": "fiumefreddo-doc",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Saverio Landolina 19, Palermo",
-    "lat": null,
-    "lng": null,
+    "lat": 38.1418892,
+    "lng": 13.3605245,
     "categories": [
       "Altro"
     ],
@@ -7262,8 +7262,8 @@
     "slug": "gastronomia-di-bonardi-piero",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Viale Umbria 27, Milano",
-    "lat": null,
-    "lng": null,
+    "lat": 45.450266,
+    "lng": 9.2120752,
     "categories": [
       "Gastronomia"
     ],
@@ -7281,8 +7281,8 @@
     "slug": "panificio-zanotti",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Str. Seralli 57, Faetano",
-    "lat": null,
-    "lng": null,
+    "lat": 43.9246597,
+    "lng": 12.4982193,
     "categories": [
       "Panificio"
     ],
@@ -7319,8 +7319,8 @@
     "slug": "el-cocinero-de-damasco",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Carrer dels Templers 2, Barcelona",
-    "lat": null,
-    "lng": null,
+    "lat": 41.381414,
+    "lng": 2.1777914,
     "categories": [
       "Altro"
     ],
@@ -7338,8 +7338,8 @@
     "slug": "cremeria-alpi-garbatella",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Padre Reginaldo Giuliani 16, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.86652770000001,
+    "lng": 12.4929988,
     "categories": [
       "Altro"
     ],
@@ -7357,8 +7357,8 @@
     "slug": "kebab-house-di-samih",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Tiburtina 8, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.8969663,
+    "lng": 12.5119306,
     "categories": [
       "Kebab"
     ],
@@ -7376,8 +7376,8 @@
     "slug": "panificio-antico",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via G. Camozzi 164, Bergamo",
-    "lat": null,
-    "lng": null,
+    "lat": 45.69813329999999,
+    "lng": 9.6774174,
     "categories": [
       "Panificio"
     ],
@@ -7433,8 +7433,8 @@
     "slug": "papero-giallo-di-raffaele-berardi",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Taranto 64, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.8843517,
+    "lng": 12.5151411,
     "categories": [
       "Altro"
     ],
@@ -7490,8 +7490,8 @@
     "slug": "pasticceria-bar-romoli",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Viale Eritrea 142, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.92848499999999,
+    "lng": 12.5161958,
     "categories": [
       "Pasticceria",
       "Bar"
@@ -7511,8 +7511,8 @@
     "slug": "panificio-san-gottardo",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Corso S. Gottardo 44, Milano",
-    "lat": null,
-    "lng": null,
+    "lat": 45.4477377,
+    "lng": 9.179398899999999,
     "categories": [
       "Panificio"
     ],
@@ -7549,8 +7549,8 @@
     "slug": "boccione-pizzeria-friggitoria-bistrot-tavola-calda",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via dei Monti Tiburtini 536, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.91581739999999,
+    "lng": 12.5465398,
     "categories": [
       "Pizzeria",
       "Gastronomia",
@@ -7572,8 +7572,8 @@
     "slug": "pizza-nader",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Alberto Ascari 196, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.83476599999999,
+    "lng": 12.5038457,
     "categories": [
       "Pizzeria"
     ],
@@ -7648,8 +7648,8 @@
     "slug": "la-terrasanta",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Vincenzo Monti, Torino",
-    "lat": null,
-    "lng": null,
+    "lat": 45.0479248,
+    "lng": 7.678249,
     "categories": [
       "Altro"
     ],
@@ -7667,8 +7667,8 @@
     "slug": "pizzeria",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Viale di Trastevere 55, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.88825540000001,
+    "lng": 12.473716,
     "categories": [
       "Pizzeria"
     ],
@@ -7686,8 +7686,8 @@
     "slug": "mister-teglia-balduina",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Piazza Carlo Mazzaresi 14/16, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.920228,
+    "lng": 12.441579,
     "categories": [
       "Altro"
     ],
@@ -7705,8 +7705,8 @@
     "slug": "180-grammi-burgers-beers-sant-ambrogio",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Pietrapiana 9/R, Firenze",
-    "lat": null,
-    "lng": null,
+    "lat": 43.7713879,
+    "lng": 11.2659212,
     "categories": [
       "Burger"
     ],
@@ -7724,8 +7724,8 @@
     "slug": "vapoforno-frillocchi",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Giuseppe Arimondi 36/40, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.8967844,
+    "lng": 12.5385028,
     "categories": [
       "Panificio"
     ],
@@ -7743,8 +7743,8 @@
     "slug": "cristalli-di-zucchero",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via di Val Tellina 114, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.8693245,
+    "lng": 12.4466943,
     "categories": [
       "Altro"
     ],
@@ -7762,8 +7762,8 @@
     "slug": "anatolia-kebab-e-pizza",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Giambellino 15, Milano",
-    "lat": null,
-    "lng": null,
+    "lat": 45.45136840000001,
+    "lng": 9.1515016,
     "categories": [
       "Pizzeria",
       "Kebab"
@@ -7783,8 +7783,8 @@
     "slug": "chucks",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Bonvesin de la Riva 3, Milano",
-    "lat": null,
-    "lng": null,
+    "lat": 45.46312349999999,
+    "lng": 9.2119853,
     "categories": [
       "Altro"
     ],
@@ -7802,8 +7802,8 @@
     "slug": "senza-pizza-quanto-rosico",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Ostiense 453 b/c, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.8507868,
+    "lng": 12.4756803,
     "categories": [
       "Pizzeria"
     ],
@@ -7821,8 +7821,8 @@
     "slug": "panificio-lentini",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Leonardo Fea 30, Torino",
-    "lat": null,
-    "lng": null,
+    "lat": 45.1069124,
+    "lng": 7.677514100000001,
     "categories": [
       "Panificio"
     ],
@@ -7840,8 +7840,8 @@
     "slug": "focaccia-srl",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Giuseppe Capruzzi 36A, Bari",
-    "lat": null,
-    "lng": null,
+    "lat": 41.1175228,
+    "lng": 16.876072,
     "categories": [
       "Focacceria"
     ],
@@ -7859,8 +7859,8 @@
     "slug": "kebabbar-star-zagros",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Corso Ventidue Marzo 38, Milano",
-    "lat": null,
-    "lng": null,
+    "lat": 45.4620311,
+    "lng": 9.2190589,
     "categories": [
       "Kebab",
       "Bar"
@@ -7918,8 +7918,8 @@
     "slug": "snubar-gusto-ebraico-libanese",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Giorgio Washington 13, Milano",
-    "lat": null,
-    "lng": null,
+    "lat": 45.4645531,
+    "lng": 9.1553046,
     "categories": [
       "Bar"
     ],
@@ -7937,8 +7937,8 @@
     "slug": "forno-brisa",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Galliera 34d, Bologna",
-    "lat": null,
-    "lng": null,
+    "lat": 44.500307,
+    "lng": 11.342944,
     "categories": [
       "Panificio"
     ],
@@ -7956,8 +7956,8 @@
     "slug": "pizza-e-fichi",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Veroli 31, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.8916646,
+    "lng": 12.5590023,
     "categories": [
       "Pizzeria"
     ],
@@ -8015,8 +8015,8 @@
     "slug": "pizzeria-gabry-di-mirasoli-remo-roma",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Santa Maria Ausiliatrice 13, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.87361509999999,
+    "lng": 12.5292322,
     "categories": [
       "Pizzeria"
     ],
@@ -8034,8 +8034,8 @@
     "slug": "sapori-di-pane",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Monte Cervialto, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.9540545,
+    "lng": 12.5232145,
     "categories": [
       "Panificio"
     ],
@@ -8053,8 +8053,8 @@
     "slug": "pizza-al-porto",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via della Torre Clementina 242, Fiumicino",
-    "lat": null,
-    "lng": null,
+    "lat": 41.7714584,
+    "lng": 12.224559,
     "categories": [
       "Pizzeria"
     ],
@@ -8091,8 +8091,8 @@
     "slug": "magda",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Prospero Petroni 32, Bari",
-    "lat": null,
-    "lng": null,
+    "lat": 41.1198269,
+    "lng": 16.8712861,
     "categories": [
       "Altro"
     ],
@@ -8110,8 +8110,8 @@
     "slug": "panificio-montecristo",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Str. Detta della Marina 96, Bari",
-    "lat": null,
-    "lng": null,
+    "lat": 41.0964156,
+    "lng": 16.9640893,
     "categories": [
       "Panificio"
     ],
@@ -8167,8 +8167,8 @@
     "slug": "garbagnati",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Veglia 57, Milano",
-    "lat": null,
-    "lng": null,
+    "lat": 45.4999058,
+    "lng": 9.1947532,
     "categories": [
       "Altro"
     ],
@@ -8186,8 +8186,8 @@
     "slug": "pizzeria-pellone",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Nazionale, Napoli",
-    "lat": null,
-    "lng": null,
+    "lat": 40.8562933,
+    "lng": 14.2739676,
     "categories": [
       "Pizzeria"
     ],
@@ -8205,8 +8205,8 @@
     "slug": "al-bagno-di-nerone",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Bagni di Nerone, Pisa",
-    "lat": null,
-    "lng": null,
+    "lat": 43.7222934,
+    "lng": 10.4019646,
     "categories": [
       "Altro"
     ],
@@ -8224,8 +8224,8 @@
     "slug": "i-panizzeri",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Carlo Ludovico Bragaglia 102, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.9678017,
+    "lng": 12.5367494,
     "categories": [
       "Altro"
     ],
@@ -8281,8 +8281,8 @@
     "slug": "a-rota-pizzeria-romanesca",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via di Tor Pignattara 190, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.8749383,
+    "lng": 12.5411217,
     "categories": [
       "Pizzeria"
     ],
@@ -8300,8 +8300,8 @@
     "slug": "panificio-beti",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via del Vascello 46, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.8844583,
+    "lng": 12.4598389,
     "categories": [
       "Panificio"
     ],
@@ -8319,8 +8319,8 @@
     "slug": "shawarma-station",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Merulana 271, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.8961385,
+    "lng": 12.4993966,
     "categories": [
       "Altro"
     ],
@@ -8338,8 +8338,8 @@
     "slug": "la-focacceria-di-mimmi",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Roma 98, Recco",
-    "lat": null,
-    "lng": null,
+    "lat": 44.3639274,
+    "lng": 9.146025999999999,
     "categories": [
       "Focacceria"
     ],
@@ -8376,8 +8376,8 @@
     "slug": "pan-pan-la-cucina-in-un-panino",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Andrea Vochieri 8, Torino",
-    "lat": null,
-    "lng": null,
+    "lat": 45.0663176,
+    "lng": 7.656058,
     "categories": [
       "Paninoteca"
     ],
@@ -8414,8 +8414,8 @@
     "slug": "fratellino",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Corso Giuseppe Mazzini 3, Pavia",
-    "lat": null,
-    "lng": null,
+    "lat": 45.1852191,
+    "lng": 9.155951,
     "categories": [
       "Altro"
     ],
@@ -8433,8 +8433,8 @@
     "slug": "smash-house",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Carrer del Taquígraf Garriga 5, Barcelona",
-    "lat": null,
-    "lng": null,
+    "lat": 41.3858807,
+    "lng": 2.1317122,
     "categories": [
       "Altro"
     ],
@@ -8452,8 +8452,8 @@
     "slug": "deniz-kebab",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Monginevro 13/c, Torino",
-    "lat": null,
-    "lng": null,
+    "lat": 45.0651479,
+    "lng": 7.652814599999999,
     "categories": [
       "Kebab"
     ],
@@ -8471,8 +8471,8 @@
     "slug": "voglia-di-pizza",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Amedeo Bocchi 332, Acilia",
-    "lat": null,
-    "lng": null,
+    "lat": 41.77825139999999,
+    "lng": 12.3492897,
     "categories": [
       "Pizzeria"
     ],
@@ -8490,8 +8490,8 @@
     "slug": "pane-e-cioccolato",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Piazza Enrico Bottini 4, Milano",
-    "lat": null,
-    "lng": null,
+    "lat": 45.4841431,
+    "lng": 9.2361437,
     "categories": [
       "Panificio"
     ],
@@ -8509,8 +8509,8 @@
     "slug": "mercato-spinaceto",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Viale dei Caduti per la Resistenza 609, Spinaceto Selcetta",
-    "lat": null,
-    "lng": null,
+    "lat": 41.7829609,
+    "lng": 12.4419187,
     "categories": [
       "Mercato"
     ],
@@ -8547,8 +8547,8 @@
     "slug": "lukes-lobster",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "11 Water St, New York City",
-    "lat": null,
-    "lng": null,
+    "lat": 40.7034878,
+    "lng": -73.9941348,
     "categories": [
       "Altro"
     ],
@@ -8585,8 +8585,8 @@
     "slug": "forno-a-legna-raparelli",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Corso Vittoria Colonna 64, Castelli Romani",
-    "lat": null,
-    "lng": null,
+    "lat": 41.7690967,
+    "lng": 12.6638729,
     "categories": [
       "Panificio"
     ],
@@ -8623,8 +8623,8 @@
     "slug": "rosticceria-venezia-giulia",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Viale della Venezia Giulia 127, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.8966836,
+    "lng": 12.5579132,
     "categories": [
       "Gastronomia"
     ],
@@ -8642,8 +8642,8 @@
     "slug": "pizza-art",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via dei Monti di Creta 9, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.90162050000001,
+    "lng": 12.4273748,
     "categories": [
       "Pizzeria"
     ],
@@ -8661,8 +8661,8 @@
     "slug": "tavola-calda-voglia-di-pizza",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Cassia, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.9789467,
+    "lng": 12.4219115,
     "categories": [
       "Pizzeria",
       "Gastronomia"
@@ -8682,8 +8682,8 @@
     "slug": "da-giannino-langolo-dabruzzo-a-torino",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Carlo Botta 10, Torino",
-    "lat": null,
-    "lng": null,
+    "lat": 45.07830209999999,
+    "lng": 7.673538,
     "categories": [
       "Altro"
     ],
@@ -8701,8 +8701,8 @@
     "slug": "lantica-panetteria",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via di Villa Chigi 56, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.9347814,
+    "lng": 12.5143462,
     "categories": [
       "Panificio"
     ],
@@ -8777,8 +8777,8 @@
     "slug": "bar-alla-toletta",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Dorsoduro 1191, Venezia",
-    "lat": null,
-    "lng": null,
+    "lat": 45.4316799,
+    "lng": 12.32642,
     "categories": [
       "Bar"
     ],
@@ -8796,8 +8796,8 @@
     "slug": "patria-cevicheria-street-food",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Claudio Luigi Berthollet 33A, Torino",
-    "lat": null,
-    "lng": null,
+    "lat": 45.0581588,
+    "lng": 7.6840649,
     "categories": [
       "Altro"
     ],
@@ -8815,8 +8815,8 @@
     "slug": "panificio-caffetteria-pasticceria-angela",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Pietro Borsieri 11, Milano",
-    "lat": null,
-    "lng": null,
+    "lat": 45.4869744,
+    "lng": 9.188383199999999,
     "categories": [
       "Panificio",
       "Pasticceria",
@@ -8838,8 +8838,8 @@
     "slug": "pizzeria-e-torta-seghieri-livorno",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Ernesto Rossi 19, Livorno",
-    "lat": null,
-    "lng": null,
+    "lat": 43.5472452,
+    "lng": 10.312621,
     "categories": [
       "Pizzeria"
     ],
@@ -8933,8 +8933,8 @@
     "slug": "panificio-panacea-principi-dacaja",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Principi d'Acaja 59, Torino",
-    "lat": null,
-    "lng": null,
+    "lat": 45.0717563,
+    "lng": 7.6614763,
     "categories": [
       "Panificio"
     ],
@@ -8952,8 +8952,8 @@
     "slug": "pasticceria-spinella",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Etnea 292/298, Catania",
-    "lat": null,
-    "lng": null,
+    "lat": 37.510712,
+    "lng": 15.085641,
     "categories": [
       "Pasticceria"
     ],
@@ -8990,8 +8990,8 @@
     "slug": "il-forno-di-lambrate",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Teodosio 2, Milano",
-    "lat": null,
-    "lng": null,
+    "lat": 45.4829431,
+    "lng": 9.2302126,
     "categories": [
       "Panificio"
     ],
@@ -9009,8 +9009,8 @@
     "slug": "pizzeria-sapori-romani",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Viale Vittorio Veneto, 50, Latina",
-    "lat": null,
-    "lng": null,
+    "lat": 41.4658152,
+    "lng": 12.8985731,
     "categories": [
       "Pizzeria"
     ],
@@ -9028,8 +9028,8 @@
     "slug": "mr-pig-la-bottega-del-panino",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Urbano Rattazzi 3, Torino",
-    "lat": null,
-    "lng": null,
+    "lat": 45.0632398,
+    "lng": 7.681629800000001,
     "categories": [
       "Paninoteca"
     ],
@@ -9047,8 +9047,8 @@
     "slug": "bar-quadronno",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Quadronno 34, Milano",
-    "lat": null,
-    "lng": null,
+    "lat": 45.45426579999999,
+    "lng": 9.195732,
     "categories": [
       "Bar"
     ],
@@ -9066,8 +9066,8 @@
     "slug": "chiosco-arcobaleno",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Albert Einstein 2, Borgo Montone",
-    "lat": null,
-    "lng": null,
+    "lat": 43.3623899,
+    "lng": 12.3273912,
     "categories": [
       "Altro"
     ],
@@ -9085,8 +9085,8 @@
     "slug": "pasticceria-larte-del-dolce",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Viale Vittorio Veneto, 40, Latina",
-    "lat": null,
-    "lng": null,
+    "lat": 41.4658152,
+    "lng": 12.8985731,
     "categories": [
       "Pasticceria"
     ],
@@ -9104,8 +9104,8 @@
     "slug": "bonci-mercato-centrale",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Giolitti, 36, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.898684,
+    "lng": 12.5036669,
     "categories": [
       "Mercato"
     ],
@@ -9123,8 +9123,8 @@
     "slug": "ercoli-1928-prati",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Montello 26, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.9184848,
+    "lng": 12.4631761,
     "categories": [
       "Altro"
     ],
@@ -9142,8 +9142,8 @@
     "slug": "kebab-siria",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Stimigliano 1A, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.9347122,
+    "lng": 12.5117451,
     "categories": [
       "Kebab"
     ],
@@ -9180,8 +9180,8 @@
     "slug": "i-siculi-rosticceria-prodotti-tipici-messinesi",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Breglio 156, Torino",
-    "lat": null,
-    "lng": null,
+    "lat": 45.09909409999999,
+    "lng": 7.6695419,
     "categories": [
       "Gastronomia"
     ],
@@ -9199,8 +9199,8 @@
     "slug": "girarrosto",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Corso Unione Sovietica, 511, Torino",
-    "lat": null,
-    "lng": null,
+    "lat": 45.018042,
+    "lng": 7.630543299999999,
     "categories": [
       "Altro"
     ],
@@ -9218,8 +9218,8 @@
     "slug": "giannasi-dal-1967",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Piazza Bruno Buozzi 2, Milano",
-    "lat": null,
-    "lng": null,
+    "lat": 45.4496554,
+    "lng": 9.2060208,
     "categories": [
       "Altro"
     ],
@@ -9332,8 +9332,8 @@
     "slug": "pasticceria-la-tur-dal-sucar",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via S. Longino 3, Mantova",
-    "lat": null,
-    "lng": null,
+    "lat": 45.1584964,
+    "lng": 10.7933664,
     "categories": [
       "Pasticceria"
     ],
@@ -9370,8 +9370,8 @@
     "slug": "pantera-pizza-rustica",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Circonvallazione Ostiense 153, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.8674614,
+    "lng": 12.4860427,
     "categories": [
       "Pizzeria"
     ],
@@ -9389,8 +9389,8 @@
     "slug": "cibrario",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Cibrario 53, Torino",
-    "lat": null,
-    "lng": null,
+    "lat": 45.0801951,
+    "lng": 7.6591924,
     "categories": [
       "Altro"
     ],
@@ -9408,8 +9408,8 @@
     "slug": "rosticceria-della-basilica",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Milano 18, Torino",
-    "lat": null,
-    "lng": null,
+    "lat": 45.0746117,
+    "lng": 7.682351699999999,
     "categories": [
       "Gastronomia"
     ],
@@ -9427,8 +9427,8 @@
     "slug": "pasticceria-vanni",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via del Corso, 10, Latina",
-    "lat": null,
-    "lng": null,
+    "lat": 41.5848283,
+    "lng": 12.9715041,
     "categories": [
       "Pasticceria"
     ],
@@ -9446,8 +9446,8 @@
     "slug": "divan-ocakbasi",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Viale Carlo Espinasse 57, Milano",
-    "lat": null,
-    "lng": null,
+    "lat": 45.4968752,
+    "lng": 9.1423671,
     "categories": [
       "Altro"
     ],
@@ -9484,8 +9484,8 @@
     "slug": "pasticceria",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Angelo Poliziano 10, Milano",
-    "lat": null,
-    "lng": null,
+    "lat": 45.4834119,
+    "lng": 9.1654616,
     "categories": [
       "Pasticceria"
     ],
@@ -9541,8 +9541,8 @@
     "slug": "girarrosto-jolly",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Corso Vercelli 110/B, Torino",
-    "lat": null,
-    "lng": null,
+    "lat": 45.0944412,
+    "lng": 7.691081399999999,
     "categories": [
       "Altro"
     ],
@@ -9577,8 +9577,8 @@
     "slug": "sasa-paninoteca",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Viale dei Parioli 196 a/b/c, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.9293896,
+    "lng": 12.4860231,
     "categories": [
       "Paninoteca"
     ],
@@ -9596,8 +9596,8 @@
     "slug": "mercuri",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Viale XXI Aprile 65, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.9152365,
+    "lng": 12.5205948,
     "categories": [
       "Altro"
     ],
@@ -9615,8 +9615,8 @@
     "slug": "lessenza-del-gelato",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Principe Amedeo 21F, Torino",
-    "lat": null,
-    "lng": null,
+    "lat": 45.0669624,
+    "lng": 7.689732999999999,
     "categories": [
       "Gelateria"
     ],
@@ -9634,8 +9634,8 @@
     "slug": "200-gradi",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Piazza del Risorgimento 3, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.9064553,
+    "lng": 12.4565817,
     "categories": [
       "Altro"
     ],
@@ -9672,8 +9672,8 @@
     "slug": "pizza-dal-1960",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Arezzo 23, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.91111859999999,
+    "lng": 12.5184376,
     "categories": [
       "Pizzeria"
     ],
@@ -9691,8 +9691,8 @@
     "slug": "bar-turistico",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Com.te S.Guli 212, Palermo",
-    "lat": null,
-    "lng": null,
+    "lat": 38.1431701,
+    "lng": 13.3670489,
     "categories": [
       "Bar"
     ],
@@ -9710,8 +9710,8 @@
     "slug": "panificio-ficini-valter",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Claudio Luigi Berthollet 30, Torino",
-    "lat": null,
-    "lng": null,
+    "lat": 45.0579967,
+    "lng": 7.6838241,
     "categories": [
       "Panificio"
     ],
@@ -9729,8 +9729,8 @@
     "slug": "porci-comodi",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Piazza Dante, Pisa",
-    "lat": null,
-    "lng": null,
+    "lat": 43.7176397,
+    "lng": 10.3987678,
     "categories": [
       "Altro"
     ],
@@ -9748,8 +9748,8 @@
     "slug": "panificio-damiani-milano",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Vincenzo Foppa 41, Milano",
-    "lat": null,
-    "lng": null,
+    "lat": 45.4566476,
+    "lng": 9.1578555,
     "categories": [
       "Panificio"
     ],
@@ -9767,8 +9767,8 @@
     "slug": "perbene-o-quasi",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Giovanni Prati 4-6, Trento",
-    "lat": null,
-    "lng": null,
+    "lat": 46.06589779999999,
+    "lng": 11.1196501,
     "categories": [
       "Altro"
     ],
@@ -9786,8 +9786,8 @@
     "slug": "il-bufalo-trippone",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via dell'Anguillara 48R, Firenze",
-    "lat": null,
-    "lng": null,
+    "lat": 43.7698364,
+    "lng": 11.2584839,
     "categories": [
       "Altro"
     ],
@@ -9805,8 +9805,8 @@
     "slug": "panzerotti-friends",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Appia Nuova 559/D, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.8702361,
+    "lng": 12.5288085,
     "categories": [
       "Altro"
     ],
@@ -9843,8 +9843,8 @@
     "slug": "pizzeria-in",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Monfalcone 2, Milano",
-    "lat": null,
-    "lng": null,
+    "lat": 45.4913479,
+    "lng": 9.2382394,
     "categories": [
       "Pizzeria"
     ],
@@ -9862,8 +9862,8 @@
     "slug": "agostino",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Corso Trieste 66/70, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.9198114,
+    "lng": 12.5086556,
     "categories": [
       "Altro"
     ],
@@ -9900,8 +9900,8 @@
     "slug": "il-fornaio-di-ciro-pia",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Oropa 141, Torino",
-    "lat": null,
-    "lng": null,
+    "lat": 45.07355339999999,
+    "lng": 7.724187199999999,
     "categories": [
       "Panificio"
     ],
@@ -9936,8 +9936,8 @@
     "slug": "princi",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Speronari 6, Milano",
-    "lat": null,
-    "lng": null,
+    "lat": 45.4629919,
+    "lng": 9.1879952,
     "categories": [
       "Altro"
     ],
@@ -9955,8 +9955,8 @@
     "slug": "crocetta-panini-dautore-1982",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Corso di Porta Romana 67, Milano",
-    "lat": null,
-    "lng": null,
+    "lat": 45.4564732,
+    "lng": 9.1953544,
     "categories": [
       "Altro"
     ],
@@ -9974,8 +9974,8 @@
     "slug": "pizza-in-piazza",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "P.za Quarto dei Mille 7, Ostia",
-    "lat": null,
-    "lng": null,
+    "lat": 41.7321162,
+    "lng": 12.2748109,
     "categories": [
       "Pizzeria"
     ],
@@ -10069,8 +10069,8 @@
     "slug": "maison-ahema",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "153 Rue de la Roquette (11th Arrondissement), Paris",
-    "lat": null,
-    "lng": null,
+    "lat": 48.8595649,
+    "lng": 2.3865598,
     "categories": [
       "Altro"
     ],
@@ -10185,8 +10185,8 @@
     "slug": "uzeda-cafe",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Cardinale Dusmet 7, Catania",
-    "lat": null,
-    "lng": null,
+    "lat": 37.5016229,
+    "lng": 15.0873796,
     "categories": [
       "Altro"
     ],
@@ -10204,8 +10204,8 @@
     "slug": "buono-cosi-gelateria-naturale-roma",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Piazza dei Gerani 30, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.8854116,
+    "lng": 12.5675886,
     "categories": [
       "Gelateria"
     ],
@@ -10242,8 +10242,8 @@
     "slug": "il-muretto",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Monte Canda 2 (Tufello), Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.9480732,
+    "lng": 12.5337031,
     "categories": [
       "Altro"
     ],
@@ -10261,8 +10261,8 @@
     "slug": "gianni-al-mattone",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via dei Monti di Primavalle 169, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.9085639,
+    "lng": 12.4137556,
     "categories": [
       "Altro"
     ],
@@ -10280,8 +10280,8 @@
     "slug": "il-forno-del-mastro",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Vittorio Emanuele II, Monza",
-    "lat": null,
-    "lng": null,
+    "lat": 45.5840488,
+    "lng": 9.2780489,
     "categories": [
       "Panificio"
     ],
@@ -10337,8 +10337,8 @@
     "slug": "jiamo-lab",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Bergamo 15, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.9114212,
+    "lng": 12.4993997,
     "categories": [
       "Altro"
     ],
@@ -10356,8 +10356,8 @@
     "slug": "bestia",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Teodosio 4, Milano",
-    "lat": null,
-    "lng": null,
+    "lat": 45.4831388,
+    "lng": 9.230206899999999,
     "categories": [
       "Altro"
     ],
@@ -10375,8 +10375,8 @@
     "slug": "il-fornaio-sirio",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "C.so Europa 22C, Alba",
-    "lat": null,
-    "lng": null,
+    "lat": 44.6952683,
+    "lng": 8.0266741,
     "categories": [
       "Panificio"
     ],
@@ -10413,8 +10413,8 @@
     "slug": "panificio-valente-1988",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Tunisi 46, Torino",
-    "lat": null,
-    "lng": null,
+    "lat": 45.0404555,
+    "lng": 7.6576094,
     "categories": [
       "Panificio"
     ],
@@ -10451,8 +10451,8 @@
     "slug": "piscitella",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via dell'Arsenale 34, Torino",
-    "lat": null,
-    "lng": null,
+    "lat": 45.0651009,
+    "lng": 7.677452199999999,
     "categories": [
       "Altro"
     ],
@@ -10470,8 +10470,8 @@
     "slug": "vox-populi",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via dei Volsci 113/115, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.89856289999999,
+    "lng": 12.5162031,
     "categories": [
       "Altro"
     ],
@@ -10489,8 +10489,8 @@
     "slug": "bar-nazionale",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Piazza delle Erbe 41, Padova",
-    "lat": null,
-    "lng": null,
+    "lat": 45.4070827,
+    "lng": 11.8755917,
     "categories": [
       "Bar"
     ],
@@ -10580,8 +10580,8 @@
     "slug": "cerea-artisan-bakery",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Giuseppe Barbaroux 8, Torino",
-    "lat": null,
-    "lng": null,
+    "lat": 45.0712744,
+    "lng": 7.6827939,
     "categories": [
       "Panificio"
     ],
@@ -10599,8 +10599,8 @@
     "slug": "grezzo",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Taurasia 15, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.8799575,
+    "lng": 12.5026571,
     "categories": [
       "Altro"
     ],
@@ -10618,8 +10618,8 @@
     "slug": "zuccheroesale-panificio-pasticceria",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Piazza Guglielmo Oberdan 2, Milano",
-    "lat": null,
-    "lng": null,
+    "lat": 45.473928,
+    "lng": 9.2061397,
     "categories": [
       "Panificio",
       "Pasticceria"
@@ -10639,8 +10639,8 @@
     "slug": "banana-food-game-paninoteca",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via degli Olivi 48/B, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.8867592,
+    "lng": 12.5665929,
     "categories": [
       "Paninoteca"
     ],
@@ -10694,8 +10694,8 @@
     "slug": "pizza-rustica-di-giovanni-filomena",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Giovanni Porzio 66, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.84351179999999,
+    "lng": 12.4417648,
     "categories": [
       "Pizzeria"
     ],
@@ -10713,8 +10713,8 @@
     "slug": "pizzeria-da-pino",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Viale Fulvio Testi 78, Milano",
-    "lat": null,
-    "lng": null,
+    "lat": 45.5092694,
+    "lng": 9.2026957,
     "categories": [
       "Pizzeria"
     ],
@@ -10732,8 +10732,8 @@
     "slug": "millemolliche",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via di Trigoria 55, Trigoria",
-    "lat": null,
-    "lng": null,
+    "lat": 41.7702616,
+    "lng": 12.4796367,
     "categories": [
       "Altro"
     ],
@@ -10770,8 +10770,8 @@
     "slug": "roma-beer-company",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Piazzale di Ponte Milvio 40/42, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.93736639999999,
+    "lng": 12.4666862,
     "categories": [
       "Altro"
     ],
@@ -10789,8 +10789,8 @@
     "slug": "bar-vabres",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Michele Cipolla 83/85, Palermo",
-    "lat": null,
-    "lng": null,
+    "lat": 38.1100609,
+    "lng": 13.3714439,
     "categories": [
       "Bar"
     ],
@@ -10846,8 +10846,8 @@
     "slug": "boulangerie-utopie",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "20 Rue Jean-Pierre Timbaud (11th Arrondissement), Paris",
-    "lat": null,
-    "lng": null,
+    "lat": 48.8653293,
+    "lng": 2.368698,
     "categories": [
       "Altro"
     ],
@@ -10865,8 +10865,8 @@
     "slug": "rosticceria-leoncino",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Bergamo 12/a, Milano",
-    "lat": null,
-    "lng": null,
+    "lat": 45.4566343,
+    "lng": 9.208437499999999,
     "categories": [
       "Gastronomia"
     ],
@@ -10884,8 +10884,8 @@
     "slug": "shaining-food",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Valperga Caluso 27/B, Torino",
-    "lat": null,
-    "lng": null,
+    "lat": 45.0530188,
+    "lng": 7.680430400000001,
     "categories": [
       "Altro"
     ],
@@ -10960,8 +10960,8 @@
     "slug": "caldi",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Galleria Buenos Aires, Via Giovanni Masera, Milano",
-    "lat": null,
-    "lng": null,
+    "lat": 45.47952129999999,
+    "lng": 9.2110921,
     "categories": [
       "Altro"
     ],
@@ -10979,8 +10979,8 @@
     "slug": "panificio-san-giorgio",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Ponte Seveso 18, Milano",
-    "lat": null,
-    "lng": null,
+    "lat": 45.488546,
+    "lng": 9.2040095,
     "categories": [
       "Panificio"
     ],
@@ -10998,8 +10998,8 @@
     "slug": "voglia-di-pane",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Chiesa della Salute 23, Torino",
-    "lat": null,
-    "lng": null,
+    "lat": 45.0956714,
+    "lng": 7.6788413,
     "categories": [
       "Panificio"
     ],
@@ -11036,8 +11036,8 @@
     "slug": "il-fornaio",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Piazzale Tripoli, Milano",
-    "lat": null,
-    "lng": null,
+    "lat": 45.4597381,
+    "lng": 9.1486381,
     "categories": [
       "Panificio"
     ],
@@ -11055,8 +11055,8 @@
     "slug": "san-martino-pizza-bolle-gasometro",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Lungotevere di Pietra Papa 201, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.8653276,
+    "lng": 12.4746946,
     "categories": [
       "Pizzeria"
     ],
@@ -11095,8 +11095,8 @@
     "slug": "bar-pizzeria-rosticceria-tavola-calda-gerani-roma",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Piazza dei Gerani 52, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.88564119999999,
+    "lng": 12.5661522,
     "categories": [
       "Pizzeria",
       "Bar",
@@ -11118,8 +11118,8 @@
     "slug": "da-gino",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Monginevro 46, Torino",
-    "lat": null,
-    "lng": null,
+    "lat": 45.0648528,
+    "lng": 7.647377,
     "categories": [
       "Altro"
     ],
@@ -11137,8 +11137,8 @@
     "slug": "forno-pasticceria-di-ragni-massimiliano",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via di Trigoria 132, Trigoria",
-    "lat": null,
-    "lng": null,
+    "lat": 41.7652021,
+    "lng": 12.4772707,
     "categories": [
       "Panificio",
       "Pasticceria"
@@ -11158,8 +11158,8 @@
     "slug": "camin-storto",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Strada Nova 2208, Venezia",
-    "lat": null,
-    "lng": null,
+    "lat": 45.4432049,
+    "lng": 12.3316254,
     "categories": [
       "Altro"
     ],
@@ -11177,8 +11177,8 @@
     "slug": "las-lineas-de-nasca",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Verzuolo 39, Torino",
-    "lat": null,
-    "lng": null,
+    "lat": 45.066697,
+    "lng": 7.647428,
     "categories": [
       "Altro"
     ],
@@ -11215,8 +11215,8 @@
     "slug": "panificio-spagnolo-milano",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Piacenza 17, Milano",
-    "lat": null,
-    "lng": null,
+    "lat": 45.4496402,
+    "lng": 9.205628599999999,
     "categories": [
       "Panificio"
     ],
@@ -11234,8 +11234,8 @@
     "slug": "la-brace",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Principe Scordia 105, Palermo",
-    "lat": null,
-    "lng": null,
+    "lat": 38.1263601,
+    "lng": 13.359895,
     "categories": [
       "Altro"
     ],
@@ -11272,8 +11272,8 @@
     "slug": "el-padellinos",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Corso Racconigi 48, Torino",
-    "lat": null,
-    "lng": null,
+    "lat": 45.0691161,
+    "lng": 7.645729299999999,
     "categories": [
       "Altro"
     ],
@@ -11291,8 +11291,8 @@
     "slug": "pizza-mania",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via di Tor Sapienza 91/A, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.8991286,
+    "lng": 12.5913161,
     "categories": [
       "Pizzeria"
     ],
@@ -11310,8 +11310,8 @@
     "slug": "forno-pasticceria-nonna",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Iride V. Circonvallazione Canale Molinetto 61, Ravenna",
-    "lat": null,
-    "lng": null,
+    "lat": 44.4119907,
+    "lng": 12.2112976,
     "categories": [
       "Panificio",
       "Pasticceria"
@@ -11331,8 +11331,8 @@
     "slug": "supplizio",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via dei Banchi Vecchi 143, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.897487,
+    "lng": 12.467911,
     "categories": [
       "Supplizio"
     ],
@@ -11369,8 +11369,8 @@
     "slug": "pin-pun-pan",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Principe Eugenio 30, Milano",
-    "lat": null,
-    "lng": null,
+    "lat": 45.4899564,
+    "lng": 9.1651004,
     "categories": [
       "Altro"
     ],
@@ -11388,8 +11388,8 @@
     "slug": "angolo-goloso",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Luigi Cibrario 60, Torino",
-    "lat": null,
-    "lng": null,
+    "lat": 45.0808209,
+    "lng": 7.658089,
     "categories": [
       "Altro"
     ],
@@ -11407,8 +11407,8 @@
     "slug": "fonzie-the-burgers-house",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Catanzaro 33, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.9123268,
+    "lng": 12.5174766,
     "categories": [
       "Burger"
     ],
@@ -11426,8 +11426,8 @@
     "slug": "aria-gelateria",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Santa Giulia 32/F, Torino",
-    "lat": null,
-    "lng": null,
+    "lat": 45.0708342,
+    "lng": 7.6966513,
     "categories": [
       "Gelateria"
     ],
@@ -11464,8 +11464,8 @@
     "slug": "forno-di-zona-6",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Montegani 60, Milano",
-    "lat": null,
-    "lng": null,
+    "lat": 45.4327313,
+    "lng": 9.1775586,
     "categories": [
       "Panificio"
     ],
@@ -11483,8 +11483,8 @@
     "slug": "buffet-clai",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Ugo Foscolo 4, Trieste",
-    "lat": null,
-    "lng": null,
+    "lat": 45.6466765,
+    "lng": 13.7808157,
     "categories": [
       "Altro"
     ],
@@ -11502,8 +11502,8 @@
     "slug": "sandia-sano-subito",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Corso Giuseppe Garibaldi 4, Cuneo",
-    "lat": null,
-    "lng": null,
+    "lat": 44.3882921,
+    "lng": 7.547882700000001,
     "categories": [
       "Altro"
     ],
@@ -11559,8 +11559,8 @@
     "slug": "boulangerie-bomie-louvre-rivoli",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "91 Rue de Rivoli (1st Arrondissement), Paris",
-    "lat": null,
-    "lng": null,
+    "lat": 48.8606948,
+    "lng": 2.3410099,
     "categories": [
       "Altro"
     ],
@@ -11597,8 +11597,8 @@
     "slug": "panificio-e-caffetteria-il-buongusto",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Dei Gelsi, 45, Latina",
-    "lat": null,
-    "lng": null,
+    "lat": 41.3363629,
+    "lng": 13.3150297,
     "categories": [
       "Panificio",
       "Bar"
@@ -11618,8 +11618,8 @@
     "slug": "il-forno",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Rivalta 39, Torino",
-    "lat": null,
-    "lng": null,
+    "lat": 45.0567212,
+    "lng": 7.6500039,
     "categories": [
       "Panificio"
     ],
@@ -11656,8 +11656,8 @@
     "slug": "ciccios-food-marconi",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Antonio Pacinotti 21, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.871265,
+    "lng": 12.468068,
     "categories": [
       "Altro"
     ],
@@ -11713,8 +11713,8 @@
     "slug": "pezzo",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Collatina 84A, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.8986183,
+    "lng": 12.5638044,
     "categories": [
       "Altro"
     ],
@@ -11732,8 +11732,8 @@
     "slug": "forno-quattro-venti",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Viale dei Quattro Venti 23, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.8838412,
+    "lng": 12.4587703,
     "categories": [
       "Panificio"
     ],
@@ -11751,8 +11751,8 @@
     "slug": "panificio-papale",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Claudio Luigi Berthollet 24 D, Torino",
-    "lat": null,
-    "lng": null,
+    "lat": 45.0584302,
+    "lng": 7.682867099999999,
     "categories": [
       "Panificio"
     ],
@@ -11789,8 +11789,8 @@
     "slug": "pizza-al-trancio",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Viale Famagosta 10, Milano",
-    "lat": null,
-    "lng": null,
+    "lat": 45.4368558,
+    "lng": 9.1569612,
     "categories": [
       "Pizzeria"
     ],
@@ -11808,8 +11808,8 @@
     "slug": "casa-del-pane",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "SP11 16, Milano",
-    "lat": null,
-    "lng": null,
+    "lat": 45.4687701,
+    "lng": 9.128102499999999,
     "categories": [
       "Panificio"
     ],
@@ -11846,8 +11846,8 @@
     "slug": "nonno-lino",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via della Magliana 213, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.8490591,
+    "lng": 12.4585881,
     "categories": [
       "Altro"
     ],
@@ -11884,8 +11884,8 @@
     "slug": "panificio-strada",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via del Popolo 26, Vigevano",
-    "lat": null,
-    "lng": null,
+    "lat": 45.3163227,
+    "lng": 8.855767400000001,
     "categories": [
       "Panificio"
     ],
@@ -11922,8 +11922,8 @@
     "slug": "larte-del-grano",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Passerella Dei Mercati, 10, Monza",
-    "lat": null,
-    "lng": null,
+    "lat": 45.5831921,
+    "lng": 9.2768477,
     "categories": [
       "Altro"
     ],
@@ -11941,8 +11941,8 @@
     "slug": "galiano-panini",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Carlo Ravizza 5, Milano",
-    "lat": null,
-    "lng": null,
+    "lat": 45.467516,
+    "lng": 9.1521713,
     "categories": [
       "Altro"
     ],
@@ -11960,8 +11960,8 @@
     "slug": "corner",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Cattaro 20, Padova",
-    "lat": null,
-    "lng": null,
+    "lat": 45.42652330000001,
+    "lng": 11.8780413,
     "categories": [
       "Altro"
     ],
@@ -11979,8 +11979,8 @@
     "slug": "euroforno",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Tarquinio Prisco 22, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.87682299999999,
+    "lng": 12.5245575,
     "categories": [
       "Panificio"
     ],
@@ -12055,8 +12055,8 @@
     "slug": "piadineria-dalla-patrizia",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Viale delle Piante 1, Rimini",
-    "lat": null,
-    "lng": null,
+    "lat": 44.0692025,
+    "lng": 12.5467613,
     "categories": [
       "Altro"
     ],
@@ -12074,8 +12074,8 @@
     "slug": "panificio-trappetti",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Pietro Ottoboni 23, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.90691169999999,
+    "lng": 12.5399803,
     "categories": [
       "Panificio"
     ],
@@ -12093,8 +12093,8 @@
     "slug": "al-basha-er-kebbabaro",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Val di Cogne 46/48, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.9398053,
+    "lng": 12.5277029,
     "categories": [
       "Altro"
     ],
@@ -12112,8 +12112,8 @@
     "slug": "scardaci-ice-cafe",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Etnea 158, Catania",
-    "lat": null,
-    "lng": null,
+    "lat": 37.5070486,
+    "lng": 15.08643,
     "categories": [
       "Altro"
     ],
@@ -12150,8 +12150,8 @@
     "slug": "pasticceria-delizia",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Corso Cavour, 100, Latina",
-    "lat": null,
-    "lng": null,
+    "lat": 41.2145226,
+    "lng": 13.5665921,
     "categories": [
       "Pasticceria"
     ],
@@ -12169,8 +12169,8 @@
     "slug": "el-beso",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Bernardino Galliari 22, Torino",
-    "lat": null,
-    "lng": null,
+    "lat": 45.0592555,
+    "lng": 7.683241,
     "categories": [
       "Altro"
     ],
@@ -12188,8 +12188,8 @@
     "slug": "pasqualino-il-re-del-panino",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via della Pineta Sacchetti 205, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.9286921,
+    "lng": 12.426309,
     "categories": [
       "Paninoteca"
     ],
@@ -12207,8 +12207,8 @@
     "slug": "pizzeria-ostiense",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Ostiense 56, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.8715432,
+    "lng": 12.4797708,
     "categories": [
       "Pizzeria"
     ],
@@ -12245,8 +12245,8 @@
     "slug": "birretta-wine-and-food-hamburgeria",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Simone de Saint Bon 69-73, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.9124479,
+    "lng": 12.4563966,
     "categories": [
       "Burger"
     ],
@@ -12283,8 +12283,8 @@
     "slug": "la-bottega-del-pane",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Enrico Toti, 45, Latina",
-    "lat": null,
-    "lng": null,
+    "lat": 41.4701292,
+    "lng": 12.9083924,
     "categories": [
       "Panificio"
     ],
@@ -12302,8 +12302,8 @@
     "slug": "panificio-mazzini",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Giuseppe Mazzini 44, Taranto",
-    "lat": null,
-    "lng": null,
+    "lat": 40.46882069999999,
+    "lng": 17.2418628,
     "categories": [
       "Panificio"
     ],
@@ -12321,8 +12321,8 @@
     "slug": "meat-crew-american-burger",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Viale Bligny 18, Milano",
-    "lat": null,
-    "lng": null,
+    "lat": 45.4510991,
+    "lng": 9.189094899999999,
     "categories": [
       "Burger"
     ],
@@ -12340,8 +12340,8 @@
     "slug": "il-tempio",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "P.le della Stazione del Lido 10, Ostia",
-    "lat": null,
-    "lng": null,
+    "lat": 41.7322073,
+    "lng": 12.2839143,
     "categories": [
       "Altro"
     ],
@@ -12359,8 +12359,8 @@
     "slug": "forneria-carra",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Orefici 43, Mantova",
-    "lat": null,
-    "lng": null,
+    "lat": 45.1571294,
+    "lng": 10.7938529,
     "categories": [
       "Altro"
     ],
@@ -12437,8 +12437,8 @@
     "slug": "cardi-catania",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Viale Vittorio Veneto 21, Catania",
-    "lat": null,
-    "lng": null,
+    "lat": 37.5173418,
+    "lng": 15.0969171,
     "categories": [
       "Altro"
     ],
@@ -12456,8 +12456,8 @@
     "slug": "macelleria-popolare",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "P.za Ventiquattro Maggio 4, Milano",
-    "lat": null,
-    "lng": null,
+    "lat": 45.4531848,
+    "lng": 9.180136599999999,
     "categories": [
       "Macelleria"
     ],
@@ -12591,8 +12591,8 @@
     "slug": "panificio-galantino-giovanna",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Viale Monte Nero 14, Milano",
-    "lat": null,
-    "lng": null,
+    "lat": 45.4537722,
+    "lng": 9.2038177,
     "categories": [
       "Panificio"
     ],
@@ -12610,8 +12610,8 @@
     "slug": "mister-burrata",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Scipione Crisanzio 38, Bari",
-    "lat": null,
-    "lng": null,
+    "lat": 41.11966839999999,
+    "lng": 16.8677242,
     "categories": [
       "Altro"
     ],
@@ -12629,8 +12629,8 @@
     "slug": "los-tacos-no-1",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "75 9th Ave, New York City",
-    "lat": null,
-    "lng": null,
+    "lat": 40.7424509,
+    "lng": -74.0059581,
     "categories": [
       "Altro"
     ],
@@ -12648,8 +12648,8 @@
     "slug": "panificio-oberdan",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via G. Oberdan, Taranto",
-    "lat": null,
-    "lng": null,
+    "lat": 40.4665864,
+    "lng": 17.2487394,
     "categories": [
       "Panificio"
     ],
@@ -12667,8 +12667,8 @@
     "slug": "gran-forno-procaccini-roma",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Crema 13/15, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.8837112,
+    "lng": 12.5224614,
     "categories": [
       "Panificio"
     ],
@@ -12724,8 +12724,8 @@
     "slug": "paninoteca-ciaraldi",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Galleria Buenos Aires 16, Milano",
-    "lat": null,
-    "lng": null,
+    "lat": 45.4797276,
+    "lng": 9.2111628,
     "categories": [
       "Paninoteca"
     ],
@@ -12743,8 +12743,8 @@
     "slug": "bonci-pizzarium",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via della Meloria 43, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.90668790000001,
+    "lng": 12.4466605,
     "categories": [
       "Pizzeria"
     ],
@@ -12762,8 +12762,8 @@
     "slug": "leccabaffo-roma-san-paolo",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Viale Giustiniano Imperatore 266, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.8549077,
+    "lng": 12.4871692,
     "categories": [
       "Altro"
     ],
@@ -12800,8 +12800,8 @@
     "slug": "m-bun",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Urbano Rattazzi 4, Torino",
-    "lat": null,
-    "lng": null,
+    "lat": 45.0633129,
+    "lng": 7.6814133,
     "categories": [
       "Altro"
     ],
@@ -12819,8 +12819,8 @@
     "slug": "forno-da-milvio",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via dei Serpenti 7, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.8952064,
+    "lng": 12.490445,
     "categories": [
       "Panificio"
     ],
@@ -12857,8 +12857,8 @@
     "slug": "il-pane-i-dolci",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Padova 167/173, Milano",
-    "lat": null,
-    "lng": null,
+    "lat": 45.50142659999999,
+    "lng": 9.2367936,
     "categories": [
       "Panificio",
       "Pasticceria"
@@ -12916,8 +12916,8 @@
     "slug": "village-pizza",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via di Tor Sapienza 31, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.90137439999999,
+    "lng": 12.5906587,
     "categories": [
       "Pizzeria"
     ],
@@ -12954,8 +12954,8 @@
     "slug": "da-un-chicco-all-altro",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Nicola Antonio Porpora 14, Milano",
-    "lat": null,
-    "lng": null,
+    "lat": 45.4859114,
+    "lng": 9.2188912,
     "categories": [
       "Altro"
     ],
@@ -12992,8 +12992,8 @@
     "slug": "antico-forno-a-legna",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Alessandro Volta, 12, Latina",
-    "lat": null,
-    "lng": null,
+    "lat": 41.4674949,
+    "lng": 12.9028558,
     "categories": [
       "Panificio"
     ],
@@ -13049,8 +13049,8 @@
     "slug": "cit-ma-bon",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Corso Casale 34, Torino",
-    "lat": null,
-    "lng": null,
+    "lat": 45.0644223,
+    "lng": 7.702222600000001,
     "categories": [
       "Altro"
     ],
@@ -13087,8 +13087,8 @@
     "slug": "pizza-al-trancio-milano-pizzeria-magica",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Ludovico Montegani 5, Milano",
-    "lat": null,
-    "lng": null,
+    "lat": 45.4369004,
+    "lng": 9.1784223,
     "categories": [
       "Pizzeria"
     ],
@@ -13106,8 +13106,8 @@
     "slug": "crazy-frolla",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Piazza Riccardo Wagner 13, Milano",
-    "lat": null,
-    "lng": null,
+    "lat": 45.4678516,
+    "lng": 9.155999699999999,
     "categories": [
       "Altro"
     ],
@@ -13144,8 +13144,8 @@
     "slug": "lorenz-cafe-bar-ristorante-pizzeria",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Piazza del Popolo 5, Ascoli Piceno",
-    "lat": null,
-    "lng": null,
+    "lat": 42.854839,
+    "lng": 13.5752241,
     "categories": [
       "Pizzeria",
       "Bar",
@@ -13167,8 +13167,8 @@
     "slug": "forno-a-legna-di-basso-guido-panettiere",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Santa Maria 2, Cuneo",
-    "lat": null,
-    "lng": null,
+    "lat": 44.3935794,
+    "lng": 7.551592,
     "categories": [
       "Panificio"
     ],
@@ -13186,8 +13186,8 @@
     "slug": "u-furnu-de-utri",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Carlo Camozzini 10, Genova",
-    "lat": null,
-    "lng": null,
+    "lat": 44.428415,
+    "lng": 8.7501087,
     "categories": [
       "Altro"
     ],
@@ -13222,8 +13222,8 @@
     "slug": "voglia-di-pizza-da-baffo-roma",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Mario Menghini 7, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.869565,
+    "lng": 12.5285683,
     "categories": [
       "Pizzeria"
     ],
@@ -13260,8 +13260,8 @@
     "slug": "speedy-paninoteca",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Moncenisio, 14, Monza",
-    "lat": null,
-    "lng": null,
+    "lat": 45.5841995,
+    "lng": 9.265242899999999,
     "categories": [
       "Paninoteca"
     ],
@@ -13279,8 +13279,8 @@
     "slug": "gottino",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via del Guazzatoio 11/B, Reggio nell'Emilia",
-    "lat": null,
-    "lng": null,
+    "lat": 44.6935063,
+    "lng": 10.6308241,
     "categories": [
       "Altro"
     ],
@@ -13298,8 +13298,8 @@
     "slug": "fella-pizza",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Carrer de Sant Pere Més Baix 69, Barcelona",
-    "lat": null,
-    "lng": null,
+    "lat": 41.3886993,
+    "lng": 2.1791057,
     "categories": [
       "Pizzeria"
     ],
@@ -13317,8 +13317,8 @@
     "slug": "langolino",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Giacomo Matteotti 31, Lecce",
-    "lat": null,
-    "lng": null,
+    "lat": 40.3542007,
+    "lng": 18.1730456,
     "categories": [
       "Altro"
     ],
@@ -13355,8 +13355,8 @@
     "slug": "langolo-della-puccia",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Giuseppe Libertini, P.za del Duomo 78, Lecce",
-    "lat": null,
-    "lng": null,
+    "lat": 40.3523811,
+    "lng": 18.1685582,
     "categories": [
       "Altro"
     ],
@@ -13412,8 +13412,8 @@
     "slug": "lelementare-trastevere",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Benedetta 23, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.8916452,
+    "lng": 12.4688032,
     "categories": [
       "Altro"
     ],
@@ -13431,8 +13431,8 @@
     "slug": "birrificio-bajon",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Volano 11/13, Porto Corsini",
-    "lat": null,
-    "lng": null,
+    "lat": 44.49372,
+    "lng": 12.27506,
     "categories": [
       "Altro"
     ],
@@ -13450,8 +13450,8 @@
     "slug": "panificio-della-basilica",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Piazza della Repubblica 1, Torino",
-    "lat": null,
-    "lng": null,
+    "lat": 45.0757408,
+    "lng": 7.682480099999999,
     "categories": [
       "Panificio"
     ],
@@ -13488,8 +13488,8 @@
     "slug": "forno-ceralli",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Piazza Bambocci 15, Castelli Romani",
-    "lat": null,
-    "lng": null,
+    "lat": 41.80967589999999,
+    "lng": 12.6810363,
     "categories": [
       "Panificio"
     ],
@@ -13507,8 +13507,8 @@
     "slug": "panificio-artigianale-di-qualita",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Umberto I, 110, Latina",
-    "lat": null,
-    "lng": null,
+    "lat": 41.4629435,
+    "lng": 12.9053179,
     "categories": [
       "Panificio"
     ],
@@ -13526,8 +13526,8 @@
     "slug": "forno-ciabattini-roma",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via di S. Croce in Gerusalemme 23, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.8892479,
+    "lng": 12.5135183,
     "categories": [
       "Panificio"
     ],
@@ -13602,8 +13602,8 @@
     "slug": "cairoli-pasticceria-30",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Cairoli 1, Livorno",
-    "lat": null,
-    "lng": null,
+    "lat": 43.5496594,
+    "lng": 10.3099964,
     "categories": [
       "Pasticceria"
     ],
@@ -13621,8 +13621,8 @@
     "slug": "ramy-kebab",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Cristoforo Colombo 46, Torino",
-    "lat": null,
-    "lng": null,
+    "lat": 45.0589688,
+    "lng": 7.658175,
     "categories": [
       "Kebab"
     ],
@@ -13640,8 +13640,8 @@
     "slug": "bonnie-clyde-sfiziosita-romane",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Lodovico Muratori 6, Milano",
-    "lat": null,
-    "lng": null,
+    "lat": 45.4518729,
+    "lng": 9.2043953,
     "categories": [
       "Altro"
     ],
@@ -13678,8 +13678,8 @@
     "slug": "pan-cake-milano",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Pellegrino Rossi 90, Milano",
-    "lat": null,
-    "lng": null,
+    "lat": 45.5149287,
+    "lng": 9.173093,
     "categories": [
       "Altro"
     ],
@@ -13697,8 +13697,8 @@
     "slug": "ristorante-lin",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Basento 70-76, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.9166462,
+    "lng": 12.4996047,
     "categories": [
       "Ristorante"
     ],
@@ -13716,8 +13716,8 @@
     "slug": "pizzeria-il-montino",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via del Monte 1, Pisa",
-    "lat": null,
-    "lng": null,
+    "lat": 43.5233645,
+    "lng": 10.6760387,
     "categories": [
       "Pizzeria"
     ],
@@ -13735,8 +13735,8 @@
     "slug": "pizzeria-che-tavola-calda",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via dei Due Ponti 188, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.96550089999999,
+    "lng": 12.4535843,
     "categories": [
       "Pizzeria",
       "Gastronomia"
@@ -13756,8 +13756,8 @@
     "slug": "sole-luna",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via IV Novembre 9/c, Venaria Reale",
-    "lat": null,
-    "lng": null,
+    "lat": 45.128352,
+    "lng": 7.6314949,
     "categories": [
       "Altro"
     ],
@@ -13813,8 +13813,8 @@
     "slug": "goss-quality-burger",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Viale Papa Giovanni XXIII, 54, Bergamo",
-    "lat": null,
-    "lng": null,
+    "lat": 45.6930858,
+    "lng": 9.6717081,
     "categories": [
       "Burger"
     ],
@@ -13832,8 +13832,8 @@
     "slug": "magn-e-fuje-pizza-fritta-e-friggitoria",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Evangelista Torricelli 21, Milano",
-    "lat": null,
-    "lng": null,
+    "lat": 45.44413460000001,
+    "lng": 9.1765925,
     "categories": [
       "Pizzeria",
       "Friggitoria"
@@ -13853,8 +13853,8 @@
     "slug": "panificio-sanna-dal-1976",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Marghera 37, Milano",
-    "lat": null,
-    "lng": null,
+    "lat": 45.4667361,
+    "lng": 9.1522354,
     "categories": [
       "Panificio"
     ],
@@ -13929,8 +13929,8 @@
     "slug": "re-carlo-v",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Plebiscito 728, Catania",
-    "lat": null,
-    "lng": null,
+    "lat": 37.507328,
+    "lng": 15.0796852,
     "categories": [
       "Altro"
     ],
@@ -13948,8 +13948,8 @@
     "slug": "bar-rialto-da-lollo",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Ruga dei Spezieri 234, Venezia",
-    "lat": null,
-    "lng": null,
+    "lat": 45.43909499999999,
+    "lng": 12.334404,
     "categories": [
       "Bar"
     ],
@@ -13967,8 +13967,8 @@
     "slug": "pizza-luigi",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Federico Nansen 6, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.8711232,
+    "lng": 12.4817278,
     "categories": [
       "Pizzeria"
     ],
@@ -13986,8 +13986,8 @@
     "slug": "panificio-marghera",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Marghera 51, Milano",
-    "lat": null,
-    "lng": null,
+    "lat": 45.4664249,
+    "lng": 9.1511746,
     "categories": [
       "Panificio"
     ],
@@ -14043,8 +14043,8 @@
     "slug": "dessi",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Madama Cristina 63, Torino",
-    "lat": null,
-    "lng": null,
+    "lat": 45.0533134,
+    "lng": 7.679947999999999,
     "categories": [
       "Altro"
     ],
@@ -14062,8 +14062,8 @@
     "slug": "macelleria-salumeria-matteu",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Viale Bligny 26, Milano",
-    "lat": null,
-    "lng": null,
+    "lat": 45.4507975,
+    "lng": 9.1907949,
     "categories": [
       "Macelleria"
     ],
@@ -14081,8 +14081,8 @@
     "slug": "panificio-mare",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Anna Maria Taigi 6, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.85865949999999,
+    "lng": 12.4920562,
     "categories": [
       "Panificio"
     ],
@@ -14100,8 +14100,8 @@
     "slug": "panificio-pasticceria-tossini",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Trieste 14, Recco",
-    "lat": null,
-    "lng": null,
+    "lat": 44.3649768,
+    "lng": 9.1459899,
     "categories": [
       "Panificio",
       "Pasticceria"
@@ -14121,8 +14121,8 @@
     "slug": "panis-1890",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Tagliamento 62, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.921022,
+    "lng": 12.5045413,
     "categories": [
       "Altro"
     ],
@@ -14159,8 +14159,8 @@
     "slug": "di-matteo",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via dei Tribunali, Napoli",
-    "lat": null,
-    "lng": null,
+    "lat": 40.8515175,
+    "lng": 14.2588326,
     "categories": [
       "Altro"
     ],
@@ -14199,8 +14199,8 @@
     "slug": "pasticceria-citiso",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via G. Oberdan 129, Lecce",
-    "lat": null,
-    "lng": null,
+    "lat": 40.352977,
+    "lng": 18.1856028,
     "categories": [
       "Pasticceria"
     ],
@@ -14237,8 +14237,8 @@
     "slug": "pizzeria-formula-1",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via degli Equi 13, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.8969736,
+    "lng": 12.5126714,
     "categories": [
       "Pizzeria"
     ],
@@ -14275,8 +14275,8 @@
     "slug": "forno-pasticceria-il-michelangelo-della-pizza",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Emilia Romagna 60, Castelli Romani",
-    "lat": null,
-    "lng": null,
+    "lat": 41.7008129,
+    "lng": 12.693634,
     "categories": [
       "Panificio",
       "Pasticceria",
@@ -14298,8 +14298,8 @@
     "slug": "beefriendly",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Santa Giulia 35a, Torino",
-    "lat": null,
-    "lng": null,
+    "lat": 45.0705217,
+    "lng": 7.6975811,
     "categories": [
       "Altro"
     ],
@@ -14317,8 +14317,8 @@
     "slug": "da-pepen",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Vicolo Sant'Ambrogio 2/C, Parma",
-    "lat": null,
-    "lng": null,
+    "lat": 44.8014022,
+    "lng": 10.3290481,
     "categories": [
       "Altro"
     ],
@@ -14355,8 +14355,8 @@
     "slug": "gelato-baciato",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Largo delle Sette Chiese 12, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.8607075,
+    "lng": 12.4860467,
     "categories": [
       "Gelateria"
     ],
@@ -14374,8 +14374,8 @@
     "slug": "mo-mortadella-lab",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via de’ Monari 1C, Bologna",
-    "lat": null,
-    "lng": null,
+    "lat": 44.4971425,
+    "lng": 11.3428085,
     "categories": [
       "Altro"
     ],
@@ -14393,8 +14393,8 @@
     "slug": "pizzeria-da-mario",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Roma, 20, Latina",
-    "lat": null,
-    "lng": null,
+    "lat": 41.2908522,
+    "lng": 14.2707125,
     "categories": [
       "Pizzeria"
     ],
@@ -14412,8 +14412,8 @@
     "slug": "trame-brera",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Piazza S. Simpliciano, Milano",
-    "lat": null,
-    "lng": null,
+    "lat": 45.4737289,
+    "lng": 9.1839662,
     "categories": [
       "Altro"
     ],
@@ -14469,8 +14469,8 @@
     "slug": "panetteria-chierici-parma",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Strada Massimo D'Azeglio 110/A, Parma",
-    "lat": null,
-    "lng": null,
+    "lat": 44.80377910000001,
+    "lng": 10.3162391,
     "categories": [
       "Panificio"
     ],
@@ -14488,8 +14488,8 @@
     "slug": "la-pucceria-di-mary-e-vito",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Giuseppe Gianella 1, Milano",
-    "lat": null,
-    "lng": null,
+    "lat": 45.461111,
+    "lng": 9.0901418,
     "categories": [
       "Altro"
     ],
@@ -14602,8 +14602,8 @@
     "slug": "lo-zio-damerica",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Ugo Ojetti 2/6A, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.9436545,
+    "lng": 12.5480626,
     "categories": [
       "Altro"
     ],
@@ -14640,8 +14640,8 @@
     "slug": "prestipino-cafe",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Etnea 38, Catania",
-    "lat": null,
-    "lng": null,
+    "lat": 37.5033524,
+    "lng": 15.0873351,
     "categories": [
       "Altro"
     ],
@@ -14678,8 +14678,8 @@
     "slug": "chiosco-al-politico",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Piazza Castello 5, Milano",
-    "lat": null,
-    "lng": null,
+    "lat": 45.4681295,
+    "lng": 9.1801883,
     "categories": [
       "Altro"
     ],
@@ -14697,8 +14697,8 @@
     "slug": "friggitoria-napoletana-da-rosetta",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via San Biagio Dei Librai 80, Napoli",
-    "lat": null,
-    "lng": null,
+    "lat": 40.8498025,
+    "lng": 14.2599198,
     "categories": [
       "Friggitoria"
     ],
@@ -14716,8 +14716,8 @@
     "slug": "ao-streetfood-market-lab",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Viale Pico della Mirandola 50, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.8458198,
+    "lng": 12.4848466,
     "categories": [
       "Mercato"
     ],
@@ -14735,8 +14735,8 @@
     "slug": "angolo-goloso",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Cibrario 60, Torino",
-    "lat": null,
-    "lng": null,
+    "lat": 45.0808209,
+    "lng": 7.658089,
     "categories": [
       "Altro"
     ],
@@ -14754,8 +14754,8 @@
     "slug": "focacceria-genovese-santagostino",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Sant'Agostino 6, Torino",
-    "lat": null,
-    "lng": null,
+    "lat": 45.07382579999999,
+    "lng": 7.679394699999999,
     "categories": [
       "Focacceria"
     ],
@@ -14887,8 +14887,8 @@
     "slug": "pane-pizza-e-dolci",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Emanuele Filiberto 2, Milano",
-    "lat": null,
-    "lng": null,
+    "lat": 45.4858593,
+    "lng": 9.1580098,
     "categories": [
       "Panificio",
       "Pasticceria",
@@ -14910,8 +14910,8 @@
     "slug": "horas-kebab-pizza",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Claudio Luigi Berthollet 24, Torino",
-    "lat": null,
-    "lng": null,
+    "lat": 45.0583609,
+    "lng": 7.6827973,
     "categories": [
       "Pizzeria",
       "Kebab"
@@ -14931,8 +14931,8 @@
     "slug": "cuore-di-grano",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Mario Menghini 68, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.868584,
+    "lng": 12.5275458,
     "categories": [
       "Altro"
     ],
@@ -14969,8 +14969,8 @@
     "slug": "burger-art",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Raffaele Battistini 27, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.8657034,
+    "lng": 12.4466987,
     "categories": [
       "Burger"
     ],
@@ -14988,8 +14988,8 @@
     "slug": "atelier-p1",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "41bis Rue Hoche (Pantin), Paris",
-    "lat": null,
-    "lng": null,
+    "lat": 48.894533,
+    "lng": 2.40963,
     "categories": [
       "Altro"
     ],
@@ -15007,8 +15007,8 @@
     "slug": "bfr-gianicolense",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Circonvallazione Gianicolense 390, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.8773613,
+    "lng": 12.442925,
     "categories": [
       "Altro"
     ],
@@ -15026,8 +15026,8 @@
     "slug": "trame",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Brera, Milano",
-    "lat": null,
-    "lng": null,
+    "lat": 45.4710678,
+    "lng": 9.1875982,
     "categories": [
       "Altro"
     ],
@@ -15064,8 +15064,8 @@
     "slug": "la-briciola",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Piazza Santa Giulia 11, Torino",
-    "lat": null,
-    "lng": null,
+    "lat": 45.070664,
+    "lng": 7.700225000000001,
     "categories": [
       "Altro"
     ],
@@ -15083,8 +15083,8 @@
     "slug": "corsetti",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Piazza Roberto Malatesta 21, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.8869117,
+    "lng": 12.540337,
     "categories": [
       "Altro"
     ],
@@ -15102,8 +15102,8 @@
     "slug": "perfetti",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Chiesa della Salute, Torino",
-    "lat": null,
-    "lng": null,
+    "lat": 45.0988693,
+    "lng": 7.6805536,
     "categories": [
       "Altro"
     ],
@@ -15121,8 +15121,8 @@
     "slug": "da-alba",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Corso Racconigi 39, Torino",
-    "lat": null,
-    "lng": null,
+    "lat": 45.0709074,
+    "lng": 7.646980699999999,
     "categories": [
       "Altro"
     ],
@@ -15159,8 +15159,8 @@
     "slug": "bona-pizza-romana-in-teglia",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Corso Vittorio Emanuele II 8, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.8962385,
+    "lng": 12.4768037,
     "categories": [
       "Pizzeria"
     ],
@@ -15178,8 +15178,8 @@
     "slug": "emir-pizza-kebap",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "P.za Sabotino 8, Torino",
-    "lat": null,
-    "lng": null,
+    "lat": 45.0652052,
+    "lng": 7.6490943,
     "categories": [
       "Pizzeria"
     ],
@@ -15197,8 +15197,8 @@
     "slug": "chuan-xiang-ju-gastronomia",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via S. Massimo 3, Torino",
-    "lat": null,
-    "lng": null,
+    "lat": 45.0667724,
+    "lng": 7.691498099999999,
     "categories": [
       "Gastronomia"
     ],
@@ -15216,8 +15216,8 @@
     "slug": "bono-er-mejo-pork-sandwich",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Aurelio Saffi 30, Castelli Romani",
-    "lat": null,
-    "lng": null,
+    "lat": 41.8811454,
+    "lng": 12.4641051,
     "categories": [
       "Paninoteca"
     ],
@@ -15275,8 +15275,8 @@
     "slug": "indubbio",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Flaminia, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.9396406,
+    "lng": 12.4700465,
     "categories": [
       "Altro"
     ],
@@ -15313,8 +15313,8 @@
     "slug": "boulangerie-de-la-gare",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Fabio Filzi 47/a, Milano",
-    "lat": null,
-    "lng": null,
+    "lat": 45.4881978,
+    "lng": 9.203238800000001,
     "categories": [
       "Altro"
     ],
@@ -15351,8 +15351,8 @@
     "slug": "forno-cavalli",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Filippo Turati 203, Monterotondo",
-    "lat": null,
-    "lng": null,
+    "lat": 42.0624327,
+    "lng": 12.5945341,
     "categories": [
       "Panificio"
     ],
@@ -15427,8 +15427,8 @@
     "slug": "180-gradi",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Piazza del Popolo 39, Ascoli Piceno",
-    "lat": null,
-    "lng": null,
+    "lat": 42.85448179999999,
+    "lng": 13.5757342,
     "categories": [
       "Altro"
     ],
@@ -15465,8 +15465,8 @@
     "slug": "mrcino",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Port'Aurea 16, Ravenna",
-    "lat": null,
-    "lng": null,
+    "lat": 44.4153929,
+    "lng": 12.1949483,
     "categories": [
       "Altro"
     ],
@@ -15484,8 +15484,8 @@
     "slug": "gastronomia-ambrosino",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Alessandro Scarlatti 49, Napoli",
-    "lat": null,
-    "lng": null,
+    "lat": 40.8439489,
+    "lng": 14.2334964,
     "categories": [
       "Gastronomia"
     ],
@@ -15503,8 +15503,8 @@
     "slug": "yi-ji-shi-mo",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "88 Elizabeth St, New York City",
-    "lat": null,
-    "lng": null,
+    "lat": 40.7181581,
+    "lng": -73.9956575,
     "categories": [
       "Altro"
     ],
@@ -15522,8 +15522,8 @@
     "slug": "pasticceria-genuinamente",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Giovanni Battista Viotti 23, Padova",
-    "lat": null,
-    "lng": null,
+    "lat": 45.4252894,
+    "lng": 11.8986687,
     "categories": [
       "Pasticceria"
     ],
@@ -15579,8 +15579,8 @@
     "slug": "pizzeria-i-quintili",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Francesco Cangiullo 20, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.8436341,
+    "lng": 12.4877546,
     "categories": [
       "Pizzeria"
     ],
@@ -15598,8 +15598,8 @@
     "slug": "forno-gusto-e-tradizione",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Po, 35, Latina",
-    "lat": null,
-    "lng": null,
+    "lat": 41.4708225,
+    "lng": 12.888923,
     "categories": [
       "Panificio"
     ],
@@ -15617,8 +15617,8 @@
     "slug": "ciaokebab",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Centotrecento 24, Bologna",
-    "lat": null,
-    "lng": null,
+    "lat": 44.4990284,
+    "lng": 11.3509124,
     "categories": [
       "Kebab"
     ],
@@ -15636,8 +15636,8 @@
     "slug": "carraturo",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Casanova, Napoli",
-    "lat": null,
-    "lng": null,
+    "lat": 40.8559489,
+    "lng": 14.2688005,
     "categories": [
       "Altro"
     ],
@@ -15693,8 +15693,8 @@
     "slug": "cheatmeals",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via la Santa 7, Viganello",
-    "lat": null,
-    "lng": null,
+    "lat": 46.0123679,
+    "lng": 8.969114900000001,
     "categories": [
       "Altro"
     ],
@@ -15712,8 +15712,8 @@
     "slug": "la-terrasanta",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Vincenzo Monti 11/bis E, Torino",
-    "lat": null,
-    "lng": null,
+    "lat": 45.04876549999999,
+    "lng": 7.676057500000001,
     "categories": [
       "Altro"
     ],
@@ -15750,8 +15750,8 @@
     "slug": "burgers-macelleria-cucchi-dal-1967centocelle",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via dei Castani 236/a, Roma",
-    "lat": null,
-    "lng": null,
+    "lat": 41.8881352,
+    "lng": 12.5657697,
     "categories": [
       "Burger",
       "Macelleria"
@@ -15771,8 +15771,8 @@
     "slug": "panificio-la-bonta-del-forno",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Corso Mazzini, 100, Latina",
-    "lat": null,
-    "lng": null,
+    "lat": 41.4681417,
+    "lng": 12.9102111,
     "categories": [
       "Panificio"
     ],
@@ -15790,8 +15790,8 @@
     "slug": "bonnie-clyde-friggitoria-e-sfiziosita-romane",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Lodovico Muratori 6, Milano",
-    "lat": null,
-    "lng": null,
+    "lat": 45.4518729,
+    "lng": 9.2043953,
     "categories": [
       "Friggitoria"
     ],
@@ -16362,8 +16362,8 @@
     "slug": "pizza-burger-lugano",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Luigi Lavizzari 5, Lugano",
-    "lat": null,
-    "lng": null,
+    "lat": 41.87194,
+    "lng": 12.56738,
     "categories": [
       "Pizzeria",
       "Burger"
@@ -16440,8 +16440,8 @@
     "slug": "i-frutti-del-grano",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via A. Manzoni 7, Collegno",
-    "lat": null,
-    "lng": null,
+    "lat": 45.0746378,
+    "lng": 7.5974461,
     "categories": [
       "Altro"
     ],
@@ -16782,8 +16782,8 @@
     "slug": "focacceria-testagrossa",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "C.so Calatafimi 91/93/95/99, Palermo",
-    "lat": null,
-    "lng": null,
+    "lat": 38.1110309,
+    "lng": 13.3495772,
     "categories": [
       "Focacceria"
     ],
@@ -17447,8 +17447,8 @@
     "slug": "langolo-della-focaccia",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Lungomare Giovanni Bettolo 21, Recco",
-    "lat": null,
-    "lng": null,
+    "lat": 44.36138529999999,
+    "lng": 9.142336,
     "categories": [
       "Focacceria"
     ],
@@ -17504,8 +17504,8 @@
     "slug": "fully-burgers-and-fries",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Pretorio 9, Lugano",
-    "lat": null,
-    "lng": null,
+    "lat": 41.87194,
+    "lng": 12.56738,
     "categories": [
       "Burger"
     ],
@@ -17998,8 +17998,8 @@
     "slug": "sbunda",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "P.za Antonio Baiamonti 1, Milano",
-    "lat": null,
-    "lng": null,
+    "lat": 45.4821602,
+    "lng": 9.181194399999999,
     "categories": [
       "Altro"
     ],
@@ -18017,8 +18017,8 @@
     "slug": "claudio-claudio",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Viale di Trigoria 90, Trigoria",
-    "lat": null,
-    "lng": null,
+    "lat": 41.7675933,
+    "lng": 12.4774438,
     "categories": [
       "Altro"
     ],
@@ -18418,8 +18418,8 @@
     "slug": "compa-gracia",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Carrer de l'Escorial 47, Barcelona",
-    "lat": null,
-    "lng": null,
+    "lat": 41.4078785,
+    "lng": 2.1605881,
     "categories": [
       "Altro"
     ],
@@ -18513,8 +18513,8 @@
     "slug": "panificio-pasticceria-pino-lucia",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Lanfranco della Pila 51 02 - 03, Milano",
-    "lat": null,
-    "lng": null,
+    "lat": 45.5170544,
+    "lng": 9.200785,
     "categories": [
       "Panificio",
       "Pasticceria"
@@ -18553,8 +18553,8 @@
     "slug": "flli-de-angelis-snc",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Italo Belardi 60, Castelli Romani",
-    "lat": null,
-    "lng": null,
+    "lat": 41.7068331,
+    "lng": 12.6909609,
     "categories": [
       "Altro"
     ],
@@ -19087,8 +19087,8 @@
     "slug": "la-pagnottella-milano",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Corso Cristoforo Colombo, Viale Gorizia 1, Milano",
-    "lat": null,
-    "lng": null,
+    "lat": 45.45500209999999,
+    "lng": 9.1730171,
     "categories": [
       "Altro"
     ],
@@ -19106,8 +19106,8 @@
     "slug": "sa-crocoriga",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Cardinale Guglielmo Massaia 54 Entrata su Via Casteldelfino 11, Torino",
-    "lat": null,
-    "lng": null,
+    "lat": 45.0985543,
+    "lng": 7.6718305,
     "categories": [
       "Altro"
     ],
@@ -19623,8 +19623,8 @@
     "slug": "piatina-tradizione-dolce-e-sale",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Via Cassino snc, Ravenna",
-    "lat": null,
-    "lng": null,
+    "lat": 44.4072054,
+    "lng": 12.1940548,
     "categories": [
       "Altro"
     ],
@@ -20094,8 +20094,8 @@
     "slug": "mi-food",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "S.da Nuova 10, Pavia",
-    "lat": null,
-    "lng": null,
+    "lat": 45.1822886,
+    "lng": 9.1536776,
     "categories": [
       "Altro"
     ],
@@ -20571,8 +20571,8 @@
     "slug": "ai-do-gati",
     "url": "https://v0-franchino-v2.vercel.app/",
     "address": "Salizada de le Gatte 3189, Venezia",
-    "lat": null,
-    "lng": null,
+    "lat": 45.4367309,
+    "lng": 12.3474297,
     "categories": [
       "Altro"
     ],

@@ -18,20 +18,20 @@ App mappa che mostra locali/ristoranti recensiti da guide italiane.
 ## TODO
 
 ### Geocoding
-- [ ] Franchino: solo 250/1086 geocodificati (Nominatim non trova molti indirizzi informali). Usare Google Geocoding API o Photon per migliorare la copertura
-- [ ] Pecora Nera: 298 locali senza coordinate. Ritentare con geocoder alternativo o pulire gli indirizzi
+- [ ] Franchino: solo 250/1086 geocodificati (Nominatim non trova molti indirizzi). Usare Google Geocoding API per migliorare la copertura
+- [ ] Pecora Nera: 298 locali senza coordinate. Ritentare con geocoder alternativo
 
 ### Dati
 - [ ] Franchino: molte tipologie sono "Altro" (457/1086) — migliorare la categorizzazione
-- [ ] Pecora Nera: rieseguire lo scraper periodicamente per aggiornare i dati
+- [ ] Dissapore: mancano descrizioni e rating
 - [ ] Aggiungere nuove guide/fonti
+- [ ] Rieseguire scraper periodicamente per aggiornare i dati
 
 ### App
-- [ ] Committare e pushare il repo su GitHub
-- [ ] Performance: il bundle JS è ~1.8MB (mapbox-gl è grosso) — valutare code splitting
 - [ ] Immagini: aggiungere un'immagine a ogni locale nella detail card (scrape da pagine guida o Google Places API)
 - [ ] Clustering dei marker quando sono troppo vicini (a zoom bassi)
 - [ ] Filtro per tipologia (pizzeria, osteria, ecc.)
+- [ ] Performance: il bundle JS è ~1.8MB (mapbox-gl) — valutare code splitting
 
 ## Comandi
 
