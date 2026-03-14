@@ -1,0 +1,6 @@
+node_modules/
+dist/
+data/pecora_nera_raw.json
+data/pecora_nera_test.json
+.DS_Store
+.env

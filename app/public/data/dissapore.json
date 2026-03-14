@@ -1,0 +1,5830 @@
+[
+  {
+    "name": "Trattoria del Nuovo Macello",
+    "slug": "trattoria-del-nuovo-macello",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJkXkjE4DGhkcRR2FiEMwPiz0",
+    "address": "Milano (MI)",
+    "lat": 45.4560718,
+    "lng": 9.2261014,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Lombardia"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Al Maniero",
+    "slug": "al-maniero",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJVza7UeS_iEcRX3k0Nfbc100",
+    "address": "Issogne (AO)",
+    "lat": 45.6536438,
+    "lng": 7.6880405,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Valle d'Aosta"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Osteria dell’Arco",
+    "slug": "osteria-dell’arco",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJDU5JWWiz0hIRp4RFCSu3Nks",
+    "address": "Alba (CN)",
+    "lat": 44.6968498,
+    "lng": 8.0346533,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Piemonte"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "‘L Bunet",
+    "slug": "‘l-bunet",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJBZ2O-THG0hIRWHhTVFS052I",
+    "address": "Bergolo (CN)",
+    "lat": 44.5475775,
+    "lng": 8.1825569,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Piemonte"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Locanda dell’Olmo",
+    "slug": "locanda-dell’olmo",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJgz5Kf3Zwh0cR2ZkYLYaRwFY",
+    "address": "Bosco Marengo (AL)",
+    "lat": 44.8217374,
+    "lng": 8.6775938,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Piemonte"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Battaglino",
+    "slug": "battaglino",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJsRhsTHWr0hIRYgondr3WHnU",
+    "address": "Bra (CN)",
+    "lat": 44.6936596,
+    "lng": 7.8507564,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Piemonte"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Boccondivino",
+    "slug": "boccondivino",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJpyuXP3Sr0hIRcc2yTuSyibQ",
+    "address": "Bra (CN)",
+    "lat": 44.6960147,
+    "lng": 7.8546939,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Piemonte"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Fuorimano",
+    "slug": "fuorimano",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJNQA-NuQ_zRIRTeI8B4a2LZo",
+    "address": "Busca (CN)",
+    "lat": 44.4783764,
+    "lng": 7.4448772,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Piemonte"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Reis Cibo Libero di Montagna",
+    "slug": "reis-cibo-libero-di-montagna",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJn_duFRo7zRIRrkVA28k2UBE",
+    "address": "Busca (CN)",
+    "lat": 44.5384934,
+    "lng": 7.349959,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Piemonte"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Il Moro",
+    "slug": "il-moro",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJ_4jsN8Rkh0cRRXQ3AcvlF8Q",
+    "address": "Capriata d’Orba (AL)",
+    "lat": 44.7298785,
+    "lng": 8.6886372,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Piemonte"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Cacciatori",
+    "slug": "cacciatori",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJUVdgV-rW0hIRORWxYuDTrKg",
+    "address": "Cartosio (AL)",
+    "lat": 44.5938014,
+    "lng": 8.4207539,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Piemonte"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Madonna della Neve",
+    "slug": "madonna-della-neve",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJ4_m_mjTM0hIRx0GHFSUI0oU",
+    "address": "Cessole (AT)",
+    "lat": 44.6405988,
+    "lng": 8.2636534,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Piemonte"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "La Torre",
+    "slug": "la-torre",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJmRbhFlmp0hIRJfPwYt0VkPM",
+    "address": "Cherasco (CN)",
+    "lat": 44.6515738,
+    "lng": 7.8570661,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Piemonte"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Locanda dell’Arco",
+    "slug": "locanda-dell’arco",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJhzyIrA660hIR8px0uiBM1wA",
+    "address": "Cissone (CN)",
+    "lat": 44.563177,
+    "lng": 8.030227,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Piemonte"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "La Speranza",
+    "slug": "la-speranza",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJrZHLDYik0hIRMNzBmALFgjs",
+    "address": "Farigliano (CN)",
+    "lat": 44.5111552,
+    "lng": 7.91678,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Piemonte"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Locanda Fontanazza",
+    "slug": "locanda-fontanazza",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJq2vvT2mu0hIRdegQIfQdCP8",
+    "address": "La Morra (CN)",
+    "lat": 44.6338486,
+    "lng": 7.9322556,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Piemonte"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Lou Pitavin",
+    "slug": "lou-pitavin",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJSVlldNkfzRIRTvhaPJOvYmc",
+    "address": "Marmora (CN)",
+    "lat": 44.4550033,
+    "lng": 7.0970143,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Piemonte"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Repubblica di Perno",
+    "slug": "repubblica-di-perno",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJRSiISzOw0hIRjNs505kAHKs",
+    "address": "Monforte d’Alba (CN)",
+    "lat": 44.6093437,
+    "lng": 7.9744014,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Piemonte"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Belvedere Roero",
+    "slug": "belvedere-roero",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJh8mRt1H5h0cRd1hHF8FNDzA",
+    "address": "Monteu Roero (CN)",
+    "lat": 44.7925567,
+    "lng": 7.8990339,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Piemonte"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Cantina dei Cacciatori",
+    "slug": "cantina-dei-cacciatori",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJsfQkyW35h0cRLNGHg2Xy45o",
+    "address": "Monteu Roero (CN)",
+    "lat": 44.7849633,
+    "lng": 7.9080627,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Piemonte"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Da Vittorio",
+    "slug": "da-vittorio",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJf_U4RYCR0hIRusXACoXP9oU",
+    "address": "Nucetto (CN)",
+    "lat": 44.3423562,
+    "lng": 8.0611653,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Piemonte"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Corona di Ferro",
+    "slug": "corona-di-ferro",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJgZAh9xxJzRIR_aAmJD06LUs",
+    "address": "Saluzzo (CN)",
+    "lat": 44.644835,
+    "lng": 7.494572,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Piemonte"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Osteria della Pace",
+    "slug": "osteria-della-pace",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJNdHJMbHizBIRoMGwzp-1AtU",
+    "address": "Sambuco (CN)",
+    "lat": 44.3379379,
+    "lng": 7.075872,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Piemonte"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Del Belbo da Bardon",
+    "slug": "del-belbo-da-bardon",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJ4dtmKZKIh0cRILLGWklwvxY",
+    "address": "San Marzano Oliveto (AT)",
+    "lat": 44.7404065,
+    "lng": 8.3186924,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Piemonte"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "La Coccinella",
+    "slug": "la-coccinella",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJ3TYmc-W50hIRmpQj9RFgGRE",
+    "address": "Serravalle Langhe (CN)",
+    "lat": 44.558073,
+    "lng": 8.0597483,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Piemonte"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Impero",
+    "slug": "impero",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJX7hNbslBhkcRCMiz8eU2vrg",
+    "address": "Sizzano (NO)",
+    "lat": 45.5762412,
+    "lng": 8.4380054,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Piemonte"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Antiche Sere",
+    "slug": "antiche-sere",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJFZq8X-VsiEcRn3Kh9e85ouE",
+    "address": "Torino (TO)",
+    "lat": 45.0709871,
+    "lng": 7.6429045,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Piemonte"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Consorzio",
+    "slug": "consorzio",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJ02nH_nJtiEcRXysaF5RpBcw",
+    "address": "Torino (TO)",
+    "lat": 45.0715807,
+    "lng": 7.6792307,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Piemonte"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Scannabue",
+    "slug": "scannabue",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJ4YaFL0JtiEcRY2C-6YgMqWk",
+    "address": "Torino (TO)",
+    "lat": 45.058326,
+    "lng": 7.6790717,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Piemonte"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Osteria dell’Unione",
+    "slug": "osteria-dell’unione",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJn_s7suO00hIRfSLLdjCAZ2A",
+    "address": "Treiso (CN)",
+    "lat": 44.688809,
+    "lng": 8.087112,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Piemonte"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Locanda del Falco",
+    "slug": "locanda-del-falco",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJ0bWgceINzRIRbhSIWgQ7pz0",
+    "address": "Valdieri (CN)",
+    "lat": 44.2770544,
+    "lng": 7.39763,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Piemonte"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Cian de Bià",
+    "slug": "cian-de-bià",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJu0M8hpZ20hIRrSqvv5s7wjg",
+    "address": "Badalucco (IM)",
+    "lat": 43.9165039,
+    "lng": 7.847581,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Liguria"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Mse Tutta",
+    "slug": "mse-tutta",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJBUEsqj2N0hIRQunqkyGdpHo",
+    "address": "Calizzano (SV)",
+    "lat": 44.2361678,
+    "lng": 8.1144247,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Liguria"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Il Castagneto",
+    "slug": "il-castagneto",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJ2dz3ZheV1BIRCRwolL1FFvg",
+    "address": "Castiglione Chiavarese (GE)",
+    "lat": 44.2735781,
+    "lng": 9.5035126,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Liguria"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "A Viassa",
+    "slug": "a-viassa",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJZcbvXEWNzRIRYHuSriMJ1cs",
+    "address": "Dolceacqua (IM)",
+    "lat": 43.8518044,
+    "lng": 7.6233614,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Liguria"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Raieü",
+    "slug": "raieü",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJJRrgvpGX1BIRQwNym5-FEGc",
+    "address": "Lavagna (GE)",
+    "lat": 44.2902819,
+    "lng": 9.3799452,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Liguria"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Ligagin",
+    "slug": "ligagin",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJx5zbKUpZ0xIR2bI6RcjS9lA",
+    "address": "Lumarzo (GE)",
+    "lat": 44.415813,
+    "lng": 9.1211098,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Liguria"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Baccicin du Caru",
+    "slug": "baccicin-du-caru",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJu1g0b9A70xIRWptSucuiSPU",
+    "address": "Mele (GE)",
+    "lat": 44.4698722,
+    "lng": 8.7391129,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Liguria"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "La Brinca",
+    "slug": "la-brinca",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJU7lnJtm81BIRoueYJ7M1hRY",
+    "address": "Ne (GE)",
+    "lat": 44.3538687,
+    "lng": 9.3891784,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Liguria"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "U Giancu",
+    "slug": "u-giancu",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJSRt8gfVf0xIRTBI2qrbOyx4",
+    "address": "Rapallo (GE)",
+    "lat": 44.3489225,
+    "lng": 9.1927678,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Liguria"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Visconti",
+    "slug": "visconti",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJjQLtVUtTgUcRgPiOHuABhq8",
+    "address": "Ambivere (BG)",
+    "lat": 45.7180197,
+    "lng": 9.5474357,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Lombardia"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Le Frise",
+    "slug": "le-frise",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJ152o0J_Qg0cRKVlCKAJdEME",
+    "address": "Artogne (BS)",
+    "lat": 45.8570086,
+    "lng": 10.1761226,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Lombardia"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Locanda degli Artisti",
+    "slug": "locanda-degli-artisti",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJb76oy8GsgUcRXQbU_vStYlI",
+    "address": "Cappella de’ Picenardi (CR)",
+    "lat": 45.1591685,
+    "lng": 10.2306716,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Lombardia"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "La Piana",
+    "slug": "la-piana",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJfTD9K7C8hkcRhEbFF-AhsmI",
+    "address": "Carate Brianza (MB)",
+    "lat": 45.6751013,
+    "lng": 9.2403405,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Hostaria Viola",
+    "slug": "hostaria-viola",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJdekKkve-gUcRVTlimi--b5s",
+    "address": "Castiglione delle Stiviere (MN)",
+    "lat": 45.3800972,
+    "lng": 10.5090791,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Lombardia"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Tamì",
+    "slug": "tamì",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJB36Dn6_Ug0cRC-SH48s-wnM",
+    "address": "Collio (BS)",
+    "lat": 45.8100758,
+    "lng": 10.3338217,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Lombardia"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Finil del Pret",
+    "slug": "finil-del-pret",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJnd2Gl7ZsgUcRSbdwi8i17Fg",
+    "address": "Comezzano-Cizzago (BS)",
+    "lat": 45.4748994,
+    "lng": 9.9569929,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Lombardia"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Da Sapì",
+    "slug": "da-sapì",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJV55130bOg0cRfclMyXEimZ4",
+    "address": "Esine (BS)",
+    "lat": 45.9231019,
+    "lng": 10.2576936,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Lombardia"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Antica Trattoria del Gallo",
+    "slug": "antica-trattoria-del-gallo",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJA623z0PohkcRj-n1iut0jvQ",
+    "address": "Gaggiano (MI)",
+    "lat": 45.3799596,
+    "lng": 9.0248252,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Lombardia"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Antica Trattoria Piè del Dos",
+    "slug": "antica-trattoria-piè-del-dos",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJNwAmyKVwgUcRiiStAJ_K-cA",
+    "address": "Gussago (BS)",
+    "lat": 45.5980135,
+    "lng": 10.1575287,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Lombardia"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Caffè la Crepa",
+    "slug": "caffè-la-crepa",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJR1IWb3yygUcRWzKOFJhPrPQ",
+    "address": "Isola Dovarese (CR)",
+    "lat": 45.1763703,
+    "lng": 10.3126062,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Lombardia"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Trattoria delle Miniere",
+    "slug": "trattoria-delle-miniere",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJ3_Vad9D5g0cRiOgfckfxx_s",
+    "address": "Lenna (BG)",
+    "lat": 45.9438326,
+    "lng": 9.6844605,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Lombardia"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Al Resù",
+    "slug": "al-resù",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJR_3qrq_Ig0cRqi2iDMfct_A",
+    "address": "Lozio (BS)",
+    "lat": 45.9885566,
+    "lng": 10.2264063,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Lombardia"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Sali e Tabacchi",
+    "slug": "sali-e-tabacchi",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJkemQflgZhEcRxJum7gW5-_c",
+    "address": "Mandello del Lario (LC)",
+    "lat": 45.9163624,
+    "lng": 9.3307205,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Lombardia"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Trippa",
+    "slug": "trippa",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJaa0ThCHEhkcRI1IK3ek_ePw",
+    "address": "Milano (MI)",
+    "lat": 45.452166,
+    "lng": 9.2054825,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Lombardia"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Prato Gaio",
+    "slug": "prato-gaio",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJh5q629A0h0cRyx8sJe0TVHg",
+    "address": "Montecalvo Versiggia (PV)",
+    "lat": 44.9652984,
+    "lng": 9.2909415,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Lombardia"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Guallina",
+    "slug": "guallina",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJo_D9NI0Bh0cRiOo8lOZobw0",
+    "address": "Mortara (PV)",
+    "lat": 45.2533534,
+    "lng": 8.7911246,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Lombardia"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Trattoria dell’Alba",
+    "slug": "trattoria-dell’alba",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJyykiXlVLgEcR4TrjLHcC2EM",
+    "address": "Piadena Drizzona (CR)",
+    "lat": 45.1268386,
+    "lng": 10.381065,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Lombardia"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Osteria del Miglio 2.10",
+    "slug": "osteria-del-miglio-2.10",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJf8myF-pVgEcReCv84BzZKo4",
+    "address": "Pieve San Giacomo (CR)",
+    "lat": 45.1306998,
+    "lng": 10.187931,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Lombardia"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Polisena l’Altro Agriturismo",
+    "slug": "polisena-l’altro-agriturismo",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJlZXfmXirhkcRrJl9wNP-XMs",
+    "address": "Pontida (BG)",
+    "lat": 45.7434996,
+    "lng": 9.5103732,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Lombardia"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Via Vai",
+    "slug": "via-vai",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJcW5jQdokgUcRVHo-0dpxAyQ",
+    "address": "Ripalta Cremasca (CR)",
+    "lat": 45.3320618,
+    "lng": 9.6613169,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Lombardia"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Lago Scuro",
+    "slug": "lago-scuro",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJUyBOCAdWgEcRKr7BqolvIDM",
+    "address": "Stagno Lombardo (CR)",
+    "lat": 45.0854634,
+    "lng": 10.0923498,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Lombardia"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Osteria del Campanile",
+    "slug": "osteria-del-campanile",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJD6-EOrM5h0cR5REd3Tg7bYk",
+    "address": "Torrazza Coste (PV)",
+    "lat": 44.9757731,
+    "lng": 9.0881312,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Lombardia"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Kürbishof",
+    "slug": "kürbishof",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJdSQxKDl-eEcRHq1njwm7KuE",
+    "address": "Anterivo-Altrei (BZ)",
+    "lat": 46.2746868,
+    "lng": 11.3726363,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Trentino-Alto Adige"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Oberraut",
+    "slug": "oberraut",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJJ7Vp4HEgeEcRACvTtyeI2-Y",
+    "address": "Brunico-Bruneck (BZ)",
+    "lat": 46.8122666,
+    "lng": 11.9630746,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Trentino-Alto Adige"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Maso Santa Romina",
+    "slug": "maso-santa-romina",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJp3rOHiH0eEcRJYprVbsGaRU",
+    "address": "Canal San Bovo (TN)",
+    "lat": 46.1687017,
+    "lng": 11.7618517,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Trentino-Alto Adige"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Drumlerhof",
+    "slug": "drumlerhof",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJq8fHq0Hzd0cRY0GyhYs5x-U",
+    "address": "Campo Tures-Sand in Taufers (BZ)",
+    "lat": 46.9193724,
+    "lng": 11.9522471,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Trentino-Alto Adige"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Alter Fausthof",
+    "slug": "alter-fausthof",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJUW5mYKF1eEcRAvlmrel-8eA",
+    "address": "Fiè allo Sciliar-Voels am Schlern (BZ)",
+    "lat": 46.5040714,
+    "lng": 11.466634,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Trentino-Alto Adige"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Pitzock",
+    "slug": "pitzock",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJ01STMbkReEcRt4QMMp2smoM",
+    "address": "Funes-Villnöss (BZ)",
+    "lat": 46.6405479,
+    "lng": 11.6838904,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Trentino-Alto Adige"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Locanda delle Tre Chiavi",
+    "slug": "locanda-delle-tre-chiavi",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJpUMPivQOgkcRkLjZJ0jFRpc",
+    "address": "Isera (TN)",
+    "lat": 45.8861222,
+    "lng": 11.00895,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Trentino-Alto Adige"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Boivin",
+    "slug": "boivin",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJDxeW0sqeeEcRXuNodxDofnQ",
+    "address": "Levico Terme (TN)",
+    "lat": 46.0111898,
+    "lng": 11.3004651,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Trentino-Alto Adige"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Lusernarhof",
+    "slug": "lusernarhof",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJMai1lPmieEcRLvtZhZ0Ybv0",
+    "address": "Luserna (TN)",
+    "lat": 45.924093,
+    "lng": 11.3180059,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Trentino-Alto Adige"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Osteria Storica Morelli",
+    "slug": "osteria-storica-morelli",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJQbUzbP6ceEcR-C90dVi-Y5I",
+    "address": "Pergine Valsugana (TN)",
+    "lat": 46.077962,
+    "lng": 11.2779381,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Trentino-Alto Adige"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Nerina",
+    "slug": "nerina",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJcSPCF96OgkcRGZIY84MB4lE",
+    "address": "Romeno (TN)",
+    "lat": 46.380254,
+    "lng": 11.0933426,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Trentino-Alto Adige"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Lerchner’s in Runggen",
+    "slug": "lerchner’s-in-runggen",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJp6GwdBofeEcRSI_nlxldRxQ",
+    "address": "San Lorenzo di Sebato (BZ)",
+    "lat": 46.7784449,
+    "lng": 11.8772172,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Trentino-Alto Adige"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Lamm Mitterwirt",
+    "slug": "lamm-mitterwirt",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJ0fyV77CwgkcRvXOoSX5RdYg",
+    "address": "San Martino in Passiria-Sankt Martin in Passeier (BZ)",
+    "lat": 46.7846085,
+    "lng": 11.2277197,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Trentino-Alto Adige"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Waldruhe",
+    "slug": "waldruhe",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJYdc_nXzUeUcRQcigcosZNEg",
+    "address": "Sesto-Sexten (BZ)",
+    "lat": 46.7102014,
+    "lng": 12.3499441,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Trentino-Alto Adige"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Ciasa dò Parè",
+    "slug": "ciasa-dò-parè",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJiV7x47loeEcRHgLu4eRTnt0",
+    "address": "Soraga (TN)",
+    "lat": 46.3990276,
+    "lng": 11.6681235,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Trentino-Alto Adige"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Durnwald",
+    "slug": "durnwald",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJhcYK9q8peEcRU0-pZ_FoIGw",
+    "address": "Valle di Casies-Gsies (BZ)",
+    "lat": 46.7684446,
+    "lng": 12.1793707,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Trentino-Alto Adige"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Laita La Contrada del Gusto",
+    "slug": "laita-la-contrada-del-gusto",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJa8ErYptSf0cR7in8Ejzo1dY",
+    "address": "Altissimo (VI)",
+    "lat": 45.6269995,
+    "lng": 11.2309387,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Veneto"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Zamboni",
+    "slug": "zamboni",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJ7_MT2Hkwf0cRg25FM1UIRvQ",
+    "address": "Arcugnano (VI)",
+    "lat": 45.475076,
+    "lng": 11.5360096,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Veneto"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Alle Codole",
+    "slug": "alle-codole",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJ_5r7uspaeEcRkWXTy-czM7k",
+    "address": "Canale d’Agordo (BL)",
+    "lat": 46.3567327,
+    "lng": 11.9135592,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Veneto"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Pironetomosca",
+    "slug": "pironetomosca",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJ1W2OyMcpeUcRVKWeSN8OBcA",
+    "address": "Castelfranco Veneto (TV)",
+    "lat": 45.6541973,
+    "lng": 11.9061748,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Veneto"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "La Muda di San Boldo",
+    "slug": "la-muda-di-san-boldo",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJnZTnbJUaeUcR0zejCCi_s68",
+    "address": "Cison di Valmarino (TV)",
+    "lat": 46.0057312,
+    "lng": 12.1698415,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Veneto"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Enoteca della Valpolicella",
+    "slug": "enoteca-della-valpolicella",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJmSy4IzT7gUcRbRTYG_0PcFs",
+    "address": "Fumane (VR)",
+    "lat": 45.5406182,
+    "lng": 10.8913524,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Veneto"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Locanda Aurilia",
+    "slug": "locanda-aurilia",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJWV99BMcseUcRrLX83pHHaHM",
+    "address": "Loreggia (PD)",
+    "lat": 45.5948336,
+    "lng": 11.9441305,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Veneto"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Al Ponte",
+    "slug": "al-ponte",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJyy_L6Cf8fkcRgDqYfYJKwI0",
+    "address": "Lusia (RO)",
+    "lat": 45.0791976,
+    "lng": 11.660106,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Veneto"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Madonnetta",
+    "slug": "madonnetta",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJh9FSZr7PeEcRAzbLjnptiq0",
+    "address": "Marostica (VI)",
+    "lat": 45.7448557,
+    "lng": 11.6547903,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Veneto"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Il Sogno",
+    "slug": "il-sogno",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJV1xG1AnJfkcRCHWzLauorfY",
+    "address": "Mirano (VE)",
+    "lat": 45.4662733,
+    "lng": 12.0996722,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Veneto"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Da Paeto",
+    "slug": "da-paeto",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJz_NWJejOfkcRcccQzedwmkg",
+    "address": "Pianiga (VE)",
+    "lat": 45.4693048,
+    "lng": 12.0356019,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Veneto"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Arcadia",
+    "slug": "arcadia",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJ67-iwEzRfUcRQZB54q_nUMk",
+    "address": "Porto Tolle (RO)",
+    "lat": 44.8385653,
+    "lng": 12.3770696,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Veneto"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Al Forno",
+    "slug": "al-forno",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJU6xuYCcXeUcRu8WiXzbyzJE",
+    "address": "Refrontolo (TV)",
+    "lat": 45.9245283,
+    "lng": 12.2080133,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Veneto"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Antica Trattoria al Bosco",
+    "slug": "antica-trattoria-al-bosco",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJzQ981RbEfkcRZDrpZxn4nFI",
+    "address": "Saonara (PD)",
+    "lat": 45.3642242,
+    "lng": 11.9887178,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Veneto"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "San Siro",
+    "slug": "san-siro",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJ422jnpDmeEcRQicT2OPc2Pw",
+    "address": "Seren del Grappa (BL)",
+    "lat": 45.9704724,
+    "lng": 11.8435142,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Veneto"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Da Doro",
+    "slug": "da-doro",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJKcjg8DbbeEcRk-UI3k-PIxU",
+    "address": "Solagna (VI)",
+    "lat": 45.8141499,
+    "lng": 11.7207009,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Veneto"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Isetta",
+    "slug": "isetta",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJFSBSv-Y7f0cRlIgam9M4Nwg",
+    "address": "Val Liona (VI)",
+    "lat": 45.4188834,
+    "lng": 11.4591752,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Veneto"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Osteria Bertoliana",
+    "slug": "osteria-bertoliana",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJP3j5LNYzf0cRGzESZf70D9g",
+    "address": "Vicenza (VI)",
+    "lat": 45.5478629,
+    "lng": 11.5445524,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Veneto"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Il Capriolino",
+    "slug": "il-capriolino",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJ5aJolEG0eUcRJA5k6nDmxWE",
+    "address": "Vodo di Cadore (BL)",
+    "lat": 46.4215784,
+    "lng": 12.2409935,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Veneto"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Borgo Poscolle",
+    "slug": "borgo-poscolle",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJmWPmRL4hekcR3niMQ5F0nNc",
+    "address": "Cavazzo Carnico (UD)",
+    "lat": 46.3654526,
+    "lng": 13.0382367,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Friuli Venezia Giulia"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Rosenbar",
+    "slug": "rosenbar",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJrUMOCMwAe0cRojgLcCfmsUE",
+    "address": "Gorizia (GO)",
+    "lat": 45.9364222,
+    "lng": 13.6146461,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Friuli Venezia Giulia"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "La Stella",
+    "slug": "la-stella",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJSb2_7y6EeUcRHD-KSLZQMXc",
+    "address": "Meduno (PN)",
+    "lat": 46.217176,
+    "lng": 12.7834465,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Friuli Venezia Giulia"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Ivana & Secondo",
+    "slug": "ivana-&-secondo",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJ_5_7DVMoekcRg1DBFtuhiJs",
+    "address": "Pinzano al Tagliamento (PN)",
+    "lat": 46.2084936,
+    "lng": 12.9327033,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Friuli Venezia Giulia"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Allo Storione",
+    "slug": "allo-storione",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJ7fQuL6JneUcRawR_PUFCYwQ",
+    "address": "Prata di Pordenone (PN)",
+    "lat": 45.84342,
+    "lng": 12.5663211,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Friuli Venezia Giulia"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Devetak",
+    "slug": "devetak",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJX3ha5_QHe0cRQh--jAkpC6w",
+    "address": "Savogna d’Isonzo-Sovodnje ob Soci (GO)",
+    "lat": 45.8845586,
+    "lng": 13.5603791,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Friuli Venezia Giulia"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Da Alvise",
+    "slug": "da-alvise",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJq0ppIq33eUcR1rKCG-0q-cI",
+    "address": "Sutrio (UD)",
+    "lat": 46.5134841,
+    "lng": 12.9892704,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Friuli Venezia Giulia"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Antica Trattoria Suban",
+    "slug": "antica-trattoria-suban",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJOT4ibuFqe0cRS9uCRJI4Ls0",
+    "address": "Trieste (TS)",
+    "lat": 45.6533614,
+    "lng": 13.8081486,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Friuli Venezia Giulia"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "L’Approdo",
+    "slug": "l’approdo",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJN4peOw1re0cR-p98PVZEC4U",
+    "address": "Trieste (TS)",
+    "lat": 45.6493835,
+    "lng": 13.778301,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Friuli Venezia Giulia"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Antica Trattoria Menarosti",
+    "slug": "antica-trattoria-menarosti",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJGVnsaA1re0cRGHLB7Uqy3D4",
+    "address": "Trieste (TS)",
+    "lat": 45.6507348,
+    "lng": 13.7790237,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Friuli Venezia Giulia"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Stella d’Oro",
+    "slug": "stella-d’oro",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJSarpVKqKeUcRPTSViOHW0gU",
+    "address": "Verzegnis (UD)",
+    "lat": 46.3944444,
+    "lng": 12.9725,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Friuli Venezia Giulia"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Trattoria di Via Serra",
+    "slug": "trattoria-di-via-serra",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJUxJe2GHTf0cRXz0sImljPqM",
+    "address": "Bologna (BO)",
+    "lat": 44.5094816,
+    "lng": 11.3455525,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Emilia-Romagna"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "La Lanterna di Diogene",
+    "slug": "la-lanterna-di-diogene",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJ65nKeFeVf0cRkrrXXk-Y_gE",
+    "address": "Bomporto (MO)",
+    "lat": 44.7636368,
+    "lng": 11.086958,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Emilia-Romagna"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Campanini",
+    "slug": "campanini",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJgS7WXSFZgEcRsn0Ct8rNAtQ",
+    "address": "Busseto (PR)",
+    "lat": 44.9683397,
+    "lng": 10.0846317,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Emilia-Romagna"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Locanda Mariella",
+    "slug": "locanda-mariella",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJld63bvd2gEcR2dP4iISqVHI",
+    "address": "Calestano (PR)",
+    "lat": 44.5867875,
+    "lng": 10.159033,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Emilia-Romagna"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Badessa",
+    "slug": "badessa",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJrb-O8fL5f0cRK_sBcBACSz0",
+    "address": "Casalgrande (RE)",
+    "lat": 44.6251185,
+    "lng": 10.7490314,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Emilia-Romagna"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Da Faccini",
+    "slug": "da-faccini",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJhX1HhS7zgEcRsd68SZVE2S8",
+    "address": "Castell’Arquato (PC)",
+    "lat": 44.8784071,
+    "lng": 9.8724561,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Emilia-Romagna"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "La Baita",
+    "slug": "la-baita",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJa2QJ1BhOKxMR-8AHtPB-hbQ",
+    "address": "Faenza (RA)",
+    "lat": 44.2883433,
+    "lng": 11.8833032,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Emilia-Romagna"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Da Noemi",
+    "slug": "da-noemi",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJYdgOWGlOfkcRX5b4mVVdk1k",
+    "address": "Ferrara (FE)",
+    "lat": 44.8330769,
+    "lng": 11.6189851,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Emilia-Romagna"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Entrà",
+    "slug": "entrà",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJk5eWkyK8f0cRHLW2qE355xg",
+    "address": "Finale Emilia (MO)",
+    "lat": 44.831685,
+    "lng": 11.1875066,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Emilia-Romagna"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "La Campanara",
+    "slug": "la-campanara",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJZwwsYOtlKxMRNA8mzLQJBmo",
+    "address": "Galeata (FC)",
+    "lat": 43.9856115,
+    "lng": 11.9054801,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Emilia-Romagna"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Antica Locanda del Falco",
+    "slug": "antica-locanda-del-falco",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJy-woY0fBgEcRFpcBCotsYvY",
+    "address": "Gazzola (PC)",
+    "lat": 44.9500272,
+    "lng": 9.5906067,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Emilia-Romagna"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Antica Trattoria Cattivelli",
+    "slug": "antica-trattoria-cattivelli",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJRa034av8gEcRsdldhOo8tMI",
+    "address": "Monticelli d’Ongina (PC)",
+    "lat": 45.0967221,
+    "lng": 9.905925,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Emilia-Romagna"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Osteria di Rubbiara",
+    "slug": "osteria-di-rubbiara",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJmfE6SC3of0cR0m9c8i7nbAw",
+    "address": "Nonantola (MO)",
+    "lat": 44.651218,
+    "lng": 11.04059,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Emilia-Romagna"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Ostreria Pavesi",
+    "slug": "ostreria-pavesi",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJry-3TtbrgEcRV8bKkRaLoYY",
+    "address": "Podenzano (PC)",
+    "lat": 44.9837532,
+    "lng": 9.685111,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Emilia-Romagna"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Arrogant Pub",
+    "slug": "arrogant-pub",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJh_Az8sIcgEcRwJ8BSUD5Y_8",
+    "address": "Reggio nell’Emilia (RE)",
+    "lat": 44.6714099,
+    "lng": 10.6220573,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Emilia-Romagna"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Caffè Grande",
+    "slug": "caffè-grande",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJm6xPGYzAgEcR8HRmua0AEC4",
+    "address": "Rivergaro (PC)",
+    "lat": 44.9103634,
+    "lng": 9.5970428,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Emilia-Romagna"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Osteria dei Frati",
+    "slug": "osteria-dei-frati",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJa_IbUY69LBMRdl_4kjtZNnM",
+    "address": "Roncofreddo (FC)",
+    "lat": 44.0411225,
+    "lng": 12.3153262,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Emilia-Romagna"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Amerigo dal 1934",
+    "slug": "amerigo-dal-1934",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJHR-IJQDMKhMRxTv5ilSvqSc",
+    "address": "Valsamoggia (BO)",
+    "lat": 44.3903244,
+    "lng": 11.0739782,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Emilia-Romagna"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Trattoria del Borgo",
+    "slug": "trattoria-del-borgo",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJrXZwp6TYf0cRdDl0qrvEOoQ",
+    "address": "Valsamoggia (BO)",
+    "lat": 44.4686804,
+    "lng": 11.0916857,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Emilia-Romagna"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Il Cantacucco",
+    "slug": "il-cantacucco",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJwQ-qLibIKhMRUAmCNUtMQuk",
+    "address": "Zocca (MO)",
+    "lat": 44.3528396,
+    "lng": 10.9502728,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Emilia-Romagna"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "La Roverella",
+    "slug": "la-roverella",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJaxE0TmLXf0cRmTWm-YZwZVQ",
+    "address": "Zola Predosa (BO)",
+    "lat": 44.5004661,
+    "lng": 11.1823393,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Emilia-Romagna"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Nonno Cianco",
+    "slug": "nonno-cianco",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJeevqfjWaKhMROGI7SUXVeNc",
+    "address": "Abetone Cutigliano (PT)",
+    "lat": 44.0995521,
+    "lng": 10.7580843,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Toscana"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Il Cappello di Paglia",
+    "slug": "il-cappello-di-paglia",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJvXIii4eKKxMR1AgoFGNlTnA",
+    "address": "Anghiari (AR)",
+    "lat": 43.5934348,
+    "lng": 12.0055977,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Toscana"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "La Lina",
+    "slug": "la-lina",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJEeZb594j1RIRHQTNvhg1Lws",
+    "address": "Bagnone (MS)",
+    "lat": 44.3154954,
+    "lng": 9.9943222,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Toscana"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Il Tirabusciò",
+    "slug": "il-tirabusciò",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJOVwvVuqbKxMR7L7kKvR5bNI",
+    "address": "Bibbiena (AR)",
+    "lat": 43.6948197,
+    "lng": 11.8177349,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Toscana"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Quinto Quarto",
+    "slug": "quinto-quarto",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJ7ZqmUX511RIRoJJXZSeAndU",
+    "address": "Camaiore (LU)",
+    "lat": 43.9367366,
+    "lng": 10.306773,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Toscana"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "La Taverna di Vigliagli",
+    "slug": "la-taverna-di-vigliagli",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJI_Mh8dPMKxMRaJxTle2_1Ug",
+    "address": "Castelnuovo Berardenga (SI)",
+    "lat": 43.4218453,
+    "lng": 11.3478825,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Toscana"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Il Grillo è Buoncantore",
+    "slug": "il-grillo-è-buoncantore",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJOcpeO9pRKRMRvz0RPpXhoLs",
+    "address": "Chiusi (SI)",
+    "lat": 43.0167571,
+    "lng": 11.9481177,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Toscana"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "La Solita Zuppa",
+    "slug": "la-solita-zuppa",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJJawk-NlRKRMRR1dSixSDu7Q",
+    "address": "Chiusi (SI)",
+    "lat": 43.0159361,
+    "lng": 11.9468326,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Toscana"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Tenuta di Paganico",
+    "slug": "tenuta-di-paganico",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJnQgiPVifKRMRL-uqQDjY2WQ",
+    "address": "Civitella Paganico (GR)",
+    "lat": 42.9387609,
+    "lng": 11.2824567,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Toscana"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Bel Mi’ Colle",
+    "slug": "bel-mi’-colle",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJJYnN_eY6KhMREviDkzlsWJs",
+    "address": "Colle di Val d’Elsa (SI)",
+    "lat": 43.4225744,
+    "lng": 11.1245646,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Toscana"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Osteria del Teatro",
+    "slug": "osteria-del-teatro",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJ31qaHYL5KxMRWiuDkk-RR8Y",
+    "address": "Cortona (AR)",
+    "lat": 43.2758316,
+    "lng": 11.9857533,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Toscana"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Leonardo Torrini",
+    "slug": "leonardo-torrini",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJQTvG4YtTKhMR9RG9FTr0CD0",
+    "address": "Firenze (FI) inserto",
+    "lat": 43.7773486,
+    "lng": 11.2562703,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Toscana"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Osteria dell’Enoteca",
+    "slug": "osteria-dell’enoteca",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJtWlgZVFRKhMRiOTRyNd8uIc",
+    "address": "Firenze (FI)",
+    "lat": 43.7640185,
+    "lng": 11.2458417,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Toscana"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "La Burlanda",
+    "slug": "la-burlanda",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJrW7nTGIb1RIRzF-YgZ6DZUQ",
+    "address": "Fosdinovo (MS)",
+    "lat": 44.1367541,
+    "lng": 9.9945152,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Toscana"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Oste Scuro",
+    "slug": "oste-scuro",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJJY0dJwK8KRMRhYZiJ5vXv9s",
+    "address": "Grosseto (GR)",
+    "lat": 42.8746202,
+    "lng": 11.0720851,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Toscana"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Azzighe-Osteria a Metà",
+    "slug": "azzighe-osteria-a-metà",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJqZi8UxXr1RIRyxdDDvymvBk",
+    "address": "Livorno (LI)",
+    "lat": 43.5562148,
+    "lng": 10.3121971,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Toscana"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Il Mecenate",
+    "slug": "il-mecenate",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJ42_Tk5KE1RIRazFrmXIlAIk",
+    "address": "Lucca (LU)",
+    "lat": 43.8455425,
+    "lng": 10.5100081,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Toscana"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Locanda Agricola Posapiano",
+    "slug": "locanda-agricola-posapiano",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJ94Z10D1_KhMR0fwut2VbV3Y",
+    "address": "Montecarlo (LU)",
+    "lat": 43.8434538,
+    "lng": 10.6482858,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Toscana"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "La Ciottolona",
+    "slug": "la-ciottolona",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJxZSzSGSSKRMREsyrc7wAI6s",
+    "address": "Montieri (GR)",
+    "lat": 43.0906804,
+    "lng": 11.0339001,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Toscana"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "L’Oste Dispensa",
+    "slug": "l’oste-dispensa",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJKQQr30RQKBMRh4Iu-PYQlTs",
+    "address": "Orbetello (GR)",
+    "lat": 42.4392572,
+    "lng": 11.1687541,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Toscana"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Peposo",
+    "slug": "peposo",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJNd4pIgCh1RIRzfs_69IoZLU",
+    "address": "Pietrasanta (LU)",
+    "lat": 43.938433,
+    "lng": 10.2279111,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Toscana"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "La Bottegaia",
+    "slug": "la-bottegaia",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJn5X1h5WLKhMRmBkwLJZG2aE",
+    "address": "Pistoia (PT)",
+    "lat": 43.9331068,
+    "lng": 10.9165109,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Toscana"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "La Tana degli Orsi",
+    "slug": "la-tana-degli-orsi",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJsamw9-SfKxMRBPeeFzJLLaU",
+    "address": "Pratovecchio Stia (AR)",
+    "lat": 43.7895481,
+    "lng": 11.7209273,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Toscana"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Antico Ristoro Le Colombaie",
+    "slug": "antico-ristoro-le-colombaie",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJ8e79CDduKhMR7JIP81Q4Yfc",
+    "address": "San Miniato (PI)",
+    "lat": 43.6933715,
+    "lng": 10.8130209,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Toscana"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Il Conte Matto",
+    "slug": "il-conte-matto",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJcfhz9CtgKRMRxAKPPUMmOa8",
+    "address": "Trequanda (SI)",
+    "lat": 43.1883671,
+    "lng": 11.6665856,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Toscana"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Buonumore",
+    "slug": "buonumore",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJR1A2keqh1RIRXIluAugOSUQ",
+    "address": "Viareggio (LU)",
+    "lat": 43.8821615,
+    "lng": 10.2395583,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Toscana"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Osteria dello Sportello",
+    "slug": "osteria-dello-sportello",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJ5agYKav5LhMRiZLXA0LKV4U",
+    "address": "Arrone (TR)",
+    "lat": 42.5790656,
+    "lng": 12.7588626,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Umbria"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "L’Acquario",
+    "slug": "l’acquario",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJW-29CT1VKRMRsyM9dP6v31Y",
+    "address": "Castiglione del Lago (PG)",
+    "lat": 43.1271398,
+    "lng": 12.0517792,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Umbria"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "La Miniera di Galparino",
+    "slug": "la-miniera-di-galparino",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJXRqc-5lyLBMR3HnLuVtW6io",
+    "address": "Città di Castello (PG)",
+    "lat": 43.3909111,
+    "lng": 12.1957635,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Umbria"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Tipica Osteria dei Sensi",
+    "slug": "tipica-osteria-dei-sensi",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJKbx9NwkTLBMR_p-djqKIGnQ",
+    "address": "Montone (PG)",
+    "lat": 43.363404,
+    "lng": 12.326726,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Umbria"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "La Palomba",
+    "slug": "la-palomba",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJKeOtUwTNLhMRw97-RKXsIFg",
+    "address": "Orvieto (TR)",
+    "lat": 42.718008,
+    "lng": 12.108654,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Umbria"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "I Birbi",
+    "slug": "i-birbi",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJk8xzuoegLhMRTTN1-N9ekDE",
+    "address": "Perugia (PG)",
+    "lat": 43.1087665,
+    "lng": 12.3900681,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Umbria"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Stella",
+    "slug": "stella",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJYcWFEQSgLhMR_ldWjEDbq2k",
+    "address": "Perugia (PG)",
+    "lat": 43.1063831,
+    "lng": 12.4313247,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Umbria"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "La Cantina di Spello",
+    "slug": "la-cantina-di-spello",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJyR8hl2CELhMRLrP2SgXjaNA",
+    "address": "Spello (PG)",
+    "lat": 42.990786,
+    "lng": 12.6715741,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Umbria"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Il Capanno",
+    "slug": "il-capanno",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJN-iWaOf2LhMRBH0ImLotmYs",
+    "address": "Spoleto (PG)",
+    "lat": 42.6649676,
+    "lng": 12.7342333,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Umbria"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Lillero",
+    "slug": "lillero",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJrXu8Umn7LhMRX2Aoe_8U0Uc",
+    "address": "Terni (TR)",
+    "lat": 42.563992,
+    "lng": 12.6501947,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Umbria"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Sot’aj Archi",
+    "slug": "sot’aj-archi",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJYziVU5l_LRMRFSx8Srokx8U",
+    "address": "Ancona (AN)",
+    "lat": 43.6114241,
+    "lng": 13.5039686,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Marche"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Osteria del Castello",
+    "slug": "osteria-del-castello",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJXV_388gWLhMRc7QFH3wVpiE",
+    "address": "Arquata del Tronto (AP)",
+    "lat": 42.7453315,
+    "lng": 13.2686216,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Marche"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Agra Mater",
+    "slug": "agra-mater",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJHxH1igLwLRMRcpdmMXB_7W8",
+    "address": "Colmurano (MC)",
+    "lat": 43.1570141,
+    "lng": 13.3570629,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Marche"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Osteria San Biagio",
+    "slug": "osteria-san-biagio",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJfwXjkYzJLRMRCaTrZlwBoHM",
+    "address": "Fabriano (AN)",
+    "lat": 43.3365188,
+    "lng": 12.9064433,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Marche"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Da Maria",
+    "slug": "da-maria",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJ3aREzoERLRMR0cxVrX1mxNo",
+    "address": "Fano (PU)",
+    "lat": 43.837719,
+    "lng": 13.0135118,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Marche"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Il Topicco",
+    "slug": "il-topicco",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJDRLrtDwfMhMRTipT6LDZUUg",
+    "address": "Grottammare (AP)",
+    "lat": 43.0042448,
+    "lng": 13.8658237,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Marche"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Da Rita",
+    "slug": "da-rita",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJ8YvlMH31MRMRFUs-qsvTVUM",
+    "address": "San Benedetto del Tronto (AP)",
+    "lat": 42.9418705,
+    "lng": 13.8787463,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Marche"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Mercato Trattoria Pop",
+    "slug": "mercato-trattoria-pop",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJn5L0INRzLRMRabk3PTueNh8",
+    "address": "Senigallia (AN)",
+    "lat": 43.7137155,
+    "lng": 13.2161415,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Marche"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Vino e Cibo",
+    "slug": "vino-e-cibo",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJawGPOXhzLRMRtkgG8GR_5CY",
+    "address": "Senigallia (AN)",
+    "lat": 43.7144617,
+    "lng": 13.2181742,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Marche"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Nu’ Trattoria Italiana dal 1960",
+    "slug": "nu’-trattoria-italiana-dal-1960",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJNa9Giv9fJRMRhpqLszjoojk",
+    "address": "Acuto (FR)",
+    "lat": 41.7921133,
+    "lng": 13.1793481,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Lazio"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Iotto",
+    "slug": "iotto",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJG07sRQ5BLxMRv3nFYZnD5hQ",
+    "address": "Campagnano di Roma (RM)",
+    "lat": 42.140216,
+    "lng": 12.3826128,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Lazio"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Il Calice e la Stella",
+    "slug": "il-calice-e-la-stella",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJq3oT8eovLxMRvqrP7LBbQvA",
+    "address": "Canepina (VT)",
+    "lat": 42.381055,
+    "lng": 12.233905,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Lazio"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Trattoria del Cimino",
+    "slug": "trattoria-del-cimino",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJzXTgtWMwLxMRwxL3q3pSZNg",
+    "address": "Caprarola (VT)",
+    "lat": 42.3267937,
+    "lng": 12.2393036,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Lazio"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Locanda del Ditirambo",
+    "slug": "locanda-del-ditirambo",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJV6cxICBJJRMRuvs3WUyFEeg",
+    "address": "Castro dei Volsci (FR)",
+    "lat": 41.5086727,
+    "lng": 13.4063994,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Lazio"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "La Piazzetta del Sole",
+    "slug": "la-piazzetta-del-sole",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJ__gWjsPfKBMR9caLxIVZ3cg",
+    "address": "Farnese (VT)",
+    "lat": 42.5489222,
+    "lng": 11.7222368,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Lazio"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Sancho dal 1969",
+    "slug": "sancho-dal-1969",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJj8JK-fL6JRMR2EUBrTzbFNA",
+    "address": "Fiumicino (RM)",
+    "lat": 41.7713427,
+    "lng": 12.2291434,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Lazio"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "‘Na Fojetta",
+    "slug": "‘na-fojetta",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJ9Z3Zmx2HJRMR9z0u6-VOkOM",
+    "address": "Frascati (RM)",
+    "lat": 41.8084764,
+    "lng": 12.6824794,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Lazio"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Sora Maria e Arcangelo",
+    "slug": "sora-maria-e-arcangelo",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJCaCTFuKILxMRBVs162itHGY",
+    "address": "Olevano Romano (RM)",
+    "lat": 41.859624,
+    "lng": 13.0334857,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Lazio"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Osteria del Vicolo Fatato",
+    "slug": "osteria-del-vicolo-fatato",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJhWB2ieOKLxMRZYic0BW78K0",
+    "address": "Piglio (FR)",
+    "lat": 41.8285873,
+    "lng": 13.1433428,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Lazio"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Da Armando al Pantheon",
+    "slug": "da-armando-al-pantheon",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJcwb92FFgLxMR_nDe5ODn_ZE",
+    "address": "Roma (RM)",
+    "lat": 41.8990788,
+    "lng": 12.4762446,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Lazio"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Da Cesare",
+    "slug": "da-cesare",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJR0wX4QBgLxMR3GfOD-rZFtk",
+    "address": "Roma (RM)",
+    "lat": 41.8768157,
+    "lng": 12.4407821,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Lazio"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Da Cesare al Pellegrino",
+    "slug": "da-cesare-al-pellegrino",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJl31Ckf1hLxMRwaLNVewqkrY",
+    "address": "Roma (RM)",
+    "lat": 41.8972872,
+    "lng": 12.4686457,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Lazio"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Grappolo d’Oro",
+    "slug": "grappolo-d’oro",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJX-ZriEVgLxMREkFFzy20WyY",
+    "address": "Roma (RM)",
+    "lat": 41.8962819,
+    "lng": 12.4722692,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Lazio"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "L’Asporto di 180 Grammi",
+    "slug": "l’asporto-di-180-grammi",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJY-dxdmhiLxMRK7LAbMYIYKQ",
+    "address": "Roma (RM) inserto",
+    "lat": 41.8779663,
+    "lng": 12.563997,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Lazio"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Lievito",
+    "slug": "lievito",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJ67vC9mJgLxMRvRjb_GO9E_g",
+    "address": "Roma (RM) inserto",
+    "lat": 41.9104029,
+    "lng": 12.4540067,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Lazio"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Menabò Vino e Cucina",
+    "slug": "menabò-vino-e-cucina",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJh2zxVEViLxMR3j75V6Bns8U",
+    "address": "Roma (RM)",
+    "lat": 41.8890255,
+    "lng": 12.564072,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Lazio"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Pennestri",
+    "slug": "pennestri",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJUyZGkitgLxMR94FH5oz5cOE",
+    "address": "Roma (RM)",
+    "lat": 41.8733675,
+    "lng": 12.4796984,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Lazio"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Pro Loco D.O.L.",
+    "slug": "pro-loco-d.o.l.",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJb9r_HENiLxMRMtJd-XX4elQ",
+    "address": "Roma (RM)",
+    "lat": 41.8823049,
+    "lng": 12.5621942,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Lazio"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "SantoPalato",
+    "slug": "santopalato",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJVVVJzOthLxMRiJTSop4rebM",
+    "address": "Roma (RM)",
+    "lat": 41.8814315,
+    "lng": 12.5014799,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Lazio"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Trecca-Cucina di Mercato",
+    "slug": "trecca-cucina-di-mercato",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJQz_4gWGKJRMRb4p1tB5Ddvs",
+    "address": "Roma (RM)",
+    "lat": 41.8534782,
+    "lng": 12.4867171,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Lazio"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Buccia",
+    "slug": "buccia",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJa0RSEI4bJRMR4GXCGbbE_wg",
+    "address": "Sabaudia (LT)",
+    "lat": 41.3164865,
+    "lng": 13.035992,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Lazio"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Li Somari Trattoria Fuori Porta",
+    "slug": "li-somari-trattoria-fuori-porta",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJh0ivfzx5LxMR1O7kmwHsvnI",
+    "address": "Tivoli (RM)",
+    "lat": 41.9657136,
+    "lng": 12.7997071,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Lazio"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Il Casaletto",
+    "slug": "il-casaletto",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJGUvGPAIqLxMR86XsF8CNVf0",
+    "address": "Viterbo (VT)",
+    "lat": 42.520668,
+    "lng": 12.1620588,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Lazio"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "PerVoglia",
+    "slug": "pervoglia",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJDTl-SQvqMRMRNyQw96xyCiA",
+    "address": "Castellalto (TE)",
+    "lat": 42.6448957,
+    "lng": 13.8442987,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Abruzzo"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Perilli",
+    "slug": "perilli",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJrWlSoDvAMRMRPv1qeiBWedc",
+    "address": "Castilenti (TE)",
+    "lat": 42.5245588,
+    "lng": 13.9473046,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Abruzzo"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Zenobi",
+    "slug": "zenobi",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJywl7XofzMRMRyfMe3d1SHA8",
+    "address": "Colonnella (TE)",
+    "lat": 42.8517093,
+    "lng": 13.8682022,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Abruzzo"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Bracevia-A tutta pecora",
+    "slug": "bracevia-a-tutta-pecora",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJl18iENoHMRMRGqZH22fd8xk",
+    "address": "Francavilla al Mare (CH)",
+    "lat": 42.4202715,
+    "lng": 14.2918076,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Abruzzo"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "La Grotta dei Raselli",
+    "slug": "la-grotta-dei-raselli",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJwdzm_DJRMBMRoGqGhwCkRUU",
+    "address": "Guardiagrele (CH)",
+    "lat": 42.1880102,
+    "lng": 14.1941386,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Abruzzo"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "La Bilancia",
+    "slug": "la-bilancia",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJ4x4FG462MRMRXJjdH1ekhdk",
+    "address": "Loreto Aprutino (PE)",
+    "lat": 42.4068031,
+    "lng": 13.9728979,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Abruzzo"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Taverna de li Caldora",
+    "slug": "taverna-de-li-caldora",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJOZ9uKAFCMBMRhIKqzBhkszg",
+    "address": "Pacentro (AQ)",
+    "lat": 42.0502605,
+    "lng": 13.9910881,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Abruzzo"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Taverna 58",
+    "slug": "taverna-58",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJ_0HXIWumMRMRWbMH9gZAMHA",
+    "address": "Pescara (PE)",
+    "lat": 42.4617784,
+    "lng": 14.2131825,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Abruzzo"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Font’Artana",
+    "slug": "font’artana",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJBdUxhea5MRMR7GqsalvTL_s",
+    "address": "Picciano (PE)",
+    "lat": 42.4759891,
+    "lng": 13.9889951,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Abruzzo"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Vecchia Marina",
+    "slug": "vecchia-marina",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJhWWXq6aWMRMRZzPAnBwjWbM",
+    "address": "Roseto degli Abruzzi (TE)",
+    "lat": 42.6828802,
+    "lng": 14.012791,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Abruzzo"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "La Corte",
+    "slug": "la-corte",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJC9P2d_ClMRMRtZAvWm87R-A",
+    "address": "Spoltore (PE)",
+    "lat": 42.4522666,
+    "lng": 14.1825502,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Abruzzo"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Clemente",
+    "slug": "clemente",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJNQgVnH1AMBMRwzTSL7PGzqE",
+    "address": "Sulmona (AQ)",
+    "lat": 42.0507092,
+    "lng": 13.923816,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Abruzzo"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Terra di Ea",
+    "slug": "terra-di-ea",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJh722HVKNMRMR9f4fMfAJj6k",
+    "address": "Tortoreto (TE)",
+    "lat": 42.7940657,
+    "lng": 13.9201461,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Abruzzo"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "La Grotta da Concetta",
+    "slug": "la-grotta-da-concetta",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJibC45CwLOhMR_0WXllbpU8Y",
+    "address": "Campobasso (CB)",
+    "lat": 41.5616216,
+    "lng": 14.6607443,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Molise"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Le Macare",
+    "slug": "le-macare",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJfb3i7I0dRBMR1kYFzwqzZj0",
+    "address": "Alezio (LE)",
+    "lat": 40.0671941,
+    "lng": 18.0613227,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Puglia"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Antichi Sapori",
+    "slug": "antichi-sapori",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJZYG9JuI9OBMR81D8gSbZb8E",
+    "address": "Andria (BT)",
+    "lat": 41.1723099,
+    "lng": 16.1411018,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Puglia"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "PerBacco",
+    "slug": "perbacco",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJezWTxGfoRxMR11_T1cx0_F8",
+    "address": "Bari (BA)",
+    "lat": 41.1229893,
+    "lng": 16.8759989,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Puglia"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Antica Osteria La Sciabica",
+    "slug": "antica-osteria-la-sciabica",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJa8GeMT16RhMRpBrQYYsPlts",
+    "address": "Brindisi (BR)",
+    "lat": 40.6402821,
+    "lng": 17.9408621,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Puglia"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Cibus",
+    "slug": "cibus",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJL2Ce8YZZRhMRD3kPplaoYTU",
+    "address": "Ceglie Messapica (BR)",
+    "lat": 40.6464351,
+    "lng": 17.5184201,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Puglia"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "‘U Vulesce",
+    "slug": "‘u-vulesce",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJw_o4mSIxOBMRYLp-39Ss-_g",
+    "address": "Cerignola (FG)",
+    "lat": 41.26455,
+    "lng": 15.9036,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Puglia"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "La Bottega dell’Allegria",
+    "slug": "la-bottega-dell’allegria",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJMT0fy5sPOBMRhnOAc7vq_Sw",
+    "address": "Corato (BA)",
+    "lat": 41.1496687,
+    "lng": 16.4120051,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Puglia"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "La Cuccagna",
+    "slug": "la-cuccagna",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJ9Q_yUJAARxMRusfETtPd-rE",
+    "address": "Crispiano (TA)",
+    "lat": 40.6039898,
+    "lng": 17.2287551,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Puglia"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Piccola Osteria Km Zero",
+    "slug": "piccola-osteria-km-zero",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJ4zii7lfYORMRjdfwrcEvS9o",
+    "address": "Foggia (FG)",
+    "lat": 41.4418822,
+    "lng": 15.5569252,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Puglia"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Terra Arsa",
+    "slug": "terra-arsa",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJZZMFN_HYORMRA2xGMk0hQC8",
+    "address": "Foggia (FG)",
+    "lat": 41.444798,
+    "lng": 15.5756588,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Puglia"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Le Zie-Cucina Casareccia",
+    "slug": "le-zie-cucina-casareccia",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJoYLMhOUuRBMRliLMKGVwbVM",
+    "address": "Lecce (LE)",
+    "lat": 40.3573088,
+    "lng": 18.1749766,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Puglia"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Riontino dal 1964",
+    "slug": "riontino-dal-1964",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJc5m_ETwgOBMRkq4VLWMPBRY",
+    "address": "Margherita di Savoia (BT)",
+    "lat": 41.3815078,
+    "lng": 16.1414928,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Puglia"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "La Locanda del Maniscalco",
+    "slug": "la-locanda-del-maniscalco",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJGUCRDW2WNxMRhFgC1uNVG2M",
+    "address": "Mattinata (FG)",
+    "lat": 41.7085537,
+    "lng": 16.050326,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Puglia"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Masseria Barbera",
+    "slug": "masseria-barbera",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJdylajbpAOBMRsowiFVBszrA",
+    "address": "Minervino Murge (BT)",
+    "lat": 41.1498375,
+    "lng": 16.0858365,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Puglia"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "L’Antica Locanda",
+    "slug": "l’antica-locanda",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJeVzu7xiwRxMRCK2BO56JRls",
+    "address": "Noci (BA)",
+    "lat": 40.7962462,
+    "lng": 17.122676,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Puglia"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Peppe Zullo",
+    "slug": "peppe-zullo",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJP8ubWM3tORMRgAmq-nQ1sF0",
+    "address": "Orsara di Puglia (FG)",
+    "lat": 41.2793187,
+    "lng": 15.2608066,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Puglia"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "La Piazza",
+    "slug": "la-piazza",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJoa_GZ48URBMRmNE9Sci_2T8",
+    "address": "Poggiardo (LE)",
+    "lat": 40.0541619,
+    "lng": 18.3775276,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Puglia"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Botteghe Antiche",
+    "slug": "botteghe-antiche",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJ15WYxb-wRxMRq229AOI0df0",
+    "address": "Putignano (BA)",
+    "lat": 40.849142,
+    "lng": 17.1227716,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Puglia"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "La Fossa del Grano",
+    "slug": "la-fossa-del-grano",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJk0bgjMBCNxMRkJNfM2TnPeM",
+    "address": "San Severo (FG)",
+    "lat": 41.6843229,
+    "lng": 15.3820121,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Puglia"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "La Locanda di Nonna Mena",
+    "slug": "la-locanda-di-nonna-mena",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJL8GKyghnRhMRe4OzlXlEFZo",
+    "address": "San Vito dei Normanni (BR)",
+    "lat": 40.6551159,
+    "lng": 17.703076,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Puglia"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "XFood",
+    "slug": "xfood",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJZVATQQdnRhMR0zxbw6GwvqQ",
+    "address": "San Vito dei Normanni (BR)",
+    "lat": 40.6591012,
+    "lng": 17.7120665,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Puglia"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Ristò dei Fratelli Pesce",
+    "slug": "ristò-dei-fratelli-pesce",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJeWILExYDRxMR_FG7YskAFiE",
+    "address": "Taranto (TA)",
+    "lat": 40.4787486,
+    "lng": 17.2267556,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Puglia"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Taverna del Porto",
+    "slug": "taverna-del-porto",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJYwggmBENRBMR4_QfmhCx9Dg",
+    "address": "Tricase (LE)",
+    "lat": 39.9300754,
+    "lng": 18.3943353,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Puglia"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "La Pignata",
+    "slug": "la-pignata",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJSdpjQWKJORMR_N9yfYRWI08",
+    "address": "Ariano Irpino (AV)",
+    "lat": 41.1568403,
+    "lng": 15.0948558,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Campania"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Valleverde Zi’ Pasqualina",
+    "slug": "valleverde-zi’-pasqualina",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJJXmqxG3NOxMRnacHD9Yvvbc",
+    "address": "Atripalda (AV)",
+    "lat": 40.9293287,
+    "lng": 14.8273138,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Campania"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "‘A Luna Rossa",
+    "slug": "‘a-luna-rossa",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJg_sKyLr5OhMRWax2Fyn6k1I",
+    "address": "Bellona (CE)",
+    "lat": 41.1628981,
+    "lng": 14.2264818,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Campania"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Pepe in Grani",
+    "slug": "pepe-in-grani",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJO9FwdeNZOhMRKp1UBErRQXs",
+    "address": "Caiazzo (CE) inserto",
+    "lat": 41.1771836,
+    "lng": 14.3660052,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Campania"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Tre Sorelle",
+    "slug": "tre-sorelle",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJs1jFU0SpPhMRglLU-cGI8ds",
+    "address": "Casal Velino (SA)",
+    "lat": 40.1900585,
+    "lng": 15.1153066,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Campania"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "La Pietra Azzurra",
+    "slug": "la-pietra-azzurra",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJV954Q07MPhMRcLtFabn2tH4",
+    "address": "Caselle in Pittari (SA) inserto",
+    "lat": 40.1737417,
+    "lng": 15.5412598,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Campania"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Gli Scacchi",
+    "slug": "gli-scacchi",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJtZ_n0alWOhMR-vIDZEpdU3k",
+    "address": "Caserta (CE)",
+    "lat": 41.0736272,
+    "lng": 14.33008,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Campania"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "I Masanielli",
+    "slug": "i-masanielli",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJr16BxrpVOhMRQ9w8m2sY0-o",
+    "address": "Caserta (CE) inserto",
+    "lat": 41.0723184,
+    "lng": 14.3190726,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Campania"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Viva lo Re",
+    "slug": "viva-lo-re",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJY_f6VuqmOxMR26qAC1pSw6U",
+    "address": "Ercolano (NA)",
+    "lat": 40.8022222,
+    "lng": 14.3527778,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Campania"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Fontana Madonna",
+    "slug": "fontana-madonna",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJZ0tOnd6GORMRFHk8LwRYmr8",
+    "address": "Frigento (AV)",
+    "lat": 41.0183887,
+    "lng": 15.0851513,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Campania"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "La Pergola",
+    "slug": "la-pergola",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJ1VlVwyyHORMR3Bq5-olbutQ",
+    "address": "Gesualdo (AV)",
+    "lat": 40.9999056,
+    "lng": 15.0658639,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Campania"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Fenesta Verde",
+    "slug": "fenesta-verde",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJfYi_JIMGOxMR9EWqaB1FO2Q",
+    "address": "Giugliano in Campania (NA)",
+    "lat": 40.9280547,
+    "lng": 14.1966692,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Campania"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "La Marchesella",
+    "slug": "la-marchesella",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJua7nETMEOxMRa0_zJY5GhXY",
+    "address": "Giugliano in Campania (NA)",
+    "lat": 40.9235445,
+    "lng": 14.1774351,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Campania"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Il Focolare",
+    "slug": "il-focolare",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJIfC486dqOxMRy40uA3LeYQw",
+    "address": "Isola d’Ischia (NA)",
+    "lat": 40.7353989,
+    "lng": 13.9219613,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Campania"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "La Torre",
+    "slug": "la-torre",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJ9SAc8kmcOxMRn7YDEzwfQT8",
+    "address": "Massa Lubrense (NA)",
+    "lat": 40.6025332,
+    "lng": 14.3351373,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Campania"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Lo Stuzzichino",
+    "slug": "lo-stuzzichino",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJzWzFYA-cOxMRs4q2gLhf0vE",
+    "address": "Massa Lubrense (NA)",
+    "lat": 40.60863,
+    "lng": 14.3724409,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Campania"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Antica Trattoria Di Pietro",
+    "slug": "antica-trattoria-di-pietro",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJK2jD-BSIORMRZOCWiWNwcL8",
+    "address": "Melito Irpino (AV)",
+    "lat": 41.1025312,
+    "lng": 15.0524885,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Campania"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "I Santi",
+    "slug": "i-santi",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJu94ZG5rLOxMRtwnv1-BgTmo",
+    "address": "Mercogliano (AV)",
+    "lat": 40.92016,
+    "lng": 14.7353627,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Campania"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Esperia Osteria Flegrea",
+    "slug": "esperia-osteria-flegrea",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJF0DGXkwSOxMRhCvd0uoHQ9Y",
+    "address": "Monte di Procida (NA)",
+    "lat": 40.793214,
+    "lng": 14.0625611,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Campania"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Da Donato",
+    "slug": "da-donato",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJqfLu8D0IOxMRGTiV2rAM7uA",
+    "address": "Napoli (NA)",
+    "lat": 40.8504162,
+    "lng": 14.2694031,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Campania"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "La Chitarra",
+    "slug": "la-chitarra",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJMT7pPEQIOxMRT8vB3rniTQM",
+    "address": "Napoli (NA)",
+    "lat": 40.845751,
+    "lng": 14.2562183,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Campania"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "La Notizia",
+    "slug": "la-notizia",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJUX1NKCcJOxMR62GZte-0IeY",
+    "address": "Napoli (NA) inserto",
+    "lat": 40.8356642,
+    "lng": 14.2099635,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Campania"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Osteria Mediterranea",
+    "slug": "osteria-mediterranea",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJJ6VVEBcJOxMR5OKLfqo2W00",
+    "address": "Napoli (NA)",
+    "lat": 40.8251768,
+    "lng": 14.220097,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Campania"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Taverna a Santa Chiara",
+    "slug": "taverna-a-santa-chiara",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJ3Q1VnEQIOxMRj9GdbLDkiwY",
+    "address": "Napoli (NA)",
+    "lat": 40.847418,
+    "lng": 14.253226,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Campania"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "O’ Ca Bistrò",
+    "slug": "o’-ca-bistrò",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJIS0N1Eq_OxMRzberYx11HKw",
+    "address": "Nocera Inferiore (SA)",
+    "lat": 40.7438363,
+    "lng": 14.6380862,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Campania"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Famiglia Principe 1968",
+    "slug": "famiglia-principe-1968",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJ7YAJoILGOxMR7DfHpqm1pe4",
+    "address": "Nocera Superiore (SA)",
+    "lat": 40.7316576,
+    "lng": 14.6573897,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Campania"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Osteria del Gallo e della Volpe",
+    "slug": "osteria-del-gallo-e-della-volpe",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJH9JXxGTLOxMRheidBKEdmmI",
+    "address": "Ospedaletto d’Alpinolo (AV)",
+    "lat": 40.9388861,
+    "lng": 14.7443095,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Campania"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Perbacco",
+    "slug": "perbacco",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJF_JizvyvPhMRlgsS8LmUbYQ",
+    "address": "Pisciotta (SA)",
+    "lat": 40.115418,
+    "lng": 15.2220094,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Campania"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Abraxas",
+    "slug": "abraxas",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJTyS8BJcROxMRMLwLoR4iQXM",
+    "address": "Pozzuoli (NA)",
+    "lat": 40.8322545,
+    "lng": 14.0705489,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Campania"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "La Ripa",
+    "slug": "la-ripa",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJbQgG2lKCORMRKNy97rltnp0",
+    "address": "Rocca San Felice (AV)",
+    "lat": 40.9516229,
+    "lng": 15.1627393,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Campania"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "La Pietra Azzurra-Vallo di Diano",
+    "slug": "la-pietra-azzurra-vallo-di-diano",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJW2CCd5MvORMRlk_UE54xvqI",
+    "address": "Sala Consilina (SA) inserto",
+    "lat": 40.3596914,
+    "lng": 15.6202382,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Campania"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Francesco e Salvatore Salvo",
+    "slug": "francesco-e-salvatore-salvo",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJuehDA6unOxMRtT_KQ-OYY4A",
+    "address": "San Giorgio a Cremano (NA) inserto",
+    "lat": 40.8255298,
+    "lng": 14.3305662,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Campania"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "La Locanda della Luna",
+    "slug": "la-locanda-della-luna",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJX_h6MCEuOhMR0f9Nzm1ZuE0",
+    "address": "San Giorgio del Sannio (BN)",
+    "lat": 41.0569444,
+    "lng": 14.8494444,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Campania"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "‘E Curti",
+    "slug": "‘e-curti",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJPadSkUKvOxMRm1W0ITdA5E4",
+    "address": "Sant’Anastasia (NA)",
+    "lat": 40.8650669,
+    "lng": 14.4014511,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Campania"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "‘O Romano",
+    "slug": "‘o-romano",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJpdc89jG4OxMRNjGZEmLO1DQ",
+    "address": "Sarno (SA)",
+    "lat": 40.8149364,
+    "lng": 14.6183066,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Campania"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Osteria dei Briganti",
+    "slug": "osteria-dei-briganti",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJgwhECo2aORMRup0nWqPyU0Y",
+    "address": "Scampitella (AV)",
+    "lat": 41.0926997,
+    "lng": 15.2999648,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Campania"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "La Lanterna",
+    "slug": "la-lanterna",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJqYum7JivOxMR-dxnynSNBT0",
+    "address": "Somma Vesuviana (NA)",
+    "lat": 40.8682092,
+    "lng": 14.4334138,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Campania"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Da Addolorata",
+    "slug": "da-addolorata",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJZR8kXhHJPhMRk5p9vmY3TD8",
+    "address": "Torre Orsaia (SA)",
+    "lat": 40.1300053,
+    "lng": 15.46996,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Campania"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "La Piazzetta",
+    "slug": "la-piazzetta",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJjwJTLppJORMR7gNJmmbVj_o",
+    "address": "Valle dell’Angelo (SA)",
+    "lat": 40.3432984,
+    "lng": 15.3693745,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Campania"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Gagliardi",
+    "slug": "gagliardi",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJqZDrebwDORMR-jjyw4z-3Dc",
+    "address": "Avigliano (PZ)",
+    "lat": 40.731269,
+    "lng": 15.717261,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Basilicata"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Al becco della Civetta",
+    "slug": "al-becco-della-civetta",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJTws_2WvpOBMRqHwcGJWBvG8",
+    "address": "Castelmezzano (PZ)",
+    "lat": 40.5299327,
+    "lng": 16.0462804,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Basilicata"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Nonna Vera",
+    "slug": "nonna-vera",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJT_zG1S0yPxMRy0z3_YosdJk",
+    "address": "Latronico (PZ)",
+    "lat": 40.087669,
+    "lng": 16.011162,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Basilicata"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Da Peppe",
+    "slug": "da-peppe",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJ4zpsm7U7PxMRwL7DtvUjzns",
+    "address": "Rotonda (PZ)",
+    "lat": 39.9534853,
+    "lng": 16.0397389,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Basilicata"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Pecora Nera",
+    "slug": "pecora-nera",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJqyj-qIgMQBMRu681MeIoG38",
+    "address": "Albi (CZ)",
+    "lat": 39.073477,
+    "lng": 16.637141,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Calabria"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Il Tipico Calabrese",
+    "slug": "il-tipico-calabrese",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJv_G_AfdXFBMRehxtxZpoUr0",
+    "address": "Cardareto (RC)",
+    "lat": 38.0856127,
+    "lng": 15.7674454,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Calabria"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Da Talarico Salvatore",
+    "slug": "da-talarico-salvatore",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJ5XDylVUGQBMRmGHu0Eh85UQ",
+    "address": "Catanzaro (CZ) inserto",
+    "lat": 38.9108135,
+    "lng": 16.5868063,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Calabria"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Le Muraglie",
+    "slug": "le-muraglie",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJh0e-uOfrPxMRYlpn4OBILAA",
+    "address": "Conflenti (CZ)",
+    "lat": 39.0698849,
+    "lng": 16.2654147,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Calabria"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "La Taverna dei Briganti",
+    "slug": "la-taverna-dei-briganti",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJL1atBOVtQBMRzVtQok6e0-I",
+    "address": "Cotronei (KR)",
+    "lat": 39.1621058,
+    "lng": 16.7328432,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Calabria"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Il Ritrovo dei Picari",
+    "slug": "il-ritrovo-dei-picari",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJMzFiTG87FRMRPRSmN9zS2T4",
+    "address": "Grotteria (RC)",
+    "lat": 38.368569,
+    "lng": 16.2651466,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Calabria"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Costantino",
+    "slug": "costantino",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJ945DgSD9PxMRT6QHIWonseo",
+    "address": "Maida (CZ)",
+    "lat": 38.8592902,
+    "lng": 16.3659917,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Calabria"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "La Collinetta",
+    "slug": "la-collinetta",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJJbHPuSQ7FRMR4BSUpabwvzA",
+    "address": "Martone (RC)",
+    "lat": 38.3555086,
+    "lng": 16.2913144,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Calabria"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Calabrialcubo",
+    "slug": "calabrialcubo",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJwYa0dCboPxMRg_50QgxgehY",
+    "address": "Nocera Terinese (CZ)",
+    "lat": 39.0400583,
+    "lng": 16.1637241,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Calabria"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "La Rondinella",
+    "slug": "la-rondinella",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJGzH6_D8ePxMRlAdbfCJ_9ZY",
+    "address": "Scalea (CS)",
+    "lat": 39.8204655,
+    "lng": 15.8117318,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Calabria"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Il Vecchio Castagno",
+    "slug": "il-vecchio-castagno",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJh_LEPSfxPxMRXAkYRac5cnw",
+    "address": "Serrastretta (CZ)",
+    "lat": 39.0093892,
+    "lng": 16.4207231,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Calabria"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "U Ricriju",
+    "slug": "u-ricriju",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJl3wHGTYkFRMRfaO7ScEmbOE",
+    "address": "Siderno (RC)",
+    "lat": 38.2863704,
+    "lng": 16.2876194,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Calabria"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Zio Salvatore",
+    "slug": "zio-salvatore",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJ5-jGLaUlFRMR7SmMWepEgFA",
+    "address": "Siderno (RC)",
+    "lat": 38.2900241,
+    "lng": 16.2669033,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Calabria"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Ginger People&Food",
+    "slug": "ginger-people&food",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJebzTPIuEEBMR_U9pLKyQabw",
+    "address": "Agrigento (AG)",
+    "lat": 37.3104893,
+    "lng": 13.5773724,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Sicilia"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Nangalarruni",
+    "slug": "nangalarruni",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJPTngFjIwFxMRuc_EFG0zPLc",
+    "address": "Castelbuono (PA)",
+    "lat": 37.9316069,
+    "lng": 14.0881852,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Sicilia"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Mé Cumpari Turiddu",
+    "slug": "mé-cumpari-turiddu",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJGzNxKTLjExMRE-4YTfojVsI",
+    "address": "Catania",
+    "lat": 37.5063758,
+    "lng": 15.0883967,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Oasi Osteria del Mare",
+    "slug": "oasi-osteria-del-mare",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJ6WfHDwNfEBMRcp2hVNwJZU8",
+    "address": "Licata (AG)",
+    "lat": 37.1078445,
+    "lng": 13.9698124,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Sicilia"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Le Macine",
+    "slug": "le-macine",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJf7MvalhbFhMR6cYrwfdZXvY",
+    "address": "Lipari (ME)",
+    "lat": 38.4738745,
+    "lng": 14.9286154,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Sicilia"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Casa & Putia",
+    "slug": "casa-&-putia",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJfacdFMZLFBMRvdC8LzTEy0E",
+    "address": "Messina (ME)",
+    "lat": 38.1945155,
+    "lng": 15.5555945,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Sicilia"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "4 Archi",
+    "slug": "4-archi",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJXW4mkzoBFBMRwmmtI3zoKXU",
+    "address": "Milo (CT)",
+    "lat": 37.7270035,
+    "lng": 15.1128133,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Sicilia"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Andrea",
+    "slug": "andrea",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJ4zU-FfB4ERMRAezADAxkBAY",
+    "address": "Palazzolo Acreide (SR)",
+    "lat": 37.061555,
+    "lng": 14.904023,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Sicilia"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Lo Scrigno dei Sapori",
+    "slug": "lo-scrigno-dei-sapori",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJ0dLkOPB4ERMR80wYJnIkPKk",
+    "address": "Palazzolo Acreide (SR)",
+    "lat": 37.0614318,
+    "lng": 14.9025316,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Sicilia"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Trattoria del Gallo",
+    "slug": "trattoria-del-gallo",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJOSxCyfp4ERMRS-0GZE1ogcw",
+    "address": "Palazzolo Acreide (SR)",
+    "lat": 37.0645737,
+    "lng": 14.9032647,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Sicilia"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Buatta",
+    "slug": "buatta",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJt1ptUvPlGRMRJ1lE1mqEcJA",
+    "address": "Palermo (PA)",
+    "lat": 38.1171107,
+    "lng": 13.365179,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Sicilia"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Corona Trattoria",
+    "slug": "corona-trattoria",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJhxbes1vvGRMRF19yMxtLTRU",
+    "address": "Palermo (PA)",
+    "lat": 38.1257433,
+    "lng": 13.3502327,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Sicilia"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Ristorante Fattoria Borrello",
+    "slug": "ristorante-fattoria-borrello",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJJwI0HJ2ZFhMRpZm0-eGvzik",
+    "address": "Raccuja (ME)",
+    "lat": 38.0625998,
+    "lng": 14.8895033,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Sicilia"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Cucina e Vino",
+    "slug": "cucina-e-vino",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJB3o463iZERMRrTxCQkbVkXQ",
+    "address": "Ragusa (RG)",
+    "lat": 36.9272598,
+    "lng": 14.7445968,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Sicilia"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "San Giorgio e il Drago",
+    "slug": "san-giorgio-e-il-drago",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJLX1SwBKmFhMRDKVDfc8Liv4",
+    "address": "Randazzo (CT)",
+    "lat": 37.8798207,
+    "lng": 14.9520804,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Sicilia"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "U Sulicce’nti",
+    "slug": "u-sulicce’nti",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJY6IUitmIERMRsWMAspYNPwM",
+    "address": "Rosolini (SR)",
+    "lat": 36.8201044,
+    "lng": 14.9536686,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Sicilia"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Da Luciana",
+    "slug": "da-luciana",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJ4Sgzp0OfFhMRJMlIs7lae9U",
+    "address": "San Pietro Patti (ME)",
+    "lat": 38.0384394,
+    "lng": 14.9582784,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Sicilia"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Fratelli Borrello",
+    "slug": "fratelli-borrello",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJY_B8-jeYFhMRVm3aTtm73uM",
+    "address": "Sinagra (ME)",
+    "lat": 38.0680623,
+    "lng": 14.8678788,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Sicilia"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Latteria Mamma Iabica",
+    "slug": "latteria-mamma-iabica",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJ-WC7C_PNExMR6IZDPvT615I",
+    "address": "Siracusa (SR)",
+    "lat": 37.0653839,
+    "lng": 15.2857294,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Sicilia"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Cantina Siciliana",
+    "slug": "cantina-siciliana",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJIS22P5phGRMRa6UW5Cer3a8",
+    "address": "Trapani (TP)",
+    "lat": 38.0155303,
+    "lng": 12.5138828,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Sicilia"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Caupona Taverna di Sicilia",
+    "slug": "caupona-taverna-di-sicilia",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJbRTwPCxiGRMR9tK3a7SPqJo",
+    "address": "Trapani (TP)",
+    "lat": 38.0151951,
+    "lng": 12.5074478,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Sicilia"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "ChiaroScuro",
+    "slug": "chiaroscuro",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJVVWFgAQ05xIRoKBLuFkILtU",
+    "address": "Cagliari (CA)",
+    "lat": 39.2204781,
+    "lng": 9.1070977,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Sardegna"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "La Locanda dei Buoni e Cattivi",
+    "slug": "la-locanda-dei-buoni-e-cattivi",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJU2pGIR005xIRqrkehdA-Kng",
+    "address": "Cagliari (CA)",
+    "lat": 39.2243264,
+    "lng": 9.1039316,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Sardegna"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Transumanza",
+    "slug": "transumanza",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJI2iA8Ps15xIRhJpTZRgVPyE",
+    "address": "Cagliari (CA)",
+    "lat": 39.2116495,
+    "lng": 9.1208047,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Sardegna"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Da Andrea al Cavallera",
+    "slug": "da-andrea-al-cavallera",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJE6nrMUix5xIRywWujI8M8BU",
+    "address": "Isola di San Pietro (SU)",
+    "lat": 39.1433641,
+    "lng": 8.3071786,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Sardegna"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Su Recreu",
+    "slug": "su-recreu",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJVVVVVZVe3BIRGjkkkaEA5UA",
+    "address": "Ittiri (SS)",
+    "lat": 40.5668841,
+    "lng": 8.5802789,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Sardegna"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Abbamele",
+    "slug": "abbamele",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJ48GrSc193hIR_Twgm2Usvfk",
+    "address": "Mamoiada (NU)",
+    "lat": 40.2125928,
+    "lng": 9.2838592,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Sardegna"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Il Rifugio",
+    "slug": "il-rifugio",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJRVgmQmiG3hIR-jfmeKI3xtg",
+    "address": "Nuoro (NU)",
+    "lat": 40.3196909,
+    "lng": 9.3353566,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Sardegna"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Letizia",
+    "slug": "letizia",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJn2n4gwYa5xIRe8t3BdXILCI",
+    "address": "Nuxis (SU)",
+    "lat": 39.1535289,
+    "lng": 8.7402047,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Sardegna"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Ada",
+    "slug": "ada",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJcQaaOiRG5xIRnFlHGpw0SOI",
+    "address": "San Sperate (SU)",
+    "lat": 39.3576688,
+    "lng": 9.0066837,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Sardegna"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "Il Vecchio Mulino",
+    "slug": "il-vecchio-mulino",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJxYNPDeRj3BIR8sr_QzGk3CM",
+    "address": "Sassari (SS)",
+    "lat": 40.7265763,
+    "lng": 8.5572792,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Sardegna"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  },
+  {
+    "name": "La Rosa dei Venti",
+    "slug": "la-rosa-dei-venti",
+    "url": "https://www.google.com/maps/search/?api=1&query=ristorante&query_place_id=ChIJJRfyUsqp3RIRXygkyXVFc6k",
+    "address": "Sennariolo (OR)",
+    "lat": 40.2011125,
+    "lng": 8.5029684,
+    "categories": [
+      "Osterie d'Italia"
+    ],
+    "regions": [
+      "Sardegna"
+    ],
+    "tipologie": [
+      "Osteria"
+    ],
+    "guide": "dissapore"
+  }
+]
