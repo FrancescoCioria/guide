@@ -33,6 +33,12 @@ App mappa che mostra locali/ristoranti recensiti da guide italiane.
 - [ ] Filtro per tipologia (pizzeria, osteria, ecc.)
 - [ ] Performance: il bundle JS è ~1.8MB (mapbox-gl) — valutare code splitting
 
+## Google Maps Geocoding API
+
+- Free tier: 1000 richieste/mese
+- API key in `.env` (`GOOGLE_MAPS_API_KEY`)
+- **2026-03-14**: usate ~820/1000 richieste (298 Pecora Nera + 520 Franchino)
+
 ## Comandi
 
 ```bash

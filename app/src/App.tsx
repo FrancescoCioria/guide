@@ -237,7 +237,10 @@ export default function App() {
         const r = parseFloat(l.rating)
         if (!isNaN(r) && r < 7) return false
       }
-      if (l.guide === 'pecora_nera' && l.categories.includes('La spesa di qualità')) return false
+      if (l.guide === 'pecora_nera' && l.categories.includes('La spesa di qualità')) {
+        const excluded = ['Macelleria', 'Pescheria', 'Utensileria']
+        if (l.tipologie.some((t) => excluded.includes(t))) return false
+      }
       return true
     }),
     [allLocales]
