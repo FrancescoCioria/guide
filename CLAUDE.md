@@ -8,18 +8,19 @@ App mappa che mostra locali/ristoranti recensiti da guide italiane.
 
 ## Fonti dati
 
-| Guida | Scraper | File | Totali | Su mappa |
-|-------|---------|------|--------|----------|
-| Pecora Nera | `scraper/fetch_pecora_nera.py` | `data/pecora_nera.json` | 1467 | 1169 |
-| Dissapore | `scraper/import_dissapore.py` | `data/dissapore.json` | 324 | 324 |
-| Franchino | dati da sito + `scraper/regeocode_franchino.py` | `data/franchino.json` | 1086 | 250 |
-| No Mayo | `scraper/fetch_nomayo.mjs` | `data/nomayo.json` | 42 | 42 |
+| Guida | Scraper | File | Totali | Geocodificati | Rating | Descrizioni |
+|-------|---------|------|--------|---------------|--------|-------------|
+| Pecora Nera | `scraper/fetch_pecora_nera.py` | `data/pecora_nera.json` | 1467 | 1467 (100%) | 777 (solo tavole/pause) | 1464 |
+| Dissapore | `scraper/import_dissapore.py` | `data/dissapore.json` | 324 | 324 | - | - |
+| Franchino | dati da sito + `scraper/regeocode_franchino.py` | `data/franchino.json` | 1086 | 770 | 967 | - |
+| No Mayo | `scraper/fetch_nomayo.mjs` | `data/nomayo.json` | 42 | 42 | 42 | 42 |
+
+### Filtri FE (dati in DB ma nascosti dalla mappa)
+- **Pecora Nera** "La spesa di qualità": escluse solo macelleria, pescheria, utensileria
+- **Franchino**: solo rating >= 7
+- Rating normalizzati su scala 0-10 (Pecora Nera era X/5 o X/10, No Mayo era bacchette 0-5)
 
 ## TODO
-
-### Geocoding
-- [ ] Franchino: solo 250/1086 geocodificati (Nominatim non trova molti indirizzi). Usare Google Geocoding API per migliorare la copertura
-- [ ] Pecora Nera: 298 locali senza coordinate. Ritentare con geocoder alternativo
 
 ### Dati
 - [ ] Franchino: molte tipologie sono "Altro" (457/1086) — migliorare la categorizzazione
